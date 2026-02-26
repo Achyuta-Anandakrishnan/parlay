@@ -594,7 +594,7 @@ PAGE = """
 
     function oddsToImpliedPct(oddsText) {
       if (!oddsText) return null;
-      const raw = String(oddsText).replace('?', '-').replace('+', '').trim();
+      const raw = String(oddsText).replace('−', '-').replace('+', '').trim();
       const val = Number(raw);
       if (!Number.isFinite(val) || val === 0) return null;
       if (val > 0) return (100 / (val + 100)) * 100;
@@ -603,10 +603,14 @@ PAGE = """
 
     function parseAmericanOdds(oddsText) {
       if (!oddsText) return null;
-      const val = Number(String(oddsText).replace('?', '-').trim());
+      const val = Number(String(oddsText).replace('−', '-').trim());
       if (!Number.isFinite(val) || val === 0) return null;
       if (val > 0) return 1 + (val / 100);
       return 1 + (100 / Math.abs(val));
+    }
+
+    function displayOdds(oddsText) {
+      return oddsText ? oddsText : 'Not out yet';
     }
 
     function decimalToAmerican(decimalOdds) {
@@ -879,7 +883,7 @@ PAGE = """
       return `<div class="picks">` + filtered.map((pick, idx) => {
         const side = pick.market.side;
         const team = side === 'home' ? pick.game.home : pick.game.away;
-        const odds = pick.market.odds || 'N/A';
+        const odds = pick.market.odds || 'Not out yet';
         const alreadyAdded = isSelected(pick.game.event_id, side);
         return `
           <article class="pick">
@@ -980,8 +984,8 @@ PAGE = """
                     data-league="${esc(g.league)}"
                   >
                     <span class="team">${esc(g.away)}</span>
-                    <span class="line">${esc(g.away_odds || 'N/A')}</span>
-                    <span class="imp">${awayPct ? awayPct.toFixed(1) + '% implied' : 'No line'}</span>
+                    <span class="line">${esc(displayOdds(g.away_odds))}</span>
+                    <span class="imp">${awayPct ? awayPct.toFixed(1) + '% implied' : 'Not out yet'}</span>
                   </button>
 
                   <button
@@ -997,8 +1001,8 @@ PAGE = """
                     data-league="${esc(g.league)}"
                   >
                     <span class="team">${esc(g.home)}</span>
-                    <span class="line">${esc(g.home_odds || 'N/A')}</span>
-                    <span class="imp">${homePct ? homePct.toFixed(1) + '% implied' : 'No line'}</span>
+                    <span class="line">${esc(displayOdds(g.home_odds))}</span>
+                    <span class="imp">${homePct ? homePct.toFixed(1) + '% implied' : 'Not out yet'}</span>
                   </button>
                 </div>
               </div>
