@@ -3,9 +3,14 @@ import math
 import os
 
 import requests
-from flask import Flask, jsonify, render_template_string
+from flask import Flask, jsonify, render_template, render_template_string, request
 from requests.adapters import HTTPAdapter
 from urllib3.util.retry import Retry
+
+from ml_pipeline.upcoming_dashboard_service import (
+    build_and_save_snapshot,
+    load_saved_snapshot,
+)
 
 # =========================
 # CONFIG
@@ -20,6 +25,7 @@ MAX_RETRIES = 2
 ESPN_BASE = "https://site.api.espn.com/apis/site/v2/sports"
 MARKET_SOURCE = "espn_moneyline_draftkings"
 GOOGLE_CLIENT_ID = os.getenv("GOOGLE_CLIENT_ID", "").strip()
+UPCOMING_DEFAULT_DAYS = 2
 
 LEAGUES = [
     ("Basketball", "NBA", "basketball", "nba"),
@@ -475,6 +481,7 @@ PAGE = """
     <div class="topbar-inner">
       <div class="brand"><span class="brand-dot"></span>Parlay Builder Pro</div>
       <div class="top-actions">
+        <a href="/tomorrow" class="mini-btn" style="text-decoration:none;display:inline-flex;align-items:center;">Upcoming Test</a>
         <button id="runBtn" class="refresh-btn">Refresh Board</button>
       </div>
     </div>
@@ -1340,6 +1347,47 @@ def home():
     return render_template_string(PAGE, google_client_id=GOOGLE_CLIENT_ID)
 
 
+@app.get("/tomorrow")
+@app.get("/upcoming")
+def tomorrow():
+    return render_template("tomorrow.html", default_days=UPCOMING_DEFAULT_DAYS, default_prop_type="points")
+
+
+@app.get("/api/tomorrow")
+def api_tomorrow():
+    try:
+        days = int(request.args.get("days", UPCOMING_DEFAULT_DAYS))
+    except ValueError:
+        days = UPCOMING_DEFAULT_DAYS
+
+    days = max(1, min(3, days))
+    refresh = str(request.args.get("refresh", "")).strip().lower() in {"1", "true", "yes"}
+    include_experimental = str(request.args.get("experimental", "1")).strip().lower() not in {"0", "false", "no"}
+    prop_type = str(request.args.get("prop_type", "points")).strip().lower()
+    if prop_type not in {"points", "rebounds", "assists"}:
+        prop_type = "points"
+
+    saved_snapshot = load_saved_snapshot(prop_type=prop_type)
+    if saved_snapshot and not refresh and int(saved_snapshot.get("window_days", days)) == days:
+        return jsonify(saved_snapshot)
+
+    try:
+        snapshot = build_and_save_snapshot(
+            prop_type=prop_type,
+            days=days,
+            refresh_props=refresh,
+            include_experimental=include_experimental,
+            start_offset=1,
+        )
+        return jsonify(snapshot)
+    except Exception as err:
+        if saved_snapshot:
+            saved_snapshot["stale_snapshot"] = True
+            saved_snapshot["error"] = str(err)
+            return jsonify(saved_snapshot)
+        return jsonify({"error": str(err)}), 500
+
+
 @app.get("/api/parlay")
 def api_parlay():
     try:
@@ -1350,4 +1398,3 @@ def api_parlay():
 
 if __name__ == "__main__":
     app.run(host="127.0.0.1", port=5000, debug=True)
-

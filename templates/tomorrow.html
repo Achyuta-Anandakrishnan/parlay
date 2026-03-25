@@ -1,0 +1,916 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Parlay Builder Pro - Upcoming Props Slate</title>
+  <style>
+    :root {
+      --bg: #090f16;
+      --panel: #111a25;
+      --panel-2: #162231;
+      --line: #25374a;
+      --text: #edf3fb;
+      --muted: #8ea4bc;
+      --green: #84ff43;
+      --teal: #35d9b5;
+      --blue: #55a9ff;
+      --red: #ff6c85;
+      --yellow: #ffd166;
+    }
+    * { box-sizing: border-box; }
+    body {
+      margin: 0;
+      font-family: "Bahnschrift", "Trebuchet MS", "Segoe UI", sans-serif;
+      color: var(--text);
+      background:
+        radial-gradient(900px 450px at 88% -15%, rgba(53, 217, 181, .15), transparent 60%),
+        radial-gradient(760px 380px at -5% 12%, rgba(85, 169, 255, .13), transparent 58%),
+        linear-gradient(180deg, #08111d, #090f16 40%, #070c12);
+      min-height: 100vh;
+    }
+    a { color: inherit; }
+    .topbar {
+      position: sticky;
+      top: 0;
+      z-index: 25;
+      border-bottom: 1px solid var(--line);
+      backdrop-filter: blur(8px);
+      background: rgba(6, 10, 16, .82);
+    }
+    .topbar-inner {
+      max-width: 1380px;
+      margin: 0 auto;
+      padding: 12px 18px;
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      gap: 12px;
+    }
+    .brand {
+      display: inline-flex;
+      align-items: center;
+      gap: 10px;
+      font-weight: 800;
+      letter-spacing: .04em;
+      text-transform: uppercase;
+    }
+    .brand-dot {
+      width: 10px;
+      height: 10px;
+      border-radius: 99px;
+      background: linear-gradient(180deg, var(--green), #4fdb14);
+      box-shadow: 0 0 16px rgba(132, 255, 67, .7);
+    }
+    .top-actions {
+      display: flex;
+      align-items: center;
+      gap: 10px;
+      flex-wrap: wrap;
+    }
+    .nav-link, .refresh-btn {
+      border: 1px solid var(--line);
+      border-radius: 9px;
+      padding: 10px 13px;
+      font-weight: 800;
+      letter-spacing: .05em;
+      text-transform: uppercase;
+      font-size: 12px;
+      cursor: pointer;
+      text-decoration: none;
+    }
+    .nav-link {
+      color: #d2e2f3;
+      background: rgba(9, 15, 22, .85);
+    }
+    .nav-link.active {
+      border-color: #4cbcfc;
+      background: linear-gradient(180deg, rgba(85, 169, 255, .24), rgba(85, 169, 255, .08));
+    }
+    .refresh-btn {
+      border: 0;
+      color: #051507;
+      background: linear-gradient(180deg, #a4ff76, #72f83b);
+    }
+    .refresh-btn:disabled { opacity: .6; cursor: not-allowed; }
+    .shell {
+      max-width: 1380px;
+      margin: 0 auto;
+      padding: 18px;
+      display: grid;
+      gap: 16px;
+    }
+    .card {
+      border: 1px solid var(--line);
+      border-radius: 15px;
+      background: linear-gradient(180deg, rgba(22, 34, 49, .97), rgba(16, 26, 37, .97));
+      box-shadow: 0 14px 34px rgba(0, 0, 0, .33);
+    }
+    .hero {
+      padding: 18px;
+      display: grid;
+      gap: 14px;
+    }
+    .kicker {
+      color: var(--teal);
+      font-size: 11px;
+      font-weight: 700;
+      letter-spacing: .09em;
+      text-transform: uppercase;
+    }
+    h1 {
+      margin: 0;
+      font-size: 30px;
+      line-height: 1.12;
+    }
+    .hero-copy { color: var(--muted); max-width: 920px; }
+    .hero-top {
+      display: flex;
+      justify-content: space-between;
+      gap: 18px;
+      align-items: flex-start;
+      flex-wrap: wrap;
+    }
+    .stamp {
+      color: var(--muted);
+      font-size: 12px;
+      text-align: right;
+    }
+    .meta-grid {
+      display: grid;
+      grid-template-columns: repeat(5, minmax(0, 1fr));
+      gap: 10px;
+    }
+    .meta-box {
+      border: 1px solid var(--line);
+      border-radius: 12px;
+      padding: 12px;
+      background: rgba(9, 15, 22, .52);
+    }
+    .meta-label {
+      color: var(--muted);
+      text-transform: uppercase;
+      letter-spacing: .07em;
+      font-size: 10px;
+      margin-bottom: 5px;
+    }
+    .meta-value {
+      font-size: 18px;
+      font-weight: 700;
+    }
+    .section {
+      padding: 14px;
+    }
+    .section-title {
+      color: var(--muted);
+      font-size: 12px;
+      text-transform: uppercase;
+      letter-spacing: .08em;
+      margin: 0 0 12px;
+    }
+    .controls-grid {
+      display: grid;
+      grid-template-columns: repeat(8, minmax(0, 1fr));
+      gap: 10px;
+      align-items: end;
+    }
+    .control label {
+      display: block;
+      color: var(--muted);
+      font-size: 11px;
+      margin-bottom: 5px;
+      text-transform: uppercase;
+      letter-spacing: .07em;
+    }
+    .control input, .control select {
+      width: 100%;
+      border: 1px solid var(--line);
+      border-radius: 9px;
+      background: rgba(9, 15, 22, .85);
+      color: var(--text);
+      padding: 10px;
+    }
+    .toggle-wrap {
+      display: flex;
+      gap: 8px;
+      align-items: center;
+      min-height: 40px;
+      border: 1px solid var(--line);
+      border-radius: 9px;
+      padding: 10px 12px;
+      background: rgba(9, 15, 22, .72);
+    }
+    .muted-note { color: var(--muted); font-size: 13px; }
+    .coming-soon {
+      display: flex;
+      gap: 8px;
+      flex-wrap: wrap;
+      align-items: center;
+    }
+    .soon-pill, .flag, .model-pill {
+      display: inline-flex;
+      align-items: center;
+      gap: 6px;
+      border-radius: 999px;
+      padding: 5px 10px;
+      font-size: 11px;
+      text-transform: uppercase;
+      letter-spacing: .06em;
+      border: 1px solid var(--line);
+      background: rgba(9, 15, 22, .7);
+    }
+    .soon-pill { color: #d4dfeb; opacity: .8; }
+    .flag-low { color: var(--yellow); border-color: rgba(255, 209, 102, .4); }
+    .flag-tail { color: #ffd4a8; border-color: rgba(255, 183, 77, .35); }
+    .flag-extreme { color: #ffc2cd; border-color: rgba(255, 108, 133, .35); }
+    .flag-exp { color: #a6d8ff; border-color: rgba(85, 169, 255, .35); }
+    .flag-ok { color: #d0e4f8; }
+    .games-stack {
+      display: grid;
+      gap: 14px;
+    }
+    .game-card {
+      border: 1px solid var(--line);
+      border-radius: 14px;
+      background: rgba(9, 15, 22, .52);
+      overflow: hidden;
+    }
+    .game-head {
+      padding: 14px;
+      display: flex;
+      justify-content: space-between;
+      gap: 12px;
+      align-items: flex-start;
+      border-bottom: 1px solid rgba(37, 55, 74, .7);
+    }
+    .game-title {
+      font-size: 20px;
+      font-weight: 800;
+      margin-bottom: 4px;
+    }
+    .game-sub { color: var(--muted); font-size: 13px; }
+    .game-pills {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 8px;
+      justify-content: flex-end;
+    }
+    .table-wrap { overflow-x: auto; }
+    table {
+      width: 100%;
+      border-collapse: collapse;
+      min-width: 1080px;
+    }
+    th, td {
+      text-align: left;
+      padding: 11px 12px;
+      border-bottom: 1px solid rgba(37, 55, 74, .65);
+      vertical-align: top;
+    }
+    th {
+      color: var(--muted);
+      font-size: 11px;
+      text-transform: uppercase;
+      letter-spacing: .07em;
+      background: rgba(9, 15, 22, .75);
+      position: sticky;
+      top: 0;
+    }
+    tr:hover td { background: rgba(18, 27, 39, .55); }
+    .player-name { font-weight: 700; margin-bottom: 4px; }
+    .subline { color: var(--muted); font-size: 12px; }
+    .line-pill {
+      display: inline-flex;
+      gap: 6px;
+      align-items: center;
+      border: 1px solid var(--line);
+      border-radius: 999px;
+      padding: 5px 10px;
+      background: rgba(9, 15, 22, .7);
+      font-size: 12px;
+      font-weight: 700;
+    }
+    .price-stack { display: grid; gap: 4px; }
+    .proj-badge {
+      display: inline-flex;
+      flex-wrap: wrap;
+      gap: 6px;
+      align-items: center;
+      border-radius: 9px;
+      padding: 8px 10px;
+      background: rgba(9, 15, 22, .72);
+      border: 1px solid var(--line);
+      font-size: 12px;
+    }
+    .proj-main { font-weight: 800; }
+    .edge-cell { min-width: 220px; }
+    .edge-meta {
+      display: flex;
+      justify-content: space-between;
+      gap: 8px;
+      font-size: 12px;
+      margin-bottom: 6px;
+    }
+    .edge-bar {
+      position: relative;
+      height: 12px;
+      border-radius: 999px;
+      background:
+        linear-gradient(90deg, rgba(255, 108, 133, .16) 0 50%, rgba(132, 255, 67, .16) 50% 100%);
+      overflow: hidden;
+      border: 1px solid rgba(37, 55, 74, .8);
+    }
+    .edge-mid {
+      position: absolute;
+      top: -1px;
+      bottom: -1px;
+      left: 50%;
+      width: 1px;
+      background: rgba(237, 243, 251, .45);
+    }
+    .edge-fill {
+      position: absolute;
+      top: 0;
+      bottom: 0;
+    }
+    .edge-fill.over {
+      left: 50%;
+      background: linear-gradient(90deg, rgba(132, 255, 67, .35), rgba(132, 255, 67, .95));
+    }
+    .edge-fill.under {
+      right: 50%;
+      background: linear-gradient(270deg, rgba(255, 108, 133, .35), rgba(255, 108, 133, .95));
+    }
+    .flag-wrap {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 6px;
+      max-width: 220px;
+    }
+    .exp-box {
+      display: grid;
+      gap: 4px;
+      font-size: 12px;
+    }
+    .empty {
+      border: 1px dashed var(--line);
+      border-radius: 12px;
+      padding: 18px 14px;
+      text-align: center;
+      color: var(--muted);
+      font-size: 13px;
+    }
+    .error { color: var(--red); }
+    .test-grid {
+      display: grid;
+      grid-template-columns: 1.1fr .9fr;
+      gap: 12px;
+    }
+    .list {
+      display: grid;
+      gap: 8px;
+    }
+    .list-item {
+      border: 1px solid var(--line);
+      border-radius: 11px;
+      background: rgba(9, 15, 22, .55);
+      padding: 10px;
+      font-size: 13px;
+    }
+    @media (max-width: 1120px) {
+      .meta-grid { grid-template-columns: repeat(3, minmax(0, 1fr)); }
+      .controls-grid { grid-template-columns: repeat(3, minmax(0, 1fr)); }
+      .test-grid { grid-template-columns: 1fr; }
+    }
+    @media (max-width: 760px) {
+      .meta-grid { grid-template-columns: repeat(2, minmax(0, 1fr)); }
+      .controls-grid { grid-template-columns: repeat(2, minmax(0, 1fr)); }
+      .game-head { flex-direction: column; }
+      .game-pills { justify-content: flex-start; }
+    }
+  </style>
+</head>
+<body>
+  <header class="topbar">
+    <div class="topbar-inner">
+      <div class="brand"><span class="brand-dot"></span>Parlay Builder Pro</div>
+      <div class="top-actions">
+        <a class="nav-link" href="/">Main Board</a>
+        <a class="nav-link active" href="/tomorrow">Upcoming Test</a>
+        <button id="refreshBtn" class="refresh-btn">Refresh Snapshot</button>
+      </div>
+    </div>
+  </header>
+
+  <main class="shell">
+    <section class="hero card">
+      <div class="hero-top">
+        <div>
+          <div class="kicker">Real-life testing dashboard</div>
+          <h1>Upcoming NBA player props slate</h1>
+          <div id="heroCopy" class="hero-copy">Production context-only calibrated points is the default ranking model. Rebounds are available when selected. Assists remain coming soon.</div>
+        </div>
+        <div id="generatedStamp" class="stamp">Snapshot pending...</div>
+      </div>
+      <div class="meta-grid">
+        <div class="meta-box"><div class="meta-label">Games</div><div id="mGames" class="meta-value">-</div></div>
+        <div class="meta-box"><div class="meta-label">Props Matched</div><div id="mMatched" class="meta-value">-</div></div>
+        <div class="meta-box"><div class="meta-label">Average Edge</div><div id="mAvgEdge" class="meta-value">-</div></div>
+        <div class="meta-box"><div class="meta-label">Above Threshold</div><div id="mThreshold" class="meta-value">-</div></div>
+        <div class="meta-box"><div class="meta-label">Risk Flags</div><div id="mRisky" class="meta-value">-</div></div>
+      </div>
+    </section>
+
+    <section class="card section">
+      <div class="section-title">Filters & Controls</div>
+      <div class="controls-grid">
+        <div class="control">
+          <label for="propTypeFilter">Prop type</label>
+          <select id="propTypeFilter">
+            <option value="points">Points</option>
+            <option value="rebounds">Rebounds</option>
+            <option value="assists">Assists</option>
+          </select>
+        </div>
+        <div class="control">
+          <label for="gameFilter">Game</label>
+          <select id="gameFilter"><option value="all">All games</option></select>
+        </div>
+        <div class="control">
+          <label for="bookmakerFilter">Bookmaker</label>
+          <select id="bookmakerFilter"><option value="all">All books</option></select>
+        </div>
+        <div class="control">
+          <label for="sideFilter">Side</label>
+          <select id="sideFilter">
+            <option value="all">Over + Under</option>
+            <option value="over">Over only</option>
+            <option value="under">Under only</option>
+          </select>
+        </div>
+        <div class="control">
+          <label for="minEdgeFilter">Min edge</label>
+          <input id="minEdgeFilter" type="number" min="0" max="1" step="0.01" value="0.00" />
+        </div>
+        <div class="control">
+          <label for="searchFilter">Player search</label>
+          <input id="searchFilter" type="search" placeholder="Search player name" />
+        </div>
+        <div class="control">
+          <label for="sortFilter">Sort</label>
+          <select id="sortFilter">
+            <option value="edge_desc">Edge high to low</option>
+            <option value="edge_asc">Edge low to high</option>
+            <option value="player_asc">Player A-Z</option>
+            <option value="line_desc">Highest line</option>
+          </select>
+        </div>
+        <div class="control">
+          <label>Experimental compare</label>
+          <div class="toggle-wrap">
+            <input id="expToggle" type="checkbox" />
+            <span class="muted-note">Show OOF-minutes comparison</span>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <section class="card section">
+      <div class="section-title">Model scope</div>
+      <div class="coming-soon">
+        <span id="primaryModelPill" class="model-pill">Primary: production context-only calibrated points</span>
+        <span id="experimentalModelPill" class="model-pill">Experimental: OOF-minutes stacked points</span>
+        <span id="reboundsStatusPill" class="soon-pill">Rebounds available</span>
+        <span id="assistsStatusPill" class="soon-pill">Assists coming soon</span>
+      </div>
+    </section>
+
+    <section class="card section">
+      <div class="section-title">Upcoming slate</div>
+      <div id="gamesContainer" class="games-stack">
+        <div class="empty">Loading upcoming slate...</div>
+      </div>
+    </section>
+
+    <section class="card section">
+      <div class="section-title">Tomorrow test plan</div>
+      <div id="testPlan" class="test-grid">
+        <div class="empty">Loading test plan...</div>
+      </div>
+    </section>
+  </main>
+
+  <script>
+    const DEFAULT_DAYS = {{ default_days|tojson }};
+    const DEFAULT_PROP_TYPE = {{ default_prop_type|tojson }};
+    const refreshBtn = document.getElementById('refreshBtn');
+    const propTypeFilter = document.getElementById('propTypeFilter');
+    const gameFilter = document.getElementById('gameFilter');
+    const bookmakerFilter = document.getElementById('bookmakerFilter');
+    const sideFilter = document.getElementById('sideFilter');
+    const minEdgeFilter = document.getElementById('minEdgeFilter');
+    const searchFilter = document.getElementById('searchFilter');
+    const sortFilter = document.getElementById('sortFilter');
+    const expToggle = document.getElementById('expToggle');
+    const generatedStamp = document.getElementById('generatedStamp');
+    const heroCopy = document.getElementById('heroCopy');
+    const gamesContainer = document.getElementById('gamesContainer');
+    const testPlanEl = document.getElementById('testPlan');
+
+    const mGames = document.getElementById('mGames');
+    const mMatched = document.getElementById('mMatched');
+    const mAvgEdge = document.getElementById('mAvgEdge');
+    const mThreshold = document.getElementById('mThreshold');
+    const mRisky = document.getElementById('mRisky');
+    const primaryModelPill = document.getElementById('primaryModelPill');
+    const experimentalModelPill = document.getElementById('experimentalModelPill');
+    const reboundsStatusPill = document.getElementById('reboundsStatusPill');
+    const assistsStatusPill = document.getElementById('assistsStatusPill');
+
+    let snapshot = null;
+
+    function esc(text) {
+      return String(text ?? '')
+        .replaceAll('&', '&amp;')
+        .replaceAll('<', '&lt;')
+        .replaceAll('>', '&gt;')
+        .replaceAll('"', '&quot;')
+        .replaceAll("'", '&#039;');
+    }
+
+    function fmtPct(value) {
+      const n = Number(value);
+      if (!Number.isFinite(n)) return '-';
+      return `${(n * 100).toFixed(1)}%`;
+    }
+
+    function fmtNum(value, digits = 1) {
+      const n = Number(value);
+      if (!Number.isFinite(n)) return '-';
+      return n.toFixed(digits);
+    }
+
+    function fmtOdds(value) {
+      const n = Number(value);
+      if (!Number.isFinite(n)) return '-';
+      return n > 0 ? `+${n}` : `${n}`;
+    }
+
+    function fmtEt(value) {
+      if (!value) return '-';
+      const date = new Date(value);
+      if (Number.isNaN(date.getTime())) return '-';
+      return date.toLocaleString([], {
+        weekday: 'short',
+        month: 'short',
+        day: 'numeric',
+        hour: 'numeric',
+        minute: '2-digit',
+        timeZoneName: 'short',
+      });
+    }
+
+    function parseFlags(flagText) {
+      if (!flagText || flagText === 'OK') return [];
+      return String(flagText).split('|').filter(Boolean);
+    }
+
+    function getFlagClass(flag) {
+      if (flag === 'LOW_SAMPLE') return 'flag flag-low';
+      if (flag === 'TAIL_CALIBRATION') return 'flag flag-tail';
+      if (flag === 'EXTREME_EDGE') return 'flag flag-extreme';
+      if (flag === 'EXPERIMENTAL_DIFFERENCE') return 'flag flag-exp';
+      return 'flag flag-ok';
+    }
+
+    function buildEdgeBar(prop) {
+      const side = prop.best_side_prod || 'over';
+      const rawEdge = Number(prop.best_edge_prod) || 0;
+      const capped = Math.min(Math.abs(rawEdge), 0.20);
+      const widthPct = (capped / 0.20) * 50;
+      const fillClass = side === 'under' ? 'under' : 'over';
+      return `
+        <div class="edge-meta">
+          <strong>${esc(side.toUpperCase())}</strong>
+          <span>${fmtPct(rawEdge)}</span>
+        </div>
+        <div class="edge-bar">
+          <span class="edge-mid"></span>
+          <span class="edge-fill ${fillClass}" style="width:${widthPct.toFixed(1)}%;"></span>
+        </div>
+      `;
+    }
+
+    function buildProjectionBadge(prop) {
+      const label = prop.predicted_value_label || snapshot?.prop_type || 'value';
+      return `
+        <div class="proj-badge" title="${esc(prop.notes || '')}">
+          <span class="proj-main">Proj ${fmtNum(prop.predicted_value_prod, 1)} ${esc(label)}</span>
+          <span>vs Line ${fmtNum(prop.line, 1)}</span>
+        </div>
+      `;
+    }
+
+    function renderFlags(prop) {
+      const flags = parseFlags(prop.confidence_flag);
+      if (!flags.length) {
+        return '<span class="flag flag-ok">OK</span>';
+      }
+      return flags.map((flag) => `<span class="${getFlagClass(flag)}" title="${esc(prop.notes || '')}">${esc(flag)}</span>`).join('');
+    }
+
+    function compareSorter(left, right) {
+      const sortMode = sortFilter.value;
+      if (sortMode === 'edge_asc') return (Number(left.best_edge_prod) || 0) - (Number(right.best_edge_prod) || 0);
+      if (sortMode === 'player_asc') return String(left.player_name || '').localeCompare(String(right.player_name || ''));
+      if (sortMode === 'line_desc') return (Number(right.line) || 0) - (Number(left.line) || 0);
+      return (Number(right.best_edge_prod) || 0) - (Number(left.best_edge_prod) || 0);
+    }
+
+    function experimentalEnabled() {
+      return propTypeFilter.value === 'points' && Boolean(snapshot?.experimental_available);
+    }
+
+    function updateModelScope() {
+      const summary = snapshot?.summary || {};
+      const selected = propTypeFilter.value;
+      primaryModelPill.textContent = summary.primary_model || 'Primary model unavailable';
+      if (selected === 'points') {
+        experimentalModelPill.textContent = snapshot?.experimental_available
+          ? 'Experimental: OOF-minutes stacked points'
+          : 'Experimental points comparison unavailable';
+      } else if (selected === 'rebounds') {
+        experimentalModelPill.textContent = 'Experimental comparison not available for rebounds yet.';
+      } else {
+        experimentalModelPill.textContent = 'Assists model not available yet.';
+      }
+      reboundsStatusPill.textContent = 'Rebounds available';
+      assistsStatusPill.textContent = 'Assists coming soon';
+    }
+
+    function syncExperimentalToggle() {
+      const enabled = experimentalEnabled();
+      expToggle.disabled = !enabled;
+      if (!enabled) {
+        expToggle.checked = false;
+      }
+    }
+
+    function updateHeroCopy() {
+      const propType = snapshot?.display_prop_type || snapshot?.prop_type || propTypeFilter.value;
+      const productionModel = snapshot?.summary?.primary_model || 'Production model';
+      const experimentalCopy = propType === 'points'
+        ? 'Experimental OOF-minutes output is available only for comparison.'
+        : propType === 'rebounds'
+          ? 'Rebounds uses the new context-only calibrated production model.'
+          : 'Assists are intentionally marked coming soon until a trained model exists.';
+      heroCopy.textContent = `${productionModel} is the default ranking path for ${propType}. ${experimentalCopy}`;
+    }
+
+    function getFilteredProps() {
+      if (!snapshot) return [];
+      const query = searchFilter.value.trim().toLowerCase();
+      const gameValue = gameFilter.value;
+      const bookmakerValue = bookmakerFilter.value;
+      const sideValue = sideFilter.value;
+      const minEdge = Number(minEdgeFilter.value) || 0;
+
+      return (snapshot.props || []).filter((prop) => {
+        if (gameValue !== 'all' && prop.schedule_key !== gameValue) return false;
+        if (bookmakerValue !== 'all' && prop.bookmaker !== bookmakerValue) return false;
+        if (sideValue !== 'all' && prop.best_side_prod !== sideValue) return false;
+        if ((Number(prop.best_edge_prod) || 0) < minEdge) return false;
+        if (query && !String(prop.player_name || '').toLowerCase().includes(query)) return false;
+        return true;
+      }).sort(compareSorter);
+    }
+
+    function updateSummary(filteredProps) {
+      const riskyCount = filteredProps.filter((prop) => prop.confidence_flag && prop.confidence_flag !== 'OK').length;
+      const visibleGames = new Set(filteredProps.map((prop) => prop.schedule_key)).size;
+      const avgEdge = filteredProps.length
+        ? filteredProps.reduce((sum, prop) => sum + (Number(prop.best_edge_prod) || 0), 0) / filteredProps.length
+        : 0;
+      const thresholdCount = filteredProps.filter((prop) => (Number(prop.best_edge_prod) || 0) >= (Number(minEdgeFilter.value) || 0)).length;
+
+      mGames.textContent = visibleGames || 0;
+      mMatched.textContent = filteredProps.filter((prop) => Number.isFinite(Number(prop.predicted_value_prod))).length;
+      mAvgEdge.textContent = fmtPct(avgEdge);
+      mThreshold.textContent = thresholdCount;
+      mRisky.textContent = riskyCount;
+    }
+
+    function renderGames() {
+      const filteredProps = getFilteredProps();
+      updateSummary(filteredProps);
+
+      if (!snapshot || !(snapshot.games || []).length) {
+        gamesContainer.innerHTML = '<div class="empty">No upcoming NBA games found for this window.</div>';
+        return;
+      }
+
+      const propsByGame = filteredProps.reduce((acc, prop) => {
+        (acc[prop.schedule_key] ||= []).push(prop);
+        return acc;
+      }, {});
+
+      const sections = (snapshot.games || []).map((game) => {
+        if (gameFilter.value !== 'all' && game.schedule_key !== gameFilter.value) return '';
+        const rows = (propsByGame[game.schedule_key] || []).sort(compareSorter);
+        const expVisible = expToggle.checked && experimentalEnabled();
+        const body = rows.length ? rows.map((prop) => `
+          <tr>
+            <td>
+              <div class="player-name">${esc(prop.player_name)}</div>
+              <div class="subline">${esc(prop.away_team)} @ ${esc(prop.home_team)}</div>
+            </td>
+            <td>
+              <div>${esc(prop.bookmaker)}</div>
+              <div class="subline">${esc(prop.display_prop_type || snapshot?.prop_type || prop.prop_type || 'prop')}</div>
+            </td>
+            <td><span class="line-pill">${fmtNum(prop.line, 1)}</span></td>
+            <td class="price-stack">
+              <span>O ${esc(fmtOdds(prop.over_price))}</span>
+              <span>U ${esc(fmtOdds(prop.under_price))}</span>
+            </td>
+            <td>${buildProjectionBadge(prop)}</td>
+            <td class="edge-cell">${buildEdgeBar(prop)}</td>
+            <td><div class="flag-wrap">${renderFlags(prop)}</div></td>
+            <td style="display:${expVisible ? 'table-cell' : 'none'};">
+              <div class="exp-box">
+                <div>Exp proj ${fmtNum(prop.predicted_value_exp, 1)}</div>
+                <div>Exp edge ${fmtPct(prop.best_edge_exp)}</div>
+              </div>
+            </td>
+          </tr>
+        `).join('') : `<tr><td colspan="${expVisible ? 8 : 7}"><div class="empty">No props match the current filters for this game.</div></td></tr>`;
+
+        return `
+          <section class="game-card">
+            <div class="game-head">
+              <div>
+                <div class="game-title">${esc(game.away_team)} @ ${esc(game.home_team)}</div>
+                <div class="game-sub">${esc(fmtEt(game.commence_time))}${game.broadcast ? ' • ' + esc(game.broadcast) : ''}</div>
+              </div>
+              <div class="game-pills">
+                <span class="model-pill">${game.props_count || 0} props</span>
+                <span class="model-pill">${game.matched_props || 0} matched</span>
+              </div>
+            </div>
+            <div class="table-wrap">
+              <table>
+                <thead>
+                  <tr>
+                    <th>Player</th>
+                    <th>Book</th>
+                    <th>Line</th>
+                    <th>Prices</th>
+                    <th>Production</th>
+                    <th>Edge</th>
+                    <th>Flags</th>
+                    <th style="display:${expVisible ? 'table-cell' : 'none'};">Experimental</th>
+                  </tr>
+                </thead>
+                <tbody>${body}</tbody>
+              </table>
+            </div>
+          </section>
+        `;
+      }).filter(Boolean).join('');
+
+      gamesContainer.innerHTML = sections || '<div class="empty">No games match the selected filters.</div>';
+    }
+
+    function renderTestPlan() {
+      if (!snapshot) {
+        testPlanEl.innerHTML = '<div class="empty">No test plan available.</div>';
+        return;
+      }
+      const plan = snapshot.test_plan || {};
+      const excluded = plan.excluded_examples || [];
+      const excludedList = excluded.length
+        ? excluded.map((item) => `
+            <div class="list-item">
+              <strong>${esc(item.player_name)}</strong> - ${esc(item.away_team)} @ ${esc(item.home_team)} - ${esc(item.bookmaker)} - Line ${fmtNum(item.line, 1)} - ${esc(item.confidence_flag)}
+            </div>
+          `).join('')
+        : '<div class="empty">No flagged exclusions in the current snapshot.</div>';
+
+      testPlanEl.innerHTML = `
+        <div class="list">
+          <div class="list-item"><strong>Props in scope:</strong> ${plan.props_in_scope ?? 0}</div>
+          <div class="list-item"><strong>Primary model:</strong> ${esc(plan.primary_model || '-')}</div>
+          <div class="list-item"><strong>Experimental model:</strong> ${esc(plan.experimental_model || '-')}</div>
+          <div class="list-item"><strong>Excluded due to flags:</strong> ${plan.excluded_due_to_flags ?? 0}</div>
+          ${(plan.notes || []).map((note) => `<div class="list-item">${esc(note)}</div>`).join('')}
+        </div>
+        <div class="list">
+          <div class="list-item"><strong>Excluded examples</strong></div>
+          ${excludedList}
+        </div>
+      `;
+    }
+
+    function populateFilters() {
+      if (!snapshot) return;
+
+      const gameValue = gameFilter.value;
+      const bookmakerValue = bookmakerFilter.value;
+
+      gameFilter.innerHTML = ['<option value="all">All games</option>']
+        .concat((snapshot.games || []).map((game) => `<option value="${esc(game.schedule_key)}">${esc(game.away_team)} @ ${esc(game.home_team)}</option>`))
+        .join('');
+
+      bookmakerFilter.innerHTML = ['<option value="all">All books</option>']
+        .concat((snapshot.bookmakers || []).map((book) => `<option value="${esc(book)}">${esc(book)}</option>`))
+        .join('');
+
+      if ([...gameFilter.options].some((option) => option.value === gameValue)) gameFilter.value = gameValue;
+      if ([...bookmakerFilter.options].some((option) => option.value === bookmakerValue)) bookmakerFilter.value = bookmakerValue;
+    }
+
+    function buildSnapshotUrl(refresh = false) {
+      try {
+        const base = window.location.origin && window.location.origin !== 'null'
+          ? window.location.origin
+          : window.location.href;
+        const url = new URL('/api/tomorrow', base);
+        url.searchParams.set('days', String(DEFAULT_DAYS));
+        url.searchParams.set('prop_type', propTypeFilter.value || DEFAULT_PROP_TYPE);
+        url.searchParams.set('refresh', refresh ? '1' : '0');
+        return url.toString();
+      } catch (error) {
+        const params = new URLSearchParams({
+          days: String(DEFAULT_DAYS),
+          prop_type: propTypeFilter.value || DEFAULT_PROP_TYPE,
+          refresh: refresh ? '1' : '0',
+        });
+        return `/api/tomorrow?${params.toString()}`;
+      }
+    }
+
+    async function fetchSnapshot(refresh = false) {
+      refreshBtn.disabled = true;
+      generatedStamp.textContent = refresh ? 'Refreshing snapshot...' : 'Loading snapshot...';
+      try {
+        const response = await fetch(buildSnapshotUrl(refresh));
+        const data = await response.json();
+        if (!response.ok) throw new Error(data.error || 'Failed to load snapshot');
+        snapshot = data;
+        try {
+          updateModelScope();
+        } catch (error) {
+          throw new Error(`updateModelScope: ${error.message}`);
+        }
+        try {
+          updateHeroCopy();
+        } catch (error) {
+          throw new Error(`updateHeroCopy: ${error.message}`);
+        }
+        try {
+          syncExperimentalToggle();
+        } catch (error) {
+          throw new Error(`syncExperimentalToggle: ${error.message}`);
+        }
+        try {
+          populateFilters();
+        } catch (error) {
+          throw new Error(`populateFilters: ${error.message}`);
+        }
+        try {
+          renderTestPlan();
+        } catch (error) {
+          throw new Error(`renderTestPlan: ${error.message}`);
+        }
+        try {
+          renderGames();
+        } catch (error) {
+          throw new Error(`renderGames: ${error.message}`);
+        }
+        try {
+          generatedStamp.textContent = `Snapshot: ${fmtEt(data.generated_at)} • ${esc(data.window_label || '')}`;
+        } catch (error) {
+          throw new Error(`generatedStamp: ${error.message}`);
+        }
+      } catch (error) {
+        console.error('tomorrow dashboard error', error);
+        gamesContainer.innerHTML = `<div class="empty error">${esc(error.message)}</div>`;
+        testPlanEl.innerHTML = '<div class="empty">No test plan available.</div>';
+        generatedStamp.textContent = 'Snapshot unavailable';
+      } finally {
+        refreshBtn.disabled = false;
+      }
+    }
+
+    [gameFilter, bookmakerFilter, sideFilter, minEdgeFilter, searchFilter, sortFilter, expToggle].forEach((input) => {
+      input.addEventListener('input', renderGames);
+      input.addEventListener('change', renderGames);
+    });
+
+    propTypeFilter.value = DEFAULT_PROP_TYPE;
+    propTypeFilter.addEventListener('change', () => fetchSnapshot(false));
+    refreshBtn.addEventListener('click', () => fetchSnapshot(true));
+    fetchSnapshot(false);
+  </script>
+</body>
+</html>

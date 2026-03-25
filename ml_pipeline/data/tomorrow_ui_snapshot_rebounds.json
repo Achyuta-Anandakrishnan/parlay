@@ -1,0 +1,165 @@
+{
+  "generated_at": "2026-03-25T14:39:49.636241Z",
+  "window_days": 2,
+  "window_label": "Next 2 days",
+  "prop_type": "rebounds",
+  "display_prop_type": "rebounds",
+  "games": [
+    {
+      "schedule_key": "2026-03-26|charlotte hornets|new york knicks",
+      "event_id": "401810918",
+      "commence_time": "2026-03-26T23:00:00Z",
+      "home_team": "Charlotte Hornets",
+      "away_team": "New York Knicks",
+      "broadcast": "NBA TV",
+      "props_count": 0,
+      "matched_props": 0
+    },
+    {
+      "schedule_key": "2026-03-26|detroit pistons|new orleans pelicans",
+      "event_id": "401810919",
+      "commence_time": "2026-03-26T23:00:00Z",
+      "home_team": "Detroit Pistons",
+      "away_team": "New Orleans Pelicans",
+      "broadcast": "FanDuel SN DET, GCSEN, Pelicans.com, NBA League Pass",
+      "props_count": 0,
+      "matched_props": 0
+    },
+    {
+      "schedule_key": "2026-03-26|orlando magic|sacramento kings",
+      "event_id": "401810920",
+      "commence_time": "2026-03-26T23:00:00Z",
+      "home_team": "Orlando Magic",
+      "away_team": "Sacramento Kings",
+      "broadcast": "FanDuel SN FL, NBC Sports CA, NBA League Pass",
+      "props_count": 0,
+      "matched_props": 0
+    },
+    {
+      "schedule_key": "2026-03-27|indiana pacers|los angeles clippers",
+      "event_id": "401810921",
+      "commence_time": "2026-03-27T23:00:00Z",
+      "home_team": "Indiana Pacers",
+      "away_team": "LA Clippers",
+      "broadcast": "FanDuel SN IN, FanDuel SN SoCal, NBA League Pass",
+      "props_count": 0,
+      "matched_props": 0
+    },
+    {
+      "schedule_key": "2026-03-27|boston celtics|atlanta hawks",
+      "event_id": "401810922",
+      "commence_time": "2026-03-27T23:30:00Z",
+      "home_team": "Boston Celtics",
+      "away_team": "Atlanta Hawks",
+      "broadcast": "NBC Sports BO, FanDuel SN SE, NBA League Pass",
+      "props_count": 0,
+      "matched_props": 0
+    },
+    {
+      "schedule_key": "2026-03-27|cleveland cavaliers|miami heat",
+      "event_id": "401810923",
+      "commence_time": "2026-03-27T23:30:00Z",
+      "home_team": "Cleveland Cavaliers",
+      "away_team": "Miami Heat",
+      "broadcast": "NBA TV",
+      "props_count": 0,
+      "matched_props": 0
+    },
+    {
+      "schedule_key": "2026-03-28|memphis grizzlies|houston rockets",
+      "event_id": "401810924",
+      "commence_time": "2026-03-28T00:00:00Z",
+      "home_team": "Memphis Grizzlies",
+      "away_team": "Houston Rockets",
+      "broadcast": "FanDuel SN SE, Space City Home Network, NBA League Pass",
+      "props_count": 0,
+      "matched_props": 0
+    },
+    {
+      "schedule_key": "2026-03-28|oklahoma city thunder|chicago bulls",
+      "event_id": "401810925",
+      "commence_time": "2026-03-28T00:00:00Z",
+      "home_team": "Oklahoma City Thunder",
+      "away_team": "Chicago Bulls",
+      "broadcast": "NBA TV",
+      "props_count": 0,
+      "matched_props": 0
+    },
+    {
+      "schedule_key": "2026-03-28|toronto raptors|new orleans pelicans",
+      "event_id": "401810926",
+      "commence_time": "2026-03-28T00:30:00Z",
+      "home_team": "Toronto Raptors",
+      "away_team": "New Orleans Pelicans",
+      "broadcast": "GCSEN, Pelicans.com, NBA League Pass, Sportsnet",
+      "props_count": 0,
+      "matched_props": 0
+    },
+    {
+      "schedule_key": "2026-03-28|denver nuggets|utah jazz",
+      "event_id": "401810927",
+      "commence_time": "2026-03-28T01:00:00Z",
+      "home_team": "Denver Nuggets",
+      "away_team": "Utah Jazz",
+      "broadcast": "Altitude Sports, KJZZ-TV, Jazz+, NBA League Pass",
+      "props_count": 0,
+      "matched_props": 0
+    },
+    {
+      "schedule_key": "2026-03-28|golden state warriors|washington wizards",
+      "event_id": "401810928",
+      "commence_time": "2026-03-28T02:00:00Z",
+      "home_team": "Golden State Warriors",
+      "away_team": "Washington Wizards",
+      "broadcast": "MNMT, NBA League Pass, NBC Sports BA",
+      "props_count": 0,
+      "matched_props": 0
+    },
+    {
+      "schedule_key": "2026-03-28|portland trail blazers|dallas mavericks",
+      "event_id": "401810929",
+      "commence_time": "2026-03-28T02:00:00Z",
+      "home_team": "Portland Trail Blazers",
+      "away_team": "Dallas Mavericks",
+      "broadcast": "NBA TV",
+      "props_count": 0,
+      "matched_props": 0
+    },
+    {
+      "schedule_key": "2026-03-28|los angeles lakers|brooklyn nets",
+      "event_id": "401810930",
+      "commence_time": "2026-03-28T02:30:00Z",
+      "home_team": "Los Angeles Lakers",
+      "away_team": "Brooklyn Nets",
+      "broadcast": "Spectrum Sports Net, Spectrum Sports Net +, YES, NBA League Pass",
+      "props_count": 0,
+      "matched_props": 0
+    }
+  ],
+  "props": [],
+  "summary": {
+    "games_found": 13,
+    "props_found": 0,
+    "matched_props": 0,
+    "bookmakers": [],
+    "average_edge_prod": 0.0,
+    "above_threshold_count": 0,
+    "risky_props_count": 0,
+    "primary_model": "Production: context-only calibrated rebounds",
+    "experimental_available": false
+  },
+  "test_plan": {
+    "props_in_scope": 0,
+    "primary_model": "Production: context-only calibrated rebounds",
+    "experimental_model": "Experimental comparison not available for rebounds yet.",
+    "excluded_due_to_flags": 0,
+    "excluded_examples": [],
+    "notes": [
+      "Production: context-only calibrated rebounds is the default ranking path for this prop type.",
+      "Experimental comparison not available for rebounds yet.",
+      "Assists remain intentionally marked coming soon because no trained assists model exists yet."
+    ]
+  },
+  "bookmakers": [],
+  "experimental_available": false
+}
