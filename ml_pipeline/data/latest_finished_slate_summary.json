@@ -1,0 +1,25 @@
+{
+  "status": "no_gradeable_slate",
+  "latest_gradeable_game_date": null,
+  "available_prop_dates": [
+    "2026-03-25"
+  ],
+  "latest_actual_game_date": "2026-03-24",
+  "grading_summary": {
+    "count": 0,
+    "win_rate": null,
+    "push_rate": null,
+    "roi": null
+  },
+  "by_prop_type": [],
+  "by_bookmaker": [],
+  "by_side": [],
+  "by_edge_bucket": [],
+  "by_flag": [],
+  "deduplicated_summary": {
+    "count": 0,
+    "win_rate": null,
+    "push_rate": null,
+    "roi": null
+  }
+}

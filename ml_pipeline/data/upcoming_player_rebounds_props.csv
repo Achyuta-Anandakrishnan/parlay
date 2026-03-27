@@ -1,1 +1,1048 @@
 event_id,commence_time,home_team,away_team,bookmaker,player_name,market_key,line,over_price,under_price
+8aaad66627fe854cc273103047d880e6,2026-03-25T23:10:00Z,Detroit Pistons,Atlanta Hawks,BetMGM,Ausar Thompson,player_rebounds,5.5,-120,-110.0
+8aaad66627fe854cc273103047d880e6,2026-03-25T23:10:00Z,Detroit Pistons,Atlanta Hawks,BetMGM,C.J. McCollum,player_rebounds,2.5,-160,120.0
+8aaad66627fe854cc273103047d880e6,2026-03-25T23:10:00Z,Detroit Pistons,Atlanta Hawks,BetMGM,Daniss Jenkins,player_rebounds,3.5,-130,-105.0
+8aaad66627fe854cc273103047d880e6,2026-03-25T23:10:00Z,Detroit Pistons,Atlanta Hawks,BetMGM,Duncan Robinson,player_rebounds,2.5,-105,-130.0
+8aaad66627fe854cc273103047d880e6,2026-03-25T23:10:00Z,Detroit Pistons,Atlanta Hawks,BetMGM,Dyson Daniels,player_rebounds,6.5,110,-145.0
+8aaad66627fe854cc273103047d880e6,2026-03-25T23:10:00Z,Detroit Pistons,Atlanta Hawks,BetMGM,Jalen Duren,player_rebounds,11.5,-111,-120.0
+8aaad66627fe854cc273103047d880e6,2026-03-25T23:10:00Z,Detroit Pistons,Atlanta Hawks,BetMGM,Jalen Johnson,player_rebounds,9.5,105,-145.0
+8aaad66627fe854cc273103047d880e6,2026-03-25T23:10:00Z,Detroit Pistons,Atlanta Hawks,BetMGM,Jonathan Kuminga,player_rebounds,4.5,-160,120.0
+8aaad66627fe854cc273103047d880e6,2026-03-25T23:10:00Z,Detroit Pistons,Atlanta Hawks,BetMGM,Nickeil Alexander-Walker,player_rebounds,3.5,120,-160.0
+8aaad66627fe854cc273103047d880e6,2026-03-25T23:10:00Z,Detroit Pistons,Atlanta Hawks,BetMGM,Onyeka Okongwu,player_rebounds,6.5,-140,105.0
+8aaad66627fe854cc273103047d880e6,2026-03-25T23:10:00Z,Detroit Pistons,Atlanta Hawks,BetMGM,Paul Reed Jr,player_rebounds,5.5,-105,-125.0
+8aaad66627fe854cc273103047d880e6,2026-03-25T23:10:00Z,Detroit Pistons,Atlanta Hawks,BetMGM,Tobias Harris,player_rebounds,5.5,-135,100.0
+8aaad66627fe854cc273103047d880e6,2026-03-25T23:10:00Z,Detroit Pistons,Atlanta Hawks,BetMGM,Zaccharie Risacher,player_rebounds,3.5,115,-155.0
+8aaad66627fe854cc273103047d880e6,2026-03-25T23:10:00Z,Detroit Pistons,Atlanta Hawks,BetOnline.ag,Ausar Thompson,player_rebounds,5.5,-116,-111.0
+8aaad66627fe854cc273103047d880e6,2026-03-25T23:10:00Z,Detroit Pistons,Atlanta Hawks,BetOnline.ag,C.J. McCollum,player_rebounds,3.5,124,-161.0
+8aaad66627fe854cc273103047d880e6,2026-03-25T23:10:00Z,Detroit Pistons,Atlanta Hawks,BetOnline.ag,Daniss Jenkins,player_rebounds,3.5,-112,-115.0
+8aaad66627fe854cc273103047d880e6,2026-03-25T23:10:00Z,Detroit Pistons,Atlanta Hawks,BetOnline.ag,Duncan Robinson,player_rebounds,2.5,104,-135.0
+8aaad66627fe854cc273103047d880e6,2026-03-25T23:10:00Z,Detroit Pistons,Atlanta Hawks,BetOnline.ag,Dyson Daniels,player_rebounds,6.5,112,-145.0
+8aaad66627fe854cc273103047d880e6,2026-03-25T23:10:00Z,Detroit Pistons,Atlanta Hawks,BetOnline.ag,Jalen Duren,player_rebounds,11.5,102,-132.0
+8aaad66627fe854cc273103047d880e6,2026-03-25T23:10:00Z,Detroit Pistons,Atlanta Hawks,BetOnline.ag,Jalen Johnson,player_rebounds,8.5,-141,108.0
+8aaad66627fe854cc273103047d880e6,2026-03-25T23:10:00Z,Detroit Pistons,Atlanta Hawks,BetOnline.ag,Jonathan Kuminga,player_rebounds,4.5,-154,118.0
+8aaad66627fe854cc273103047d880e6,2026-03-25T23:10:00Z,Detroit Pistons,Atlanta Hawks,BetOnline.ag,Kevin Huerter,player_rebounds,2.5,-154,118.0
+8aaad66627fe854cc273103047d880e6,2026-03-25T23:10:00Z,Detroit Pistons,Atlanta Hawks,BetOnline.ag,Nickeil Alexander-Walker,player_rebounds,3.5,128,-167.0
+8aaad66627fe854cc273103047d880e6,2026-03-25T23:10:00Z,Detroit Pistons,Atlanta Hawks,BetOnline.ag,Onyeka Okongwu,player_rebounds,6.5,-135,105.0
+8aaad66627fe854cc273103047d880e6,2026-03-25T23:10:00Z,Detroit Pistons,Atlanta Hawks,BetOnline.ag,Paul Reed Jr,player_rebounds,5.5,103,-133.0
+8aaad66627fe854cc273103047d880e6,2026-03-25T23:10:00Z,Detroit Pistons,Atlanta Hawks,BetOnline.ag,Tobias Harris,player_rebounds,5.5,-123,-104.0
+8aaad66627fe854cc273103047d880e6,2026-03-25T23:10:00Z,Detroit Pistons,Atlanta Hawks,BetOnline.ag,Zaccharie Risacher,player_rebounds,3.5,126,-164.0
+8aaad66627fe854cc273103047d880e6,2026-03-25T23:10:00Z,Detroit Pistons,Atlanta Hawks,BetRivers,Ausar Thompson,player_rebounds,5.5,-125,-109.0
+8aaad66627fe854cc273103047d880e6,2026-03-25T23:10:00Z,Detroit Pistons,Atlanta Hawks,BetRivers,C.J. McCollum,player_rebounds,3.5,117,-162.0
+8aaad66627fe854cc273103047d880e6,2026-03-25T23:10:00Z,Detroit Pistons,Atlanta Hawks,BetRivers,Daniss Jenkins,player_rebounds,3.5,-121,-113.0
+8aaad66627fe854cc273103047d880e6,2026-03-25T23:10:00Z,Detroit Pistons,Atlanta Hawks,BetRivers,Duncan Robinson,player_rebounds,2.5,-109,-124.0
+8aaad66627fe854cc273103047d880e6,2026-03-25T23:10:00Z,Detroit Pistons,Atlanta Hawks,BetRivers,Dyson Daniels,player_rebounds,6.5,110,-150.0
+8aaad66627fe854cc273103047d880e6,2026-03-25T23:10:00Z,Detroit Pistons,Atlanta Hawks,BetRivers,Jalen Duren,player_rebounds,11.5,-103,-134.0
+8aaad66627fe854cc273103047d880e6,2026-03-25T23:10:00Z,Detroit Pistons,Atlanta Hawks,BetRivers,Jalen Johnson,player_rebounds,8.5,-148,110.0
+8aaad66627fe854cc273103047d880e6,2026-03-25T23:10:00Z,Detroit Pistons,Atlanta Hawks,BetRivers,Jonathan Kuminga,player_rebounds,5.5,112,-152.0
+8aaad66627fe854cc273103047d880e6,2026-03-25T23:10:00Z,Detroit Pistons,Atlanta Hawks,BetRivers,Nickeil Alexander-Walker,player_rebounds,3.5,116,-159.0
+8aaad66627fe854cc273103047d880e6,2026-03-25T23:10:00Z,Detroit Pistons,Atlanta Hawks,BetRivers,Onyeka Okongwu,player_rebounds,6.5,-141,104.0
+8aaad66627fe854cc273103047d880e6,2026-03-25T23:10:00Z,Detroit Pistons,Atlanta Hawks,BetRivers,Paul Reed Jr,player_rebounds,5.5,-103,-134.0
+8aaad66627fe854cc273103047d880e6,2026-03-25T23:10:00Z,Detroit Pistons,Atlanta Hawks,BetRivers,Tobias Harris,player_rebounds,5.5,-148,108.0
+8aaad66627fe854cc273103047d880e6,2026-03-25T23:10:00Z,Detroit Pistons,Atlanta Hawks,BetRivers,Zaccharie Risacher,player_rebounds,3.5,116,-159.0
+8aaad66627fe854cc273103047d880e6,2026-03-25T23:10:00Z,Detroit Pistons,Atlanta Hawks,Bovada,Ausar Thompson,player_rebounds,4.5,-250,185.0
+8aaad66627fe854cc273103047d880e6,2026-03-25T23:10:00Z,Detroit Pistons,Atlanta Hawks,Bovada,Ausar Thompson,player_rebounds,5.5,-125,-105.0
+8aaad66627fe854cc273103047d880e6,2026-03-25T23:10:00Z,Detroit Pistons,Atlanta Hawks,Bovada,Ausar Thompson,player_rebounds,6.5,140,-185.0
+8aaad66627fe854cc273103047d880e6,2026-03-25T23:10:00Z,Detroit Pistons,Atlanta Hawks,Bovada,C.J. McCollum,player_rebounds,2.5,-190,145.0
+8aaad66627fe854cc273103047d880e6,2026-03-25T23:10:00Z,Detroit Pistons,Atlanta Hawks,Bovada,C.J. McCollum,player_rebounds,3.5,120,-160.0
+8aaad66627fe854cc273103047d880e6,2026-03-25T23:10:00Z,Detroit Pistons,Atlanta Hawks,Bovada,Caris LeVert,player_rebounds,1.5,-170,130.0
+8aaad66627fe854cc273103047d880e6,2026-03-25T23:10:00Z,Detroit Pistons,Atlanta Hawks,Bovada,Caris LeVert,player_rebounds,2.5,160,-215.0
+8aaad66627fe854cc273103047d880e6,2026-03-25T23:10:00Z,Detroit Pistons,Atlanta Hawks,Bovada,Daniss Jenkins,player_rebounds,2.5,-275,200.0
+8aaad66627fe854cc273103047d880e6,2026-03-25T23:10:00Z,Detroit Pistons,Atlanta Hawks,Bovada,Daniss Jenkins,player_rebounds,3.5,-110,-120.0
+8aaad66627fe854cc273103047d880e6,2026-03-25T23:10:00Z,Detroit Pistons,Atlanta Hawks,Bovada,Daniss Jenkins,player_rebounds,4.5,180,-245.0
+8aaad66627fe854cc273103047d880e6,2026-03-25T23:10:00Z,Detroit Pistons,Atlanta Hawks,Bovada,Duncan Robinson,player_rebounds,1.5,-275,200.0
+8aaad66627fe854cc273103047d880e6,2026-03-25T23:10:00Z,Detroit Pistons,Atlanta Hawks,Bovada,Duncan Robinson,player_rebounds,2.5,105,-135.0
+8aaad66627fe854cc273103047d880e6,2026-03-25T23:10:00Z,Detroit Pistons,Atlanta Hawks,Bovada,Dyson Daniels,player_rebounds,5.5,-165,125.0
+8aaad66627fe854cc273103047d880e6,2026-03-25T23:10:00Z,Detroit Pistons,Atlanta Hawks,Bovada,Dyson Daniels,player_rebounds,6.5,110,-145.0
+8aaad66627fe854cc273103047d880e6,2026-03-25T23:10:00Z,Detroit Pistons,Atlanta Hawks,Bovada,Dyson Daniels,player_rebounds,7.5,190,-260.0
+8aaad66627fe854cc273103047d880e6,2026-03-25T23:10:00Z,Detroit Pistons,Atlanta Hawks,Bovada,Jalen Duren,player_rebounds,9.5,-220,165.0
+8aaad66627fe854cc273103047d880e6,2026-03-25T23:10:00Z,Detroit Pistons,Atlanta Hawks,Bovada,Jalen Duren,player_rebounds,10.5,-135,105.0
+8aaad66627fe854cc273103047d880e6,2026-03-25T23:10:00Z,Detroit Pistons,Atlanta Hawks,Bovada,Jalen Duren,player_rebounds,11.5,115,-150.0
+8aaad66627fe854cc273103047d880e6,2026-03-25T23:10:00Z,Detroit Pistons,Atlanta Hawks,Bovada,Jalen Duren,player_rebounds,12.5,170,-230.0
+8aaad66627fe854cc273103047d880e6,2026-03-25T23:10:00Z,Detroit Pistons,Atlanta Hawks,Bovada,Jalen Johnson,player_rebounds,7.5,-250,185.0
+8aaad66627fe854cc273103047d880e6,2026-03-25T23:10:00Z,Detroit Pistons,Atlanta Hawks,Bovada,Jalen Johnson,player_rebounds,8.5,-145,110.0
+8aaad66627fe854cc273103047d880e6,2026-03-25T23:10:00Z,Detroit Pistons,Atlanta Hawks,Bovada,Jalen Johnson,player_rebounds,9.5,110,-145.0
+8aaad66627fe854cc273103047d880e6,2026-03-25T23:10:00Z,Detroit Pistons,Atlanta Hawks,Bovada,Jalen Johnson,player_rebounds,10.5,175,-240.0
+8aaad66627fe854cc273103047d880e6,2026-03-25T23:10:00Z,Detroit Pistons,Atlanta Hawks,Bovada,Jonathan Kuminga,player_rebounds,4.5,-165,125.0
+8aaad66627fe854cc273103047d880e6,2026-03-25T23:10:00Z,Detroit Pistons,Atlanta Hawks,Bovada,Jonathan Kuminga,player_rebounds,5.5,115,-150.0
+8aaad66627fe854cc273103047d880e6,2026-03-25T23:10:00Z,Detroit Pistons,Atlanta Hawks,Bovada,Jonathan Kuminga,player_rebounds,6.5,205,-280.0
+8aaad66627fe854cc273103047d880e6,2026-03-25T23:10:00Z,Detroit Pistons,Atlanta Hawks,Bovada,Kevin Huerter,player_rebounds,2.5,-135,105.0
+8aaad66627fe854cc273103047d880e6,2026-03-25T23:10:00Z,Detroit Pistons,Atlanta Hawks,Bovada,Kevin Huerter,player_rebounds,3.5,165,-220.0
+8aaad66627fe854cc273103047d880e6,2026-03-25T23:10:00Z,Detroit Pistons,Atlanta Hawks,Bovada,Nickeil Alexander-Walker,player_rebounds,2.5,-180,135.0
+8aaad66627fe854cc273103047d880e6,2026-03-25T23:10:00Z,Detroit Pistons,Atlanta Hawks,Bovada,Nickeil Alexander-Walker,player_rebounds,3.5,130,-170.0
+8aaad66627fe854cc273103047d880e6,2026-03-25T23:10:00Z,Detroit Pistons,Atlanta Hawks,Bovada,Onyeka Okongwu,player_rebounds,5.5,-275,200.0
+8aaad66627fe854cc273103047d880e6,2026-03-25T23:10:00Z,Detroit Pistons,Atlanta Hawks,Bovada,Onyeka Okongwu,player_rebounds,6.5,-145,110.0
+8aaad66627fe854cc273103047d880e6,2026-03-25T23:10:00Z,Detroit Pistons,Atlanta Hawks,Bovada,Onyeka Okongwu,player_rebounds,7.5,115,-150.0
+8aaad66627fe854cc273103047d880e6,2026-03-25T23:10:00Z,Detroit Pistons,Atlanta Hawks,Bovada,Onyeka Okongwu,player_rebounds,8.5,200,-275.0
+8aaad66627fe854cc273103047d880e6,2026-03-25T23:10:00Z,Detroit Pistons,Atlanta Hawks,Bovada,Paul Reed Jr,player_rebounds,4.5,-185,140.0
+8aaad66627fe854cc273103047d880e6,2026-03-25T23:10:00Z,Detroit Pistons,Atlanta Hawks,Bovada,Paul Reed Jr,player_rebounds,5.5,105,-135.0
+8aaad66627fe854cc273103047d880e6,2026-03-25T23:10:00Z,Detroit Pistons,Atlanta Hawks,Bovada,Paul Reed Jr,player_rebounds,6.5,190,-260.0
+8aaad66627fe854cc273103047d880e6,2026-03-25T23:10:00Z,Detroit Pistons,Atlanta Hawks,Bovada,Tobias Harris,player_rebounds,4.5,-250,185.0
+8aaad66627fe854cc273103047d880e6,2026-03-25T23:10:00Z,Detroit Pistons,Atlanta Hawks,Bovada,Tobias Harris,player_rebounds,5.5,-125,-105.0
+8aaad66627fe854cc273103047d880e6,2026-03-25T23:10:00Z,Detroit Pistons,Atlanta Hawks,Bovada,Tobias Harris,player_rebounds,6.5,140,-185.0
+8aaad66627fe854cc273103047d880e6,2026-03-25T23:10:00Z,Detroit Pistons,Atlanta Hawks,Bovada,Zaccharie Risacher,player_rebounds,2.5,-190,145.0
+8aaad66627fe854cc273103047d880e6,2026-03-25T23:10:00Z,Detroit Pistons,Atlanta Hawks,Bovada,Zaccharie Risacher,player_rebounds,3.5,120,-160.0
+8aaad66627fe854cc273103047d880e6,2026-03-25T23:10:00Z,Detroit Pistons,Atlanta Hawks,DraftKings,Ausar Thompson,player_rebounds,5.5,-125,-105.0
+8aaad66627fe854cc273103047d880e6,2026-03-25T23:10:00Z,Detroit Pistons,Atlanta Hawks,DraftKings,C.J. McCollum,player_rebounds,3.5,123,-163.0
+8aaad66627fe854cc273103047d880e6,2026-03-25T23:10:00Z,Detroit Pistons,Atlanta Hawks,DraftKings,Caris LeVert,player_rebounds,1.5,-171,129.0
+8aaad66627fe854cc273103047d880e6,2026-03-25T23:10:00Z,Detroit Pistons,Atlanta Hawks,DraftKings,Daniss Jenkins,player_rebounds,3.5,-111,-118.0
+8aaad66627fe854cc273103047d880e6,2026-03-25T23:10:00Z,Detroit Pistons,Atlanta Hawks,DraftKings,Duncan Robinson,player_rebounds,2.5,103,-136.0
+8aaad66627fe854cc273103047d880e6,2026-03-25T23:10:00Z,Detroit Pistons,Atlanta Hawks,DraftKings,Dyson Daniels,player_rebounds,6.5,110,-144.0
+8aaad66627fe854cc273103047d880e6,2026-03-25T23:10:00Z,Detroit Pistons,Atlanta Hawks,DraftKings,Jalen Duren,player_rebounds,10.5,-140,106.0
+8aaad66627fe854cc273103047d880e6,2026-03-25T23:10:00Z,Detroit Pistons,Atlanta Hawks,DraftKings,Jalen Johnson,player_rebounds,8.5,-141,107.0
+8aaad66627fe854cc273103047d880e6,2026-03-25T23:10:00Z,Detroit Pistons,Atlanta Hawks,DraftKings,Jonathan Kuminga,player_rebounds,5.5,113,-149.0
+8aaad66627fe854cc273103047d880e6,2026-03-25T23:10:00Z,Detroit Pistons,Atlanta Hawks,DraftKings,Kevin Huerter,player_rebounds,2.5,-139,106.0
+8aaad66627fe854cc273103047d880e6,2026-03-25T23:10:00Z,Detroit Pistons,Atlanta Hawks,DraftKings,Nickeil Alexander-Walker,player_rebounds,3.5,131,-174.0
+8aaad66627fe854cc273103047d880e6,2026-03-25T23:10:00Z,Detroit Pistons,Atlanta Hawks,DraftKings,Onyeka Okongwu,player_rebounds,6.5,-147,111.0
+8aaad66627fe854cc273103047d880e6,2026-03-25T23:10:00Z,Detroit Pistons,Atlanta Hawks,DraftKings,Paul Reed Jr,player_rebounds,5.5,102,-134.0
+8aaad66627fe854cc273103047d880e6,2026-03-25T23:10:00Z,Detroit Pistons,Atlanta Hawks,DraftKings,Tobias Harris,player_rebounds,5.5,-128,-103.0
+8aaad66627fe854cc273103047d880e6,2026-03-25T23:10:00Z,Detroit Pistons,Atlanta Hawks,DraftKings,Zaccharie Risacher,player_rebounds,3.5,120,-158.0
+8aaad66627fe854cc273103047d880e6,2026-03-25T23:10:00Z,Detroit Pistons,Atlanta Hawks,FanDuel,Ausar Thompson,player_rebounds,5.5,-118,-112.0
+8aaad66627fe854cc273103047d880e6,2026-03-25T23:10:00Z,Detroit Pistons,Atlanta Hawks,FanDuel,C.J. McCollum,player_rebounds,3.5,122,-162.0
+8aaad66627fe854cc273103047d880e6,2026-03-25T23:10:00Z,Detroit Pistons,Atlanta Hawks,FanDuel,Daniss Jenkins,player_rebounds,3.5,-120,-110.0
+8aaad66627fe854cc273103047d880e6,2026-03-25T23:10:00Z,Detroit Pistons,Atlanta Hawks,FanDuel,Dyson Daniels,player_rebounds,6.5,116,-154.0
+8aaad66627fe854cc273103047d880e6,2026-03-25T23:10:00Z,Detroit Pistons,Atlanta Hawks,FanDuel,Jalen Duren,player_rebounds,11.5,102,-136.0
+8aaad66627fe854cc273103047d880e6,2026-03-25T23:10:00Z,Detroit Pistons,Atlanta Hawks,FanDuel,Jalen Johnson,player_rebounds,8.5,-146,110.0
+8aaad66627fe854cc273103047d880e6,2026-03-25T23:10:00Z,Detroit Pistons,Atlanta Hawks,FanDuel,Jonathan Kuminga,player_rebounds,5.5,118,-158.0
+8aaad66627fe854cc273103047d880e6,2026-03-25T23:10:00Z,Detroit Pistons,Atlanta Hawks,FanDuel,Nickeil Alexander-Walker,player_rebounds,3.5,122,-162.0
+8aaad66627fe854cc273103047d880e6,2026-03-25T23:10:00Z,Detroit Pistons,Atlanta Hawks,FanDuel,Onyeka Okongwu,player_rebounds,6.5,-138,104.0
+8aaad66627fe854cc273103047d880e6,2026-03-25T23:10:00Z,Detroit Pistons,Atlanta Hawks,FanDuel,Paul Reed Jr,player_rebounds,5.5,-102,-130.0
+8aaad66627fe854cc273103047d880e6,2026-03-25T23:10:00Z,Detroit Pistons,Atlanta Hawks,FanDuel,Tobias Harris,player_rebounds,5.5,-132,100.0
+8aaad66627fe854cc273103047d880e6,2026-03-25T23:10:00Z,Detroit Pistons,Atlanta Hawks,FanDuel,Zaccharie Risacher,player_rebounds,3.5,130,-174.0
+3d71d6b6b1bc85b5ec831ae9dba2c93c,2026-03-25T23:10:00Z,Indiana Pacers,Los Angeles Lakers,BetMGM,Aaron Nesmith,player_rebounds,3.5,130,-175.0
+3d71d6b6b1bc85b5ec831ae9dba2c93c,2026-03-25T23:10:00Z,Indiana Pacers,Los Angeles Lakers,BetMGM,Andrew Nembhard,player_rebounds,2.5,-105,-125.0
+3d71d6b6b1bc85b5ec831ae9dba2c93c,2026-03-25T23:10:00Z,Indiana Pacers,Los Angeles Lakers,BetMGM,Austin Reaves,player_rebounds,4.5,-115,-115.0
+3d71d6b6b1bc85b5ec831ae9dba2c93c,2026-03-25T23:10:00Z,Indiana Pacers,Los Angeles Lakers,BetMGM,Deandre Ayton,player_rebounds,8.5,-120,-110.0
+3d71d6b6b1bc85b5ec831ae9dba2c93c,2026-03-25T23:10:00Z,Indiana Pacers,Los Angeles Lakers,BetMGM,Jarace Walker,player_rebounds,5.5,-120,-111.0
+3d71d6b6b1bc85b5ec831ae9dba2c93c,2026-03-25T23:10:00Z,Indiana Pacers,Los Angeles Lakers,BetMGM,Jaxson Hayes,player_rebounds,4.5,-140,105.0
+3d71d6b6b1bc85b5ec831ae9dba2c93c,2026-03-25T23:10:00Z,Indiana Pacers,Los Angeles Lakers,BetMGM,Jay Huff,player_rebounds,4.5,105,-140.0
+3d71d6b6b1bc85b5ec831ae9dba2c93c,2026-03-25T23:10:00Z,Indiana Pacers,Los Angeles Lakers,BetMGM,LeBron James,player_rebounds,5.5,-155,115.0
+3d71d6b6b1bc85b5ec831ae9dba2c93c,2026-03-25T23:10:00Z,Indiana Pacers,Los Angeles Lakers,BetMGM,Luka Doncic,player_rebounds,8.5,105,-145.0
+3d71d6b6b1bc85b5ec831ae9dba2c93c,2026-03-25T23:10:00Z,Indiana Pacers,Los Angeles Lakers,BetMGM,Obi Toppin,player_rebounds,3.5,-105,-125.0
+3d71d6b6b1bc85b5ec831ae9dba2c93c,2026-03-25T23:10:00Z,Indiana Pacers,Los Angeles Lakers,BetMGM,Pascal Siakam,player_rebounds,5.5,-105,-130.0
+3d71d6b6b1bc85b5ec831ae9dba2c93c,2026-03-25T23:10:00Z,Indiana Pacers,Los Angeles Lakers,BetOnline.ag,Aaron Nesmith,player_rebounds,3.5,132,-172.0
+3d71d6b6b1bc85b5ec831ae9dba2c93c,2026-03-25T23:10:00Z,Indiana Pacers,Los Angeles Lakers,BetOnline.ag,Andrew Nembhard,player_rebounds,2.5,104,-135.0
+3d71d6b6b1bc85b5ec831ae9dba2c93c,2026-03-25T23:10:00Z,Indiana Pacers,Los Angeles Lakers,BetOnline.ag,Austin Reaves,player_rebounds,4.5,-118,-110.0
+3d71d6b6b1bc85b5ec831ae9dba2c93c,2026-03-25T23:10:00Z,Indiana Pacers,Los Angeles Lakers,BetOnline.ag,Deandre Ayton,player_rebounds,8.5,-118,-110.0
+3d71d6b6b1bc85b5ec831ae9dba2c93c,2026-03-25T23:10:00Z,Indiana Pacers,Los Angeles Lakers,BetOnline.ag,Jarace Walker,player_rebounds,5.5,-128,-101.0
+3d71d6b6b1bc85b5ec831ae9dba2c93c,2026-03-25T23:10:00Z,Indiana Pacers,Los Angeles Lakers,BetOnline.ag,Jaxson Hayes,player_rebounds,4.5,-145,111.0
+3d71d6b6b1bc85b5ec831ae9dba2c93c,2026-03-25T23:10:00Z,Indiana Pacers,Los Angeles Lakers,BetOnline.ag,Jay Huff,player_rebounds,4.5,100,-130.0
+3d71d6b6b1bc85b5ec831ae9dba2c93c,2026-03-25T23:10:00Z,Indiana Pacers,Los Angeles Lakers,BetOnline.ag,LeBron James,player_rebounds,6.5,110,-143.0
+3d71d6b6b1bc85b5ec831ae9dba2c93c,2026-03-25T23:10:00Z,Indiana Pacers,Los Angeles Lakers,BetOnline.ag,Luka Doncic,player_rebounds,8.5,103,-133.0
+3d71d6b6b1bc85b5ec831ae9dba2c93c,2026-03-25T23:10:00Z,Indiana Pacers,Los Angeles Lakers,BetOnline.ag,Obi Toppin,player_rebounds,3.5,-101,-128.0
+3d71d6b6b1bc85b5ec831ae9dba2c93c,2026-03-25T23:10:00Z,Indiana Pacers,Los Angeles Lakers,BetOnline.ag,Pascal Siakam,player_rebounds,5.5,100,-130.0
+3d71d6b6b1bc85b5ec831ae9dba2c93c,2026-03-25T23:10:00Z,Indiana Pacers,Los Angeles Lakers,BetOnline.ag,T.J. McConnell,player_rebounds,2.5,128,-167.0
+3d71d6b6b1bc85b5ec831ae9dba2c93c,2026-03-25T23:10:00Z,Indiana Pacers,Los Angeles Lakers,BetRivers,Aaron Nesmith,player_rebounds,2.5,-182,132.0
+3d71d6b6b1bc85b5ec831ae9dba2c93c,2026-03-25T23:10:00Z,Indiana Pacers,Los Angeles Lakers,BetRivers,Andrew Nembhard,player_rebounds,2.5,110,-150.0
+3d71d6b6b1bc85b5ec831ae9dba2c93c,2026-03-25T23:10:00Z,Indiana Pacers,Los Angeles Lakers,BetRivers,Austin Reaves,player_rebounds,4.5,-118,-114.0
+3d71d6b6b1bc85b5ec831ae9dba2c93c,2026-03-25T23:10:00Z,Indiana Pacers,Los Angeles Lakers,BetRivers,Deandre Ayton,player_rebounds,8.5,-124,-109.0
+3d71d6b6b1bc85b5ec831ae9dba2c93c,2026-03-25T23:10:00Z,Indiana Pacers,Los Angeles Lakers,BetRivers,Jarace Walker,player_rebounds,5.5,-130,-105.0
+3d71d6b6b1bc85b5ec831ae9dba2c93c,2026-03-25T23:10:00Z,Indiana Pacers,Los Angeles Lakers,BetRivers,Jaxson Hayes,player_rebounds,4.5,-143,107.0
+3d71d6b6b1bc85b5ec831ae9dba2c93c,2026-03-25T23:10:00Z,Indiana Pacers,Los Angeles Lakers,BetRivers,Jay Huff,player_rebounds,4.5,-114,-120.0
+3d71d6b6b1bc85b5ec831ae9dba2c93c,2026-03-25T23:10:00Z,Indiana Pacers,Los Angeles Lakers,BetRivers,LeBron James,player_rebounds,5.5,-150,110.0
+3d71d6b6b1bc85b5ec831ae9dba2c93c,2026-03-25T23:10:00Z,Indiana Pacers,Los Angeles Lakers,BetRivers,Luka Doncic,player_rebounds,8.5,100,-136.0
+3d71d6b6b1bc85b5ec831ae9dba2c93c,2026-03-25T23:10:00Z,Indiana Pacers,Los Angeles Lakers,BetRivers,Obi Toppin,player_rebounds,3.5,-106,-129.0
+3d71d6b6b1bc85b5ec831ae9dba2c93c,2026-03-25T23:10:00Z,Indiana Pacers,Los Angeles Lakers,BetRivers,Pascal Siakam,player_rebounds,5.5,-103,-134.0
+3d71d6b6b1bc85b5ec831ae9dba2c93c,2026-03-25T23:10:00Z,Indiana Pacers,Los Angeles Lakers,BetRivers,T.J. McConnell,player_rebounds,1.5,-210,148.0
+3d71d6b6b1bc85b5ec831ae9dba2c93c,2026-03-25T23:10:00Z,Indiana Pacers,Los Angeles Lakers,Bovada,Aaron Nesmith,player_rebounds,2.5,-180,135.0
+3d71d6b6b1bc85b5ec831ae9dba2c93c,2026-03-25T23:10:00Z,Indiana Pacers,Los Angeles Lakers,Bovada,Aaron Nesmith,player_rebounds,3.5,130,-170.0
+3d71d6b6b1bc85b5ec831ae9dba2c93c,2026-03-25T23:10:00Z,Indiana Pacers,Los Angeles Lakers,Bovada,Andrew Nembhard,player_rebounds,1.5,-275,200.0
+3d71d6b6b1bc85b5ec831ae9dba2c93c,2026-03-25T23:10:00Z,Indiana Pacers,Los Angeles Lakers,Bovada,Andrew Nembhard,player_rebounds,2.5,105,-135.0
+3d71d6b6b1bc85b5ec831ae9dba2c93c,2026-03-25T23:10:00Z,Indiana Pacers,Los Angeles Lakers,Bovada,Austin Reaves,player_rebounds,3.5,-260,190.0
+3d71d6b6b1bc85b5ec831ae9dba2c93c,2026-03-25T23:10:00Z,Indiana Pacers,Los Angeles Lakers,Bovada,Austin Reaves,player_rebounds,4.5,-125,-105.0
+3d71d6b6b1bc85b5ec831ae9dba2c93c,2026-03-25T23:10:00Z,Indiana Pacers,Los Angeles Lakers,Bovada,Austin Reaves,player_rebounds,5.5,150,-200.0
+3d71d6b6b1bc85b5ec831ae9dba2c93c,2026-03-25T23:10:00Z,Indiana Pacers,Los Angeles Lakers,Bovada,Deandre Ayton,player_rebounds,7.5,-200,150.0
+3d71d6b6b1bc85b5ec831ae9dba2c93c,2026-03-25T23:10:00Z,Indiana Pacers,Los Angeles Lakers,Bovada,Deandre Ayton,player_rebounds,8.5,-120,-110.0
+3d71d6b6b1bc85b5ec831ae9dba2c93c,2026-03-25T23:10:00Z,Indiana Pacers,Los Angeles Lakers,Bovada,Deandre Ayton,player_rebounds,9.5,135,-180.0
+3d71d6b6b1bc85b5ec831ae9dba2c93c,2026-03-25T23:10:00Z,Indiana Pacers,Los Angeles Lakers,Bovada,Deandre Ayton,player_rebounds,10.5,215,-300.0
+3d71d6b6b1bc85b5ec831ae9dba2c93c,2026-03-25T23:10:00Z,Indiana Pacers,Los Angeles Lakers,Bovada,Jarace Walker,player_rebounds,4.5,-300,215.0
+3d71d6b6b1bc85b5ec831ae9dba2c93c,2026-03-25T23:10:00Z,Indiana Pacers,Los Angeles Lakers,Bovada,Jarace Walker,player_rebounds,5.5,-145,110.0
+3d71d6b6b1bc85b5ec831ae9dba2c93c,2026-03-25T23:10:00Z,Indiana Pacers,Los Angeles Lakers,Bovada,Jarace Walker,player_rebounds,6.5,120,-160.0
+3d71d6b6b1bc85b5ec831ae9dba2c93c,2026-03-25T23:10:00Z,Indiana Pacers,Los Angeles Lakers,Bovada,Jaxson Hayes,player_rebounds,4.5,-160,120.0
+3d71d6b6b1bc85b5ec831ae9dba2c93c,2026-03-25T23:10:00Z,Indiana Pacers,Los Angeles Lakers,Bovada,Jaxson Hayes,player_rebounds,5.5,120,-160.0
+3d71d6b6b1bc85b5ec831ae9dba2c93c,2026-03-25T23:10:00Z,Indiana Pacers,Los Angeles Lakers,Bovada,Jay Huff,player_rebounds,3.5,-220,165.0
+3d71d6b6b1bc85b5ec831ae9dba2c93c,2026-03-25T23:10:00Z,Indiana Pacers,Los Angeles Lakers,Bovada,Jay Huff,player_rebounds,4.5,-105,-125.0
+3d71d6b6b1bc85b5ec831ae9dba2c93c,2026-03-25T23:10:00Z,Indiana Pacers,Los Angeles Lakers,Bovada,Jay Huff,player_rebounds,5.5,180,-245.0
+3d71d6b6b1bc85b5ec831ae9dba2c93c,2026-03-25T23:10:00Z,Indiana Pacers,Los Angeles Lakers,Bovada,LeBron James,player_rebounds,5.5,-165,125.0
+3d71d6b6b1bc85b5ec831ae9dba2c93c,2026-03-25T23:10:00Z,Indiana Pacers,Los Angeles Lakers,Bovada,LeBron James,player_rebounds,6.5,110,-145.0
+3d71d6b6b1bc85b5ec831ae9dba2c93c,2026-03-25T23:10:00Z,Indiana Pacers,Los Angeles Lakers,Bovada,LeBron James,player_rebounds,7.5,190,-260.0
+3d71d6b6b1bc85b5ec831ae9dba2c93c,2026-03-25T23:10:00Z,Indiana Pacers,Los Angeles Lakers,Bovada,Luka Doncic,player_rebounds,7.5,-170,130.0
+3d71d6b6b1bc85b5ec831ae9dba2c93c,2026-03-25T23:10:00Z,Indiana Pacers,Los Angeles Lakers,Bovada,Luka Doncic,player_rebounds,8.5,100,-130.0
+3d71d6b6b1bc85b5ec831ae9dba2c93c,2026-03-25T23:10:00Z,Indiana Pacers,Los Angeles Lakers,Bovada,Luka Doncic,player_rebounds,9.5,160,-215.0
+3d71d6b6b1bc85b5ec831ae9dba2c93c,2026-03-25T23:10:00Z,Indiana Pacers,Los Angeles Lakers,Bovada,Obi Toppin,player_rebounds,2.5,-245,180.0
+3d71d6b6b1bc85b5ec831ae9dba2c93c,2026-03-25T23:10:00Z,Indiana Pacers,Los Angeles Lakers,Bovada,Obi Toppin,player_rebounds,3.5,-105,-125.0
+3d71d6b6b1bc85b5ec831ae9dba2c93c,2026-03-25T23:10:00Z,Indiana Pacers,Los Angeles Lakers,Bovada,Obi Toppin,player_rebounds,4.5,200,-275.0
+3d71d6b6b1bc85b5ec831ae9dba2c93c,2026-03-25T23:10:00Z,Indiana Pacers,Los Angeles Lakers,Bovada,Pascal Siakam,player_rebounds,4.5,-190,145.0
+3d71d6b6b1bc85b5ec831ae9dba2c93c,2026-03-25T23:10:00Z,Indiana Pacers,Los Angeles Lakers,Bovada,Pascal Siakam,player_rebounds,5.5,100,-130.0
+3d71d6b6b1bc85b5ec831ae9dba2c93c,2026-03-25T23:10:00Z,Indiana Pacers,Los Angeles Lakers,Bovada,Pascal Siakam,player_rebounds,6.5,175,-240.0
+3d71d6b6b1bc85b5ec831ae9dba2c93c,2026-03-25T23:10:00Z,Indiana Pacers,Los Angeles Lakers,DraftKings,Aaron Nesmith,player_rebounds,3.5,122,-162.0
+3d71d6b6b1bc85b5ec831ae9dba2c93c,2026-03-25T23:10:00Z,Indiana Pacers,Los Angeles Lakers,DraftKings,Andrew Nembhard,player_rebounds,2.5,105,-139.0
+3d71d6b6b1bc85b5ec831ae9dba2c93c,2026-03-25T23:10:00Z,Indiana Pacers,Los Angeles Lakers,DraftKings,Austin Reaves,player_rebounds,4.5,-124,-106.0
+3d71d6b6b1bc85b5ec831ae9dba2c93c,2026-03-25T23:10:00Z,Indiana Pacers,Los Angeles Lakers,DraftKings,Deandre Ayton,player_rebounds,8.5,-118,-111.0
+3d71d6b6b1bc85b5ec831ae9dba2c93c,2026-03-25T23:10:00Z,Indiana Pacers,Los Angeles Lakers,DraftKings,Jarace Walker,player_rebounds,5.5,-138,105.0
+3d71d6b6b1bc85b5ec831ae9dba2c93c,2026-03-25T23:10:00Z,Indiana Pacers,Los Angeles Lakers,DraftKings,Jaxson Hayes,player_rebounds,4.5,-150,114.0
+3d71d6b6b1bc85b5ec831ae9dba2c93c,2026-03-25T23:10:00Z,Indiana Pacers,Los Angeles Lakers,DraftKings,Jay Huff,player_rebounds,4.5,-103,-128.0
+3d71d6b6b1bc85b5ec831ae9dba2c93c,2026-03-25T23:10:00Z,Indiana Pacers,Los Angeles Lakers,DraftKings,LeBron James,player_rebounds,6.5,110,-145.0
+3d71d6b6b1bc85b5ec831ae9dba2c93c,2026-03-25T23:10:00Z,Indiana Pacers,Los Angeles Lakers,DraftKings,Luka Doncic,player_rebounds,8.5,-102,-129.0
+3d71d6b6b1bc85b5ec831ae9dba2c93c,2026-03-25T23:10:00Z,Indiana Pacers,Los Angeles Lakers,DraftKings,Obi Toppin,player_rebounds,3.5,-106,-124.0
+3d71d6b6b1bc85b5ec831ae9dba2c93c,2026-03-25T23:10:00Z,Indiana Pacers,Los Angeles Lakers,DraftKings,Pascal Siakam,player_rebounds,5.5,100,-131.0
+3d71d6b6b1bc85b5ec831ae9dba2c93c,2026-03-25T23:10:00Z,Indiana Pacers,Los Angeles Lakers,FanDuel,Austin Reaves,player_rebounds,4.5,-125,-106.0
+3d71d6b6b1bc85b5ec831ae9dba2c93c,2026-03-25T23:10:00Z,Indiana Pacers,Los Angeles Lakers,FanDuel,Deandre Ayton,player_rebounds,8.5,-130,-102.0
+3d71d6b6b1bc85b5ec831ae9dba2c93c,2026-03-25T23:10:00Z,Indiana Pacers,Los Angeles Lakers,FanDuel,Jarace Walker,player_rebounds,5.5,-130,-102.0
+3d71d6b6b1bc85b5ec831ae9dba2c93c,2026-03-25T23:10:00Z,Indiana Pacers,Los Angeles Lakers,FanDuel,Jaxson Hayes,player_rebounds,4.5,-154,116.0
+3d71d6b6b1bc85b5ec831ae9dba2c93c,2026-03-25T23:10:00Z,Indiana Pacers,Los Angeles Lakers,FanDuel,Jay Huff,player_rebounds,4.5,-106,-125.0
+3d71d6b6b1bc85b5ec831ae9dba2c93c,2026-03-25T23:10:00Z,Indiana Pacers,Los Angeles Lakers,FanDuel,LeBron James,player_rebounds,6.5,112,-148.0
+3d71d6b6b1bc85b5ec831ae9dba2c93c,2026-03-25T23:10:00Z,Indiana Pacers,Los Angeles Lakers,FanDuel,Luka Doncic,player_rebounds,8.5,102,-136.0
+3d71d6b6b1bc85b5ec831ae9dba2c93c,2026-03-25T23:10:00Z,Indiana Pacers,Los Angeles Lakers,FanDuel,Obi Toppin,player_rebounds,3.5,-104,-128.0
+3d71d6b6b1bc85b5ec831ae9dba2c93c,2026-03-25T23:10:00Z,Indiana Pacers,Los Angeles Lakers,FanDuel,Pascal Siakam,player_rebounds,5.5,-102,-130.0
+eaf07668d23364ac54cbcf69f4808ba9,2026-03-25T23:10:00Z,Philadelphia 76ers,Chicago Bulls,BetMGM,Dominick Barlow,player_rebounds,3.5,-160,120.0
+eaf07668d23364ac54cbcf69f4808ba9,2026-03-25T23:10:00Z,Philadelphia 76ers,Chicago Bulls,BetMGM,Jalen Smith,player_rebounds,7.5,-105,-125.0
+eaf07668d23364ac54cbcf69f4808ba9,2026-03-25T23:10:00Z,Philadelphia 76ers,Chicago Bulls,BetMGM,Joel Embiid,player_rebounds,6.5,100,-135.0
+eaf07668d23364ac54cbcf69f4808ba9,2026-03-25T23:10:00Z,Philadelphia 76ers,Chicago Bulls,BetMGM,Josh Giddey,player_rebounds,8.5,100,-135.0
+eaf07668d23364ac54cbcf69f4808ba9,2026-03-25T23:10:00Z,Philadelphia 76ers,Chicago Bulls,BetMGM,Matas Buzelis,player_rebounds,6.5,105,-140.0
+eaf07668d23364ac54cbcf69f4808ba9,2026-03-25T23:10:00Z,Philadelphia 76ers,Chicago Bulls,BetMGM,Nick Richards,player_rebounds,7.5,-135,100.0
+eaf07668d23364ac54cbcf69f4808ba9,2026-03-25T23:10:00Z,Philadelphia 76ers,Chicago Bulls,BetMGM,Paul George,player_rebounds,5.5,110,-145.0
+eaf07668d23364ac54cbcf69f4808ba9,2026-03-25T23:10:00Z,Philadelphia 76ers,Chicago Bulls,BetMGM,Quentin Grimes,player_rebounds,3.5,-155,115.0
+eaf07668d23364ac54cbcf69f4808ba9,2026-03-25T23:10:00Z,Philadelphia 76ers,Chicago Bulls,BetMGM,VJ Edgecombe,player_rebounds,5.5,-120,-110.0
+eaf07668d23364ac54cbcf69f4808ba9,2026-03-25T23:10:00Z,Philadelphia 76ers,Chicago Bulls,BetOnline.ag,Collin Sexton,player_rebounds,2.5,115,-149.0
+eaf07668d23364ac54cbcf69f4808ba9,2026-03-25T23:10:00Z,Philadelphia 76ers,Chicago Bulls,BetOnline.ag,Dominick Barlow,player_rebounds,4.5,110,-143.0
+eaf07668d23364ac54cbcf69f4808ba9,2026-03-25T23:10:00Z,Philadelphia 76ers,Chicago Bulls,BetOnline.ag,Jalen Smith,player_rebounds,7.5,-102,-127.0
+eaf07668d23364ac54cbcf69f4808ba9,2026-03-25T23:10:00Z,Philadelphia 76ers,Chicago Bulls,BetOnline.ag,Joel Embiid,player_rebounds,6.5,-109,-119.0
+eaf07668d23364ac54cbcf69f4808ba9,2026-03-25T23:10:00Z,Philadelphia 76ers,Chicago Bulls,BetOnline.ag,Josh Giddey,player_rebounds,8.5,109,-141.0
+eaf07668d23364ac54cbcf69f4808ba9,2026-03-25T23:10:00Z,Philadelphia 76ers,Chicago Bulls,BetOnline.ag,Leonard Miller,player_rebounds,4.5,-132,102.0
+eaf07668d23364ac54cbcf69f4808ba9,2026-03-25T23:10:00Z,Philadelphia 76ers,Chicago Bulls,BetOnline.ag,Matas Buzelis,player_rebounds,6.5,115,-149.0
+eaf07668d23364ac54cbcf69f4808ba9,2026-03-25T23:10:00Z,Philadelphia 76ers,Chicago Bulls,BetOnline.ag,Nick Richards,player_rebounds,7.5,-116,-112.0
+eaf07668d23364ac54cbcf69f4808ba9,2026-03-25T23:10:00Z,Philadelphia 76ers,Chicago Bulls,BetOnline.ag,Paul George,player_rebounds,4.5,-149,115.0
+eaf07668d23364ac54cbcf69f4808ba9,2026-03-25T23:10:00Z,Philadelphia 76ers,Chicago Bulls,BetOnline.ag,Quentin Grimes,player_rebounds,3.5,-152,117.0
+eaf07668d23364ac54cbcf69f4808ba9,2026-03-25T23:10:00Z,Philadelphia 76ers,Chicago Bulls,BetOnline.ag,Tre Jones,player_rebounds,3.5,149,-196.0
+eaf07668d23364ac54cbcf69f4808ba9,2026-03-25T23:10:00Z,Philadelphia 76ers,Chicago Bulls,BetOnline.ag,VJ Edgecombe,player_rebounds,5.5,-112,-115.0
+eaf07668d23364ac54cbcf69f4808ba9,2026-03-25T23:10:00Z,Philadelphia 76ers,Chicago Bulls,BetRivers,Dominick Barlow,player_rebounds,4.5,108,-148.0
+eaf07668d23364ac54cbcf69f4808ba9,2026-03-25T23:10:00Z,Philadelphia 76ers,Chicago Bulls,BetRivers,Jalen Smith,player_rebounds,7.5,-105,-130.0
+eaf07668d23364ac54cbcf69f4808ba9,2026-03-25T23:10:00Z,Philadelphia 76ers,Chicago Bulls,BetRivers,Joel Embiid,player_rebounds,6.5,-112,-122.0
+eaf07668d23364ac54cbcf69f4808ba9,2026-03-25T23:10:00Z,Philadelphia 76ers,Chicago Bulls,BetRivers,Josh Giddey,player_rebounds,8.5,102,-137.0
+eaf07668d23364ac54cbcf69f4808ba9,2026-03-25T23:10:00Z,Philadelphia 76ers,Chicago Bulls,BetRivers,Leonard Miller,player_rebounds,4.5,-155,114.0
+eaf07668d23364ac54cbcf69f4808ba9,2026-03-25T23:10:00Z,Philadelphia 76ers,Chicago Bulls,BetRivers,Matas Buzelis,player_rebounds,6.5,112,-155.0
+eaf07668d23364ac54cbcf69f4808ba9,2026-03-25T23:10:00Z,Philadelphia 76ers,Chicago Bulls,BetRivers,Nick Richards,player_rebounds,7.5,-120,-114.0
+eaf07668d23364ac54cbcf69f4808ba9,2026-03-25T23:10:00Z,Philadelphia 76ers,Chicago Bulls,BetRivers,Paul George,player_rebounds,5.5,118,-162.0
+eaf07668d23364ac54cbcf69f4808ba9,2026-03-25T23:10:00Z,Philadelphia 76ers,Chicago Bulls,BetRivers,Quentin Grimes,player_rebounds,3.5,-157,115.0
+eaf07668d23364ac54cbcf69f4808ba9,2026-03-25T23:10:00Z,Philadelphia 76ers,Chicago Bulls,BetRivers,VJ Edgecombe,player_rebounds,5.5,-130,-105.0
+eaf07668d23364ac54cbcf69f4808ba9,2026-03-25T23:10:00Z,Philadelphia 76ers,Chicago Bulls,Bovada,Dominick Barlow,player_rebounds,3.5,-200,150.0
+eaf07668d23364ac54cbcf69f4808ba9,2026-03-25T23:10:00Z,Philadelphia 76ers,Chicago Bulls,Bovada,Dominick Barlow,player_rebounds,4.5,105,-135.0
+eaf07668d23364ac54cbcf69f4808ba9,2026-03-25T23:10:00Z,Philadelphia 76ers,Chicago Bulls,Bovada,Dominick Barlow,player_rebounds,5.5,200,-275.0
+eaf07668d23364ac54cbcf69f4808ba9,2026-03-25T23:10:00Z,Philadelphia 76ers,Chicago Bulls,Bovada,Jalen Smith,player_rebounds,6.5,-185,140.0
+eaf07668d23364ac54cbcf69f4808ba9,2026-03-25T23:10:00Z,Philadelphia 76ers,Chicago Bulls,Bovada,Jalen Smith,player_rebounds,7.5,-105,-125.0
+eaf07668d23364ac54cbcf69f4808ba9,2026-03-25T23:10:00Z,Philadelphia 76ers,Chicago Bulls,Bovada,Jalen Smith,player_rebounds,8.5,160,-215.0
+eaf07668d23364ac54cbcf69f4808ba9,2026-03-25T23:10:00Z,Philadelphia 76ers,Chicago Bulls,Bovada,Joel Embiid,player_rebounds,5.5,-210,155.0
+eaf07668d23364ac54cbcf69f4808ba9,2026-03-25T23:10:00Z,Philadelphia 76ers,Chicago Bulls,Bovada,Joel Embiid,player_rebounds,6.5,-115,-115.0
+eaf07668d23364ac54cbcf69f4808ba9,2026-03-25T23:10:00Z,Philadelphia 76ers,Chicago Bulls,Bovada,Joel Embiid,player_rebounds,7.5,150,-200.0
+eaf07668d23364ac54cbcf69f4808ba9,2026-03-25T23:10:00Z,Philadelphia 76ers,Chicago Bulls,Bovada,Josh Giddey,player_rebounds,6.5,-290,210.0
+eaf07668d23364ac54cbcf69f4808ba9,2026-03-25T23:10:00Z,Philadelphia 76ers,Chicago Bulls,Bovada,Josh Giddey,player_rebounds,7.5,-165,125.0
+eaf07668d23364ac54cbcf69f4808ba9,2026-03-25T23:10:00Z,Philadelphia 76ers,Chicago Bulls,Bovada,Josh Giddey,player_rebounds,8.5,105,-135.0
+eaf07668d23364ac54cbcf69f4808ba9,2026-03-25T23:10:00Z,Philadelphia 76ers,Chicago Bulls,Bovada,Josh Giddey,player_rebounds,9.5,165,-220.0
+eaf07668d23364ac54cbcf69f4808ba9,2026-03-25T23:10:00Z,Philadelphia 76ers,Chicago Bulls,Bovada,Leonard Miller,player_rebounds,3.5,-280,205.0
+eaf07668d23364ac54cbcf69f4808ba9,2026-03-25T23:10:00Z,Philadelphia 76ers,Chicago Bulls,Bovada,Leonard Miller,player_rebounds,4.5,-130,100.0
+eaf07668d23364ac54cbcf69f4808ba9,2026-03-25T23:10:00Z,Philadelphia 76ers,Chicago Bulls,Bovada,Leonard Miller,player_rebounds,5.5,145,-190.0
+eaf07668d23364ac54cbcf69f4808ba9,2026-03-25T23:10:00Z,Philadelphia 76ers,Chicago Bulls,Bovada,Matas Buzelis,player_rebounds,5.5,-150,115.0
+eaf07668d23364ac54cbcf69f4808ba9,2026-03-25T23:10:00Z,Philadelphia 76ers,Chicago Bulls,Bovada,Matas Buzelis,player_rebounds,6.5,115,-150.0
+eaf07668d23364ac54cbcf69f4808ba9,2026-03-25T23:10:00Z,Philadelphia 76ers,Chicago Bulls,Bovada,Matas Buzelis,player_rebounds,7.5,200,-275.0
+eaf07668d23364ac54cbcf69f4808ba9,2026-03-25T23:10:00Z,Philadelphia 76ers,Chicago Bulls,Bovada,Nick Richards,player_rebounds,6.5,-210,155.0
+eaf07668d23364ac54cbcf69f4808ba9,2026-03-25T23:10:00Z,Philadelphia 76ers,Chicago Bulls,Bovada,Nick Richards,player_rebounds,7.5,-120,-110.0
+eaf07668d23364ac54cbcf69f4808ba9,2026-03-25T23:10:00Z,Philadelphia 76ers,Chicago Bulls,Bovada,Nick Richards,player_rebounds,8.5,140,-185.0
+eaf07668d23364ac54cbcf69f4808ba9,2026-03-25T23:10:00Z,Philadelphia 76ers,Chicago Bulls,Bovada,Paul George,player_rebounds,4.5,-160,120.0
+eaf07668d23364ac54cbcf69f4808ba9,2026-03-25T23:10:00Z,Philadelphia 76ers,Chicago Bulls,Bovada,Paul George,player_rebounds,5.5,120,-160.0
+eaf07668d23364ac54cbcf69f4808ba9,2026-03-25T23:10:00Z,Philadelphia 76ers,Chicago Bulls,Bovada,Quentin Grimes,player_rebounds,3.5,-165,125.0
+eaf07668d23364ac54cbcf69f4808ba9,2026-03-25T23:10:00Z,Philadelphia 76ers,Chicago Bulls,Bovada,Quentin Grimes,player_rebounds,4.5,125,-165.0
+eaf07668d23364ac54cbcf69f4808ba9,2026-03-25T23:10:00Z,Philadelphia 76ers,Chicago Bulls,Bovada,VJ Edgecombe,player_rebounds,4.5,-220,165.0
+eaf07668d23364ac54cbcf69f4808ba9,2026-03-25T23:10:00Z,Philadelphia 76ers,Chicago Bulls,Bovada,VJ Edgecombe,player_rebounds,5.5,-115,-115.0
+eaf07668d23364ac54cbcf69f4808ba9,2026-03-25T23:10:00Z,Philadelphia 76ers,Chicago Bulls,Bovada,VJ Edgecombe,player_rebounds,6.5,155,-210.0
+eaf07668d23364ac54cbcf69f4808ba9,2026-03-25T23:10:00Z,Philadelphia 76ers,Chicago Bulls,DraftKings,Dominick Barlow,player_rebounds,4.5,106,-140.0
+eaf07668d23364ac54cbcf69f4808ba9,2026-03-25T23:10:00Z,Philadelphia 76ers,Chicago Bulls,DraftKings,Jalen Smith,player_rebounds,7.5,-105,-125.0
+eaf07668d23364ac54cbcf69f4808ba9,2026-03-25T23:10:00Z,Philadelphia 76ers,Chicago Bulls,DraftKings,Joel Embiid,player_rebounds,6.5,-113,-116.0
+eaf07668d23364ac54cbcf69f4808ba9,2026-03-25T23:10:00Z,Philadelphia 76ers,Chicago Bulls,DraftKings,Josh Giddey,player_rebounds,7.5,-142,108.0
+eaf07668d23364ac54cbcf69f4808ba9,2026-03-25T23:10:00Z,Philadelphia 76ers,Chicago Bulls,DraftKings,Leonard Miller,player_rebounds,4.5,-131,100.0
+eaf07668d23364ac54cbcf69f4808ba9,2026-03-25T23:10:00Z,Philadelphia 76ers,Chicago Bulls,DraftKings,Matas Buzelis,player_rebounds,5.5,-150,114.0
+eaf07668d23364ac54cbcf69f4808ba9,2026-03-25T23:10:00Z,Philadelphia 76ers,Chicago Bulls,DraftKings,Nick Richards,player_rebounds,7.5,-118,-112.0
+eaf07668d23364ac54cbcf69f4808ba9,2026-03-25T23:10:00Z,Philadelphia 76ers,Chicago Bulls,DraftKings,Paul George,player_rebounds,4.5,-158,120.0
+eaf07668d23364ac54cbcf69f4808ba9,2026-03-25T23:10:00Z,Philadelphia 76ers,Chicago Bulls,DraftKings,Quentin Grimes,player_rebounds,3.5,-162,123.0
+eaf07668d23364ac54cbcf69f4808ba9,2026-03-25T23:10:00Z,Philadelphia 76ers,Chicago Bulls,DraftKings,VJ Edgecombe,player_rebounds,5.5,-113,-117.0
+eaf07668d23364ac54cbcf69f4808ba9,2026-03-25T23:10:00Z,Philadelphia 76ers,Chicago Bulls,FanDuel,Dominick Barlow,player_rebounds,4.5,114,-152.0
+eaf07668d23364ac54cbcf69f4808ba9,2026-03-25T23:10:00Z,Philadelphia 76ers,Chicago Bulls,FanDuel,Jalen Smith,player_rebounds,7.5,-104,-128.0
+eaf07668d23364ac54cbcf69f4808ba9,2026-03-25T23:10:00Z,Philadelphia 76ers,Chicago Bulls,FanDuel,Joel Embiid,player_rebounds,6.5,-112,-118.0
+eaf07668d23364ac54cbcf69f4808ba9,2026-03-25T23:10:00Z,Philadelphia 76ers,Chicago Bulls,FanDuel,Josh Giddey,player_rebounds,8.5,108,-144.0
+eaf07668d23364ac54cbcf69f4808ba9,2026-03-25T23:10:00Z,Philadelphia 76ers,Chicago Bulls,FanDuel,Leonard Miller,player_rebounds,4.5,-146,110.0
+eaf07668d23364ac54cbcf69f4808ba9,2026-03-25T23:10:00Z,Philadelphia 76ers,Chicago Bulls,FanDuel,Matas Buzelis,player_rebounds,6.5,118,-158.0
+eaf07668d23364ac54cbcf69f4808ba9,2026-03-25T23:10:00Z,Philadelphia 76ers,Chicago Bulls,FanDuel,Nick Richards,player_rebounds,7.5,-114,-114.0
+eaf07668d23364ac54cbcf69f4808ba9,2026-03-25T23:10:00Z,Philadelphia 76ers,Chicago Bulls,FanDuel,Paul George,player_rebounds,4.5,-144,108.0
+eaf07668d23364ac54cbcf69f4808ba9,2026-03-25T23:10:00Z,Philadelphia 76ers,Chicago Bulls,FanDuel,Quentin Grimes,player_rebounds,3.5,-158,118.0
+eaf07668d23364ac54cbcf69f4808ba9,2026-03-25T23:10:00Z,Philadelphia 76ers,Chicago Bulls,FanDuel,VJ Edgecombe,player_rebounds,5.5,-114,-114.0
+277fee894c9dc5c623ed6a131bf513c7,2026-03-25T23:40:00Z,Boston Celtics,Oklahoma City Thunder,BetMGM,Ajay Mitchell,player_rebounds,3.5,130,-175.0
+277fee894c9dc5c623ed6a131bf513c7,2026-03-25T23:40:00Z,Boston Celtics,Oklahoma City Thunder,BetMGM,Baylor Scheierman,player_rebounds,4.5,105,-140.0
+277fee894c9dc5c623ed6a131bf513c7,2026-03-25T23:40:00Z,Boston Celtics,Oklahoma City Thunder,BetMGM,Chet Holmgren,player_rebounds,7.5,-140,105.0
+277fee894c9dc5c623ed6a131bf513c7,2026-03-25T23:40:00Z,Boston Celtics,Oklahoma City Thunder,BetMGM,Derrick White,player_rebounds,4.5,100,-135.0
+277fee894c9dc5c623ed6a131bf513c7,2026-03-25T23:40:00Z,Boston Celtics,Oklahoma City Thunder,BetMGM,Isaiah Hartenstein,player_rebounds,7.5,-105,-125.0
+277fee894c9dc5c623ed6a131bf513c7,2026-03-25T23:40:00Z,Boston Celtics,Oklahoma City Thunder,BetMGM,Jalen Williams,player_rebounds,3.5,115,-155.0
+277fee894c9dc5c623ed6a131bf513c7,2026-03-25T23:40:00Z,Boston Celtics,Oklahoma City Thunder,BetMGM,Jaylen Brown,player_rebounds,6.5,-115,-115.0
+277fee894c9dc5c623ed6a131bf513c7,2026-03-25T23:40:00Z,Boston Celtics,Oklahoma City Thunder,BetMGM,Jaylin Williams,player_rebounds,2.5,-165,125.0
+277fee894c9dc5c623ed6a131bf513c7,2026-03-25T23:40:00Z,Boston Celtics,Oklahoma City Thunder,BetMGM,Jayson Tatum,player_rebounds,8.5,-135,100.0
+277fee894c9dc5c623ed6a131bf513c7,2026-03-25T23:40:00Z,Boston Celtics,Oklahoma City Thunder,BetMGM,Luguentz Dort,player_rebounds,2.5,-135,100.0
+277fee894c9dc5c623ed6a131bf513c7,2026-03-25T23:40:00Z,Boston Celtics,Oklahoma City Thunder,BetMGM,Neemias Queta,player_rebounds,8.5,-110,-120.0
+277fee894c9dc5c623ed6a131bf513c7,2026-03-25T23:40:00Z,Boston Celtics,Oklahoma City Thunder,BetMGM,Payton Pritchard,player_rebounds,3.5,-105,-130.0
+277fee894c9dc5c623ed6a131bf513c7,2026-03-25T23:40:00Z,Boston Celtics,Oklahoma City Thunder,BetMGM,Sam Hauser,player_rebounds,3.5,115,-155.0
+277fee894c9dc5c623ed6a131bf513c7,2026-03-25T23:40:00Z,Boston Celtics,Oklahoma City Thunder,BetMGM,Shai Gilgeous-Alexander,player_rebounds,4.5,105,-140.0
+277fee894c9dc5c623ed6a131bf513c7,2026-03-25T23:40:00Z,Boston Celtics,Oklahoma City Thunder,BetOnline.ag,Ajay Mitchell,player_rebounds,3.5,132,-172.0
+277fee894c9dc5c623ed6a131bf513c7,2026-03-25T23:40:00Z,Boston Celtics,Oklahoma City Thunder,BetOnline.ag,Baylor Scheierman,player_rebounds,4.5,105,-135.0
+277fee894c9dc5c623ed6a131bf513c7,2026-03-25T23:40:00Z,Boston Celtics,Oklahoma City Thunder,BetOnline.ag,Cason Wallace,player_rebounds,2.5,-115,-112.0
+277fee894c9dc5c623ed6a131bf513c7,2026-03-25T23:40:00Z,Boston Celtics,Oklahoma City Thunder,BetOnline.ag,Chet Holmgren,player_rebounds,8.5,106,-137.0
+277fee894c9dc5c623ed6a131bf513c7,2026-03-25T23:40:00Z,Boston Celtics,Oklahoma City Thunder,BetOnline.ag,Derrick White,player_rebounds,4.5,109,-141.0
+277fee894c9dc5c623ed6a131bf513c7,2026-03-25T23:40:00Z,Boston Celtics,Oklahoma City Thunder,BetOnline.ag,Isaiah Hartenstein,player_rebounds,7.5,-119,-109.0
+277fee894c9dc5c623ed6a131bf513c7,2026-03-25T23:40:00Z,Boston Celtics,Oklahoma City Thunder,BetOnline.ag,Jalen Williams,player_rebounds,3.5,100,-130.0
+277fee894c9dc5c623ed6a131bf513c7,2026-03-25T23:40:00Z,Boston Celtics,Oklahoma City Thunder,BetOnline.ag,Jaylen Brown,player_rebounds,6.5,-114,-114.0
+277fee894c9dc5c623ed6a131bf513c7,2026-03-25T23:40:00Z,Boston Celtics,Oklahoma City Thunder,BetOnline.ag,Jaylin Williams,player_rebounds,3.5,117,-152.0
+277fee894c9dc5c623ed6a131bf513c7,2026-03-25T23:40:00Z,Boston Celtics,Oklahoma City Thunder,BetOnline.ag,Jayson Tatum,player_rebounds,8.5,-130,100.0
+277fee894c9dc5c623ed6a131bf513c7,2026-03-25T23:40:00Z,Boston Celtics,Oklahoma City Thunder,BetOnline.ag,Luguentz Dort,player_rebounds,2.5,-120,-108.0
+277fee894c9dc5c623ed6a131bf513c7,2026-03-25T23:40:00Z,Boston Celtics,Oklahoma City Thunder,BetOnline.ag,Neemias Queta,player_rebounds,8.5,-106,-122.0
+277fee894c9dc5c623ed6a131bf513c7,2026-03-25T23:40:00Z,Boston Celtics,Oklahoma City Thunder,BetOnline.ag,Payton Pritchard,player_rebounds,3.5,110,-143.0
+277fee894c9dc5c623ed6a131bf513c7,2026-03-25T23:40:00Z,Boston Celtics,Oklahoma City Thunder,BetOnline.ag,Sam Hauser,player_rebounds,2.5,-164,125.0
+277fee894c9dc5c623ed6a131bf513c7,2026-03-25T23:40:00Z,Boston Celtics,Oklahoma City Thunder,BetOnline.ag,Shai Gilgeous-Alexander,player_rebounds,4.5,-101,-128.0
+277fee894c9dc5c623ed6a131bf513c7,2026-03-25T23:40:00Z,Boston Celtics,Oklahoma City Thunder,BetRivers,Ajay Mitchell,player_rebounds,3.5,128,-177.0
+277fee894c9dc5c623ed6a131bf513c7,2026-03-25T23:40:00Z,Boston Celtics,Oklahoma City Thunder,BetRivers,Baylor Scheierman,player_rebounds,4.5,100,-136.0
+277fee894c9dc5c623ed6a131bf513c7,2026-03-25T23:40:00Z,Boston Celtics,Oklahoma City Thunder,BetRivers,Cason Wallace,player_rebounds,2.5,-104,-132.0
+277fee894c9dc5c623ed6a131bf513c7,2026-03-25T23:40:00Z,Boston Celtics,Oklahoma City Thunder,BetRivers,Chet Holmgren,player_rebounds,8.5,104,-139.0
+277fee894c9dc5c623ed6a131bf513c7,2026-03-25T23:40:00Z,Boston Celtics,Oklahoma City Thunder,BetRivers,Derrick White,player_rebounds,4.5,116,-159.0
+277fee894c9dc5c623ed6a131bf513c7,2026-03-25T23:40:00Z,Boston Celtics,Oklahoma City Thunder,BetRivers,Isaiah Hartenstein,player_rebounds,8.5,104,-141.0
+277fee894c9dc5c623ed6a131bf513c7,2026-03-25T23:40:00Z,Boston Celtics,Oklahoma City Thunder,BetRivers,Jalen Williams,player_rebounds,3.5,100,-136.0
+277fee894c9dc5c623ed6a131bf513c7,2026-03-25T23:40:00Z,Boston Celtics,Oklahoma City Thunder,BetRivers,Jaylen Brown,player_rebounds,6.5,-134,-103.0
+277fee894c9dc5c623ed6a131bf513c7,2026-03-25T23:40:00Z,Boston Celtics,Oklahoma City Thunder,BetRivers,Jayson Tatum,player_rebounds,9.5,100,-136.0
+277fee894c9dc5c623ed6a131bf513c7,2026-03-25T23:40:00Z,Boston Celtics,Oklahoma City Thunder,BetRivers,Luguentz Dort,player_rebounds,2.5,-152,110.0
+277fee894c9dc5c623ed6a131bf513c7,2026-03-25T23:40:00Z,Boston Celtics,Oklahoma City Thunder,BetRivers,Neemias Queta,player_rebounds,8.5,-112,-122.0
+277fee894c9dc5c623ed6a131bf513c7,2026-03-25T23:40:00Z,Boston Celtics,Oklahoma City Thunder,BetRivers,Payton Pritchard,player_rebounds,3.5,110,-150.0
+277fee894c9dc5c623ed6a131bf513c7,2026-03-25T23:40:00Z,Boston Celtics,Oklahoma City Thunder,BetRivers,Shai Gilgeous-Alexander,player_rebounds,4.5,-105,-130.0
+277fee894c9dc5c623ed6a131bf513c7,2026-03-25T23:40:00Z,Boston Celtics,Oklahoma City Thunder,Bovada,Ajay Mitchell,player_rebounds,2.5,-180,135.0
+277fee894c9dc5c623ed6a131bf513c7,2026-03-25T23:40:00Z,Boston Celtics,Oklahoma City Thunder,Bovada,Ajay Mitchell,player_rebounds,3.5,130,-170.0
+277fee894c9dc5c623ed6a131bf513c7,2026-03-25T23:40:00Z,Boston Celtics,Oklahoma City Thunder,Bovada,Baylor Scheierman,player_rebounds,3.5,-170,130.0
+277fee894c9dc5c623ed6a131bf513c7,2026-03-25T23:40:00Z,Boston Celtics,Oklahoma City Thunder,Bovada,Baylor Scheierman,player_rebounds,4.5,120,-160.0
+277fee894c9dc5c623ed6a131bf513c7,2026-03-25T23:40:00Z,Boston Celtics,Oklahoma City Thunder,Bovada,Chet Holmgren,player_rebounds,6.5,-290,210.0
+277fee894c9dc5c623ed6a131bf513c7,2026-03-25T23:40:00Z,Boston Celtics,Oklahoma City Thunder,Bovada,Chet Holmgren,player_rebounds,7.5,-165,125.0
+277fee894c9dc5c623ed6a131bf513c7,2026-03-25T23:40:00Z,Boston Celtics,Oklahoma City Thunder,Bovada,Chet Holmgren,player_rebounds,8.5,105,-135.0
+277fee894c9dc5c623ed6a131bf513c7,2026-03-25T23:40:00Z,Boston Celtics,Oklahoma City Thunder,Bovada,Chet Holmgren,player_rebounds,9.5,165,-220.0
+277fee894c9dc5c623ed6a131bf513c7,2026-03-25T23:40:00Z,Boston Celtics,Oklahoma City Thunder,Bovada,Derrick White,player_rebounds,3.5,-210,155.0
+277fee894c9dc5c623ed6a131bf513c7,2026-03-25T23:40:00Z,Boston Celtics,Oklahoma City Thunder,Bovada,Derrick White,player_rebounds,4.5,100,-130.0
+277fee894c9dc5c623ed6a131bf513c7,2026-03-25T23:40:00Z,Boston Celtics,Oklahoma City Thunder,Bovada,Derrick White,player_rebounds,5.5,190,-260.0
+277fee894c9dc5c623ed6a131bf513c7,2026-03-25T23:40:00Z,Boston Celtics,Oklahoma City Thunder,Bovada,Isaiah Hartenstein,player_rebounds,6.5,-220,165.0
+277fee894c9dc5c623ed6a131bf513c7,2026-03-25T23:40:00Z,Boston Celtics,Oklahoma City Thunder,Bovada,Isaiah Hartenstein,player_rebounds,7.5,-125,-105.0
+277fee894c9dc5c623ed6a131bf513c7,2026-03-25T23:40:00Z,Boston Celtics,Oklahoma City Thunder,Bovada,Isaiah Hartenstein,player_rebounds,8.5,135,-180.0
+277fee894c9dc5c623ed6a131bf513c7,2026-03-25T23:40:00Z,Boston Celtics,Oklahoma City Thunder,Bovada,Jalen Williams,player_rebounds,2.5,-220,165.0
+277fee894c9dc5c623ed6a131bf513c7,2026-03-25T23:40:00Z,Boston Celtics,Oklahoma City Thunder,Bovada,Jalen Williams,player_rebounds,3.5,105,-135.0
+277fee894c9dc5c623ed6a131bf513c7,2026-03-25T23:40:00Z,Boston Celtics,Oklahoma City Thunder,Bovada,Jalen Williams,player_rebounds,4.5,215,-300.0
+277fee894c9dc5c623ed6a131bf513c7,2026-03-25T23:40:00Z,Boston Celtics,Oklahoma City Thunder,Bovada,Jaylen Brown,player_rebounds,5.5,-220,165.0
+277fee894c9dc5c623ed6a131bf513c7,2026-03-25T23:40:00Z,Boston Celtics,Oklahoma City Thunder,Bovada,Jaylen Brown,player_rebounds,6.5,-120,-110.0
+277fee894c9dc5c623ed6a131bf513c7,2026-03-25T23:40:00Z,Boston Celtics,Oklahoma City Thunder,Bovada,Jaylen Brown,player_rebounds,7.5,145,-190.0
+277fee894c9dc5c623ed6a131bf513c7,2026-03-25T23:40:00Z,Boston Celtics,Oklahoma City Thunder,Bovada,Jaylin Williams,player_rebounds,2.5,-210,155.0
+277fee894c9dc5c623ed6a131bf513c7,2026-03-25T23:40:00Z,Boston Celtics,Oklahoma City Thunder,Bovada,Jaylin Williams,player_rebounds,3.5,110,-145.0
+277fee894c9dc5c623ed6a131bf513c7,2026-03-25T23:40:00Z,Boston Celtics,Oklahoma City Thunder,Bovada,Jayson Tatum,player_rebounds,7.5,-215,160.0
+277fee894c9dc5c623ed6a131bf513c7,2026-03-25T23:40:00Z,Boston Celtics,Oklahoma City Thunder,Bovada,Jayson Tatum,player_rebounds,8.5,-125,-105.0
+277fee894c9dc5c623ed6a131bf513c7,2026-03-25T23:40:00Z,Boston Celtics,Oklahoma City Thunder,Bovada,Jayson Tatum,player_rebounds,9.5,130,-170.0
+277fee894c9dc5c623ed6a131bf513c7,2026-03-25T23:40:00Z,Boston Celtics,Oklahoma City Thunder,Bovada,Jayson Tatum,player_rebounds,10.5,205,-280.0
+277fee894c9dc5c623ed6a131bf513c7,2026-03-25T23:40:00Z,Boston Celtics,Oklahoma City Thunder,Bovada,Neemias Queta,player_rebounds,7.5,-180,135.0
+277fee894c9dc5c623ed6a131bf513c7,2026-03-25T23:40:00Z,Boston Celtics,Oklahoma City Thunder,Bovada,Neemias Queta,player_rebounds,8.5,-105,-125.0
+277fee894c9dc5c623ed6a131bf513c7,2026-03-25T23:40:00Z,Boston Celtics,Oklahoma City Thunder,Bovada,Neemias Queta,player_rebounds,9.5,155,-210.0
+277fee894c9dc5c623ed6a131bf513c7,2026-03-25T23:40:00Z,Boston Celtics,Oklahoma City Thunder,Bovada,Payton Pritchard,player_rebounds,2.5,-210,155.0
+277fee894c9dc5c623ed6a131bf513c7,2026-03-25T23:40:00Z,Boston Celtics,Oklahoma City Thunder,Bovada,Payton Pritchard,player_rebounds,3.5,110,-145.0
+277fee894c9dc5c623ed6a131bf513c7,2026-03-25T23:40:00Z,Boston Celtics,Oklahoma City Thunder,Bovada,Sam Hauser,player_rebounds,2.5,-165,125.0
+277fee894c9dc5c623ed6a131bf513c7,2026-03-25T23:40:00Z,Boston Celtics,Oklahoma City Thunder,Bovada,Sam Hauser,player_rebounds,3.5,140,-185.0
+277fee894c9dc5c623ed6a131bf513c7,2026-03-25T23:40:00Z,Boston Celtics,Oklahoma City Thunder,Bovada,Shai Gilgeous-Alexander,player_rebounds,3.5,-240,175.0
+277fee894c9dc5c623ed6a131bf513c7,2026-03-25T23:40:00Z,Boston Celtics,Oklahoma City Thunder,Bovada,Shai Gilgeous-Alexander,player_rebounds,4.5,-115,-115.0
+277fee894c9dc5c623ed6a131bf513c7,2026-03-25T23:40:00Z,Boston Celtics,Oklahoma City Thunder,Bovada,Shai Gilgeous-Alexander,player_rebounds,5.5,165,-220.0
+277fee894c9dc5c623ed6a131bf513c7,2026-03-25T23:40:00Z,Boston Celtics,Oklahoma City Thunder,DraftKings,Ajay Mitchell,player_rebounds,3.5,129,-170.0
+277fee894c9dc5c623ed6a131bf513c7,2026-03-25T23:40:00Z,Boston Celtics,Oklahoma City Thunder,DraftKings,Baylor Scheierman,player_rebounds,4.5,117,-154.0
+277fee894c9dc5c623ed6a131bf513c7,2026-03-25T23:40:00Z,Boston Celtics,Oklahoma City Thunder,DraftKings,Chet Holmgren,player_rebounds,8.5,103,-136.0
+277fee894c9dc5c623ed6a131bf513c7,2026-03-25T23:40:00Z,Boston Celtics,Oklahoma City Thunder,DraftKings,Derrick White,player_rebounds,4.5,-101,-130.0
+277fee894c9dc5c623ed6a131bf513c7,2026-03-25T23:40:00Z,Boston Celtics,Oklahoma City Thunder,DraftKings,Isaiah Hartenstein,player_rebounds,7.5,-124,-106.0
+277fee894c9dc5c623ed6a131bf513c7,2026-03-25T23:40:00Z,Boston Celtics,Oklahoma City Thunder,DraftKings,Jalen Williams,player_rebounds,3.5,102,-134.0
+277fee894c9dc5c623ed6a131bf513c7,2026-03-25T23:40:00Z,Boston Celtics,Oklahoma City Thunder,DraftKings,Jaylen Brown,player_rebounds,6.5,-121,-109.0
+277fee894c9dc5c623ed6a131bf513c7,2026-03-25T23:40:00Z,Boston Celtics,Oklahoma City Thunder,DraftKings,Jaylin Williams,player_rebounds,3.5,107,-141.0
+277fee894c9dc5c623ed6a131bf513c7,2026-03-25T23:40:00Z,Boston Celtics,Oklahoma City Thunder,DraftKings,Jayson Tatum,player_rebounds,8.5,-127,-104.0
+277fee894c9dc5c623ed6a131bf513c7,2026-03-25T23:40:00Z,Boston Celtics,Oklahoma City Thunder,DraftKings,Neemias Queta,player_rebounds,8.5,-105,-125.0
+277fee894c9dc5c623ed6a131bf513c7,2026-03-25T23:40:00Z,Boston Celtics,Oklahoma City Thunder,DraftKings,Payton Pritchard,player_rebounds,3.5,107,-140.0
+277fee894c9dc5c623ed6a131bf513c7,2026-03-25T23:40:00Z,Boston Celtics,Oklahoma City Thunder,DraftKings,Sam Hauser,player_rebounds,2.5,-163,124.0
+277fee894c9dc5c623ed6a131bf513c7,2026-03-25T23:40:00Z,Boston Celtics,Oklahoma City Thunder,DraftKings,Shai Gilgeous-Alexander,player_rebounds,4.5,-107,-122.0
+277fee894c9dc5c623ed6a131bf513c7,2026-03-25T23:40:00Z,Boston Celtics,Oklahoma City Thunder,FanDuel,Baylor Scheierman,player_rebounds,4.5,114,-152.0
+277fee894c9dc5c623ed6a131bf513c7,2026-03-25T23:40:00Z,Boston Celtics,Oklahoma City Thunder,FanDuel,Chet Holmgren,player_rebounds,8.5,-102,-130.0
+277fee894c9dc5c623ed6a131bf513c7,2026-03-25T23:40:00Z,Boston Celtics,Oklahoma City Thunder,FanDuel,Derrick White,player_rebounds,4.5,122,-162.0
+277fee894c9dc5c623ed6a131bf513c7,2026-03-25T23:40:00Z,Boston Celtics,Oklahoma City Thunder,FanDuel,Isaiah Hartenstein,player_rebounds,7.5,-136,102.0
+277fee894c9dc5c623ed6a131bf513c7,2026-03-25T23:40:00Z,Boston Celtics,Oklahoma City Thunder,FanDuel,Jalen Williams,player_rebounds,3.5,-114,-114.0
+277fee894c9dc5c623ed6a131bf513c7,2026-03-25T23:40:00Z,Boston Celtics,Oklahoma City Thunder,FanDuel,Jaylen Brown,player_rebounds,6.5,-122,-108.0
+277fee894c9dc5c623ed6a131bf513c7,2026-03-25T23:40:00Z,Boston Celtics,Oklahoma City Thunder,FanDuel,Jayson Tatum,player_rebounds,8.5,-108,-122.0
+277fee894c9dc5c623ed6a131bf513c7,2026-03-25T23:40:00Z,Boston Celtics,Oklahoma City Thunder,FanDuel,Neemias Queta,player_rebounds,8.5,-108,-122.0
+277fee894c9dc5c623ed6a131bf513c7,2026-03-25T23:40:00Z,Boston Celtics,Oklahoma City Thunder,FanDuel,Payton Pritchard,player_rebounds,3.5,104,-138.0
+277fee894c9dc5c623ed6a131bf513c7,2026-03-25T23:40:00Z,Boston Celtics,Oklahoma City Thunder,FanDuel,Sam Hauser,player_rebounds,3.5,128,-172.0
+277fee894c9dc5c623ed6a131bf513c7,2026-03-25T23:40:00Z,Boston Celtics,Oklahoma City Thunder,FanDuel,Shai Gilgeous-Alexander,player_rebounds,4.5,-102,-130.0
+bb33d3e33ac233af2a20161310f567f2,2026-03-25T23:40:00Z,Cleveland Cavaliers,Miami Heat,BetMGM,Andrew Wiggins,player_rebounds,4.5,-120,-110.0
+bb33d3e33ac233af2a20161310f567f2,2026-03-25T23:40:00Z,Cleveland Cavaliers,Miami Heat,BetMGM,Bam Adebayo,player_rebounds,10.5,100,-135.0
+bb33d3e33ac233af2a20161310f567f2,2026-03-25T23:40:00Z,Cleveland Cavaliers,Miami Heat,BetMGM,Davion Mitchell,player_rebounds,2.5,-110,-120.0
+bb33d3e33ac233af2a20161310f567f2,2026-03-25T23:40:00Z,Cleveland Cavaliers,Miami Heat,BetMGM,Donovan Mitchell,player_rebounds,4.5,-160,120.0
+bb33d3e33ac233af2a20161310f567f2,2026-03-25T23:40:00Z,Cleveland Cavaliers,Miami Heat,BetMGM,Evan Mobley,player_rebounds,9.5,-120,-110.0
+bb33d3e33ac233af2a20161310f567f2,2026-03-25T23:40:00Z,Cleveland Cavaliers,Miami Heat,BetMGM,Jaime Jaquez Jr,player_rebounds,3.5,-140,105.0
+bb33d3e33ac233af2a20161310f567f2,2026-03-25T23:40:00Z,Cleveland Cavaliers,Miami Heat,BetMGM,James Harden,player_rebounds,5.5,100,-135.0
+bb33d3e33ac233af2a20161310f567f2,2026-03-25T23:40:00Z,Cleveland Cavaliers,Miami Heat,BetMGM,Norman Powell,player_rebounds,3.5,105,-140.0
+bb33d3e33ac233af2a20161310f567f2,2026-03-25T23:40:00Z,Cleveland Cavaliers,Miami Heat,BetMGM,Pelle Larsson,player_rebounds,3.5,100,-135.0
+bb33d3e33ac233af2a20161310f567f2,2026-03-25T23:40:00Z,Cleveland Cavaliers,Miami Heat,BetMGM,Sam Merrill,player_rebounds,3.5,-105,-125.0
+bb33d3e33ac233af2a20161310f567f2,2026-03-25T23:40:00Z,Cleveland Cavaliers,Miami Heat,BetMGM,Tyler Herro,player_rebounds,4.5,-160,120.0
+bb33d3e33ac233af2a20161310f567f2,2026-03-25T23:40:00Z,Cleveland Cavaliers,Miami Heat,BetOnline.ag,Andrew Wiggins,player_rebounds,4.5,-112,-115.0
+bb33d3e33ac233af2a20161310f567f2,2026-03-25T23:40:00Z,Cleveland Cavaliers,Miami Heat,BetOnline.ag,Bam Adebayo,player_rebounds,10.5,103,-133.0
+bb33d3e33ac233af2a20161310f567f2,2026-03-25T23:40:00Z,Cleveland Cavaliers,Miami Heat,BetOnline.ag,Davion Mitchell,player_rebounds,2.5,-114,-114.0
+bb33d3e33ac233af2a20161310f567f2,2026-03-25T23:40:00Z,Cleveland Cavaliers,Miami Heat,BetOnline.ag,Dean Wade,player_rebounds,4.5,117,-152.0
+bb33d3e33ac233af2a20161310f567f2,2026-03-25T23:40:00Z,Cleveland Cavaliers,Miami Heat,BetOnline.ag,Donovan Mitchell,player_rebounds,4.5,-145,111.0
+bb33d3e33ac233af2a20161310f567f2,2026-03-25T23:40:00Z,Cleveland Cavaliers,Miami Heat,BetOnline.ag,Evan Mobley,player_rebounds,9.5,-103,-125.0
+bb33d3e33ac233af2a20161310f567f2,2026-03-25T23:40:00Z,Cleveland Cavaliers,Miami Heat,BetOnline.ag,Jaime Jaquez Jr,player_rebounds,3.5,-123,-104.0
+bb33d3e33ac233af2a20161310f567f2,2026-03-25T23:40:00Z,Cleveland Cavaliers,Miami Heat,BetOnline.ag,James Harden,player_rebounds,5.5,117,-152.0
+bb33d3e33ac233af2a20161310f567f2,2026-03-25T23:40:00Z,Cleveland Cavaliers,Miami Heat,BetOnline.ag,Keon Ellis,player_rebounds,2.5,-123,-105.0
+bb33d3e33ac233af2a20161310f567f2,2026-03-25T23:40:00Z,Cleveland Cavaliers,Miami Heat,BetOnline.ag,Norman Powell,player_rebounds,3.5,104,-135.0
+bb33d3e33ac233af2a20161310f567f2,2026-03-25T23:40:00Z,Cleveland Cavaliers,Miami Heat,BetOnline.ag,Pelle Larsson,player_rebounds,3.5,106,-137.0
+bb33d3e33ac233af2a20161310f567f2,2026-03-25T23:40:00Z,Cleveland Cavaliers,Miami Heat,BetOnline.ag,Sam Merrill,player_rebounds,3.5,118,-154.0
+bb33d3e33ac233af2a20161310f567f2,2026-03-25T23:40:00Z,Cleveland Cavaliers,Miami Heat,BetOnline.ag,Tyler Herro,player_rebounds,4.5,-143,110.0
+bb33d3e33ac233af2a20161310f567f2,2026-03-25T23:40:00Z,Cleveland Cavaliers,Miami Heat,BetRivers,Andrew Wiggins,player_rebounds,4.5,-112,-122.0
+bb33d3e33ac233af2a20161310f567f2,2026-03-25T23:40:00Z,Cleveland Cavaliers,Miami Heat,BetRivers,Bam Adebayo,player_rebounds,10.5,-104,-132.0
+bb33d3e33ac233af2a20161310f567f2,2026-03-25T23:40:00Z,Cleveland Cavaliers,Miami Heat,BetRivers,Davion Mitchell,player_rebounds,2.5,-127,-107.0
+bb33d3e33ac233af2a20161310f567f2,2026-03-25T23:40:00Z,Cleveland Cavaliers,Miami Heat,BetRivers,Dean Wade,player_rebounds,3.5,-167,123.0
+bb33d3e33ac233af2a20161310f567f2,2026-03-25T23:40:00Z,Cleveland Cavaliers,Miami Heat,BetRivers,Donovan Mitchell,player_rebounds,4.5,-125,-109.0
+bb33d3e33ac233af2a20161310f567f2,2026-03-25T23:40:00Z,Cleveland Cavaliers,Miami Heat,BetRivers,Evan Mobley,player_rebounds,9.5,-122,-112.0
+bb33d3e33ac233af2a20161310f567f2,2026-03-25T23:40:00Z,Cleveland Cavaliers,Miami Heat,BetRivers,Jaime Jaquez Jr,player_rebounds,3.5,-130,-105.0
+bb33d3e33ac233af2a20161310f567f2,2026-03-25T23:40:00Z,Cleveland Cavaliers,Miami Heat,BetRivers,James Harden,player_rebounds,5.5,114,-155.0
+bb33d3e33ac233af2a20161310f567f2,2026-03-25T23:40:00Z,Cleveland Cavaliers,Miami Heat,BetRivers,Keon Ellis,player_rebounds,2.5,-129,-106.0
+bb33d3e33ac233af2a20161310f567f2,2026-03-25T23:40:00Z,Cleveland Cavaliers,Miami Heat,BetRivers,Norman Powell,player_rebounds,3.5,106,-143.0
+bb33d3e33ac233af2a20161310f567f2,2026-03-25T23:40:00Z,Cleveland Cavaliers,Miami Heat,BetRivers,Pelle Larsson,player_rebounds,3.5,100,-137.0
+bb33d3e33ac233af2a20161310f567f2,2026-03-25T23:40:00Z,Cleveland Cavaliers,Miami Heat,BetRivers,Sam Merrill,player_rebounds,3.5,120,-165.0
+bb33d3e33ac233af2a20161310f567f2,2026-03-25T23:40:00Z,Cleveland Cavaliers,Miami Heat,BetRivers,Tyler Herro,player_rebounds,5.5,120,-162.0
+bb33d3e33ac233af2a20161310f567f2,2026-03-25T23:40:00Z,Cleveland Cavaliers,Miami Heat,Bovada,Andrew Wiggins,player_rebounds,3.5,-230,170.0
+bb33d3e33ac233af2a20161310f567f2,2026-03-25T23:40:00Z,Cleveland Cavaliers,Miami Heat,Bovada,Andrew Wiggins,player_rebounds,4.5,-110,-120.0
+bb33d3e33ac233af2a20161310f567f2,2026-03-25T23:40:00Z,Cleveland Cavaliers,Miami Heat,Bovada,Andrew Wiggins,player_rebounds,5.5,175,-240.0
+bb33d3e33ac233af2a20161310f567f2,2026-03-25T23:40:00Z,Cleveland Cavaliers,Miami Heat,Bovada,Bam Adebayo,player_rebounds,8.5,-260,190.0
+bb33d3e33ac233af2a20161310f567f2,2026-03-25T23:40:00Z,Cleveland Cavaliers,Miami Heat,Bovada,Bam Adebayo,player_rebounds,9.5,-160,120.0
+bb33d3e33ac233af2a20161310f567f2,2026-03-25T23:40:00Z,Cleveland Cavaliers,Miami Heat,Bovada,Bam Adebayo,player_rebounds,10.5,100,-130.0
+bb33d3e33ac233af2a20161310f567f2,2026-03-25T23:40:00Z,Cleveland Cavaliers,Miami Heat,Bovada,Bam Adebayo,player_rebounds,11.5,155,-210.0
+bb33d3e33ac233af2a20161310f567f2,2026-03-25T23:40:00Z,Cleveland Cavaliers,Miami Heat,Bovada,Davion Mitchell,player_rebounds,2.5,-120,-110.0
+bb33d3e33ac233af2a20161310f567f2,2026-03-25T23:40:00Z,Cleveland Cavaliers,Miami Heat,Bovada,Davion Mitchell,player_rebounds,3.5,190,-260.0
+bb33d3e33ac233af2a20161310f567f2,2026-03-25T23:40:00Z,Cleveland Cavaliers,Miami Heat,Bovada,Dean Wade,player_rebounds,3.5,-180,135.0
+bb33d3e33ac233af2a20161310f567f2,2026-03-25T23:40:00Z,Cleveland Cavaliers,Miami Heat,Bovada,Dean Wade,player_rebounds,4.5,115,-150.0
+bb33d3e33ac233af2a20161310f567f2,2026-03-25T23:40:00Z,Cleveland Cavaliers,Miami Heat,Bovada,Donovan Mitchell,player_rebounds,4.5,-145,110.0
+bb33d3e33ac233af2a20161310f567f2,2026-03-25T23:40:00Z,Cleveland Cavaliers,Miami Heat,Bovada,Donovan Mitchell,player_rebounds,5.5,130,-170.0
+bb33d3e33ac233af2a20161310f567f2,2026-03-25T23:40:00Z,Cleveland Cavaliers,Miami Heat,Bovada,Evan Mobley,player_rebounds,7.5,-300,215.0
+bb33d3e33ac233af2a20161310f567f2,2026-03-25T23:40:00Z,Cleveland Cavaliers,Miami Heat,Bovada,Evan Mobley,player_rebounds,8.5,-170,130.0
+bb33d3e33ac233af2a20161310f567f2,2026-03-25T23:40:00Z,Cleveland Cavaliers,Miami Heat,Bovada,Evan Mobley,player_rebounds,9.5,-105,-125.0
+bb33d3e33ac233af2a20161310f567f2,2026-03-25T23:40:00Z,Cleveland Cavaliers,Miami Heat,Bovada,Evan Mobley,player_rebounds,10.5,150,-200.0
+bb33d3e33ac233af2a20161310f567f2,2026-03-25T23:40:00Z,Cleveland Cavaliers,Miami Heat,Bovada,Jaime Jaquez Jr,player_rebounds,3.5,-125,-105.0
+bb33d3e33ac233af2a20161310f567f2,2026-03-25T23:40:00Z,Cleveland Cavaliers,Miami Heat,Bovada,Jaime Jaquez Jr,player_rebounds,4.5,165,-220.0
+bb33d3e33ac233af2a20161310f567f2,2026-03-25T23:40:00Z,Cleveland Cavaliers,Miami Heat,Bovada,James Harden,player_rebounds,4.5,-150,115.0
+bb33d3e33ac233af2a20161310f567f2,2026-03-25T23:40:00Z,Cleveland Cavaliers,Miami Heat,Bovada,James Harden,player_rebounds,5.5,125,-165.0
+bb33d3e33ac233af2a20161310f567f2,2026-03-25T23:40:00Z,Cleveland Cavaliers,Miami Heat,Bovada,Keon Ellis,player_rebounds,2.5,-125,-105.0
+bb33d3e33ac233af2a20161310f567f2,2026-03-25T23:40:00Z,Cleveland Cavaliers,Miami Heat,Bovada,Keon Ellis,player_rebounds,3.5,185,-250.0
+bb33d3e33ac233af2a20161310f567f2,2026-03-25T23:40:00Z,Cleveland Cavaliers,Miami Heat,Bovada,Norman Powell,player_rebounds,2.5,-230,170.0
+bb33d3e33ac233af2a20161310f567f2,2026-03-25T23:40:00Z,Cleveland Cavaliers,Miami Heat,Bovada,Norman Powell,player_rebounds,3.5,100,-130.0
+bb33d3e33ac233af2a20161310f567f2,2026-03-25T23:40:00Z,Cleveland Cavaliers,Miami Heat,Bovada,Norman Powell,player_rebounds,4.5,205,-280.0
+bb33d3e33ac233af2a20161310f567f2,2026-03-25T23:40:00Z,Cleveland Cavaliers,Miami Heat,Bovada,Pelle Larsson,player_rebounds,2.5,-220,165.0
+bb33d3e33ac233af2a20161310f567f2,2026-03-25T23:40:00Z,Cleveland Cavaliers,Miami Heat,Bovada,Pelle Larsson,player_rebounds,3.5,105,-135.0
+bb33d3e33ac233af2a20161310f567f2,2026-03-25T23:40:00Z,Cleveland Cavaliers,Miami Heat,Bovada,Pelle Larsson,player_rebounds,4.5,215,-300.0
+bb33d3e33ac233af2a20161310f567f2,2026-03-25T23:40:00Z,Cleveland Cavaliers,Miami Heat,Bovada,Sam Merrill,player_rebounds,2.5,-200,150.0
+bb33d3e33ac233af2a20161310f567f2,2026-03-25T23:40:00Z,Cleveland Cavaliers,Miami Heat,Bovada,Sam Merrill,player_rebounds,3.5,115,-150.0
+bb33d3e33ac233af2a20161310f567f2,2026-03-25T23:40:00Z,Cleveland Cavaliers,Miami Heat,Bovada,Tyler Herro,player_rebounds,4.5,-145,110.0
+bb33d3e33ac233af2a20161310f567f2,2026-03-25T23:40:00Z,Cleveland Cavaliers,Miami Heat,Bovada,Tyler Herro,player_rebounds,5.5,130,-170.0
+bb33d3e33ac233af2a20161310f567f2,2026-03-25T23:40:00Z,Cleveland Cavaliers,Miami Heat,DraftKings,Andrew Wiggins,player_rebounds,4.5,-111,-118.0
+bb33d3e33ac233af2a20161310f567f2,2026-03-25T23:40:00Z,Cleveland Cavaliers,Miami Heat,DraftKings,Bam Adebayo,player_rebounds,10.5,-102,-130.0
+bb33d3e33ac233af2a20161310f567f2,2026-03-25T23:40:00Z,Cleveland Cavaliers,Miami Heat,DraftKings,Davion Mitchell,player_rebounds,2.5,-118,-112.0
+bb33d3e33ac233af2a20161310f567f2,2026-03-25T23:40:00Z,Cleveland Cavaliers,Miami Heat,DraftKings,Dean Wade,player_rebounds,4.5,116,-153.0
+bb33d3e33ac233af2a20161310f567f2,2026-03-25T23:40:00Z,Cleveland Cavaliers,Miami Heat,DraftKings,Donovan Mitchell,player_rebounds,4.5,-141,107.0
+bb33d3e33ac233af2a20161310f567f2,2026-03-25T23:40:00Z,Cleveland Cavaliers,Miami Heat,DraftKings,Evan Mobley,player_rebounds,9.5,-104,-127.0
+bb33d3e33ac233af2a20161310f567f2,2026-03-25T23:40:00Z,Cleveland Cavaliers,Miami Heat,DraftKings,Jaime Jaquez Jr,player_rebounds,3.5,-126,-105.0
+bb33d3e33ac233af2a20161310f567f2,2026-03-25T23:40:00Z,Cleveland Cavaliers,Miami Heat,DraftKings,James Harden,player_rebounds,4.5,-150,114.0
+bb33d3e33ac233af2a20161310f567f2,2026-03-25T23:40:00Z,Cleveland Cavaliers,Miami Heat,DraftKings,Keon Ellis,player_rebounds,2.5,-124,-106.0
+bb33d3e33ac233af2a20161310f567f2,2026-03-25T23:40:00Z,Cleveland Cavaliers,Miami Heat,DraftKings,Norman Powell,player_rebounds,3.5,101,-133.0
+bb33d3e33ac233af2a20161310f567f2,2026-03-25T23:40:00Z,Cleveland Cavaliers,Miami Heat,DraftKings,Pelle Larsson,player_rebounds,3.5,102,-134.0
+bb33d3e33ac233af2a20161310f567f2,2026-03-25T23:40:00Z,Cleveland Cavaliers,Miami Heat,DraftKings,Sam Merrill,player_rebounds,3.5,116,-153.0
+bb33d3e33ac233af2a20161310f567f2,2026-03-25T23:40:00Z,Cleveland Cavaliers,Miami Heat,DraftKings,Tyler Herro,player_rebounds,4.5,-147,112.0
+bb33d3e33ac233af2a20161310f567f2,2026-03-25T23:40:00Z,Cleveland Cavaliers,Miami Heat,FanDuel,Andrew Wiggins,player_rebounds,4.5,-114,-114.0
+bb33d3e33ac233af2a20161310f567f2,2026-03-25T23:40:00Z,Cleveland Cavaliers,Miami Heat,FanDuel,Bam Adebayo,player_rebounds,10.5,100,-132.0
+bb33d3e33ac233af2a20161310f567f2,2026-03-25T23:40:00Z,Cleveland Cavaliers,Miami Heat,FanDuel,Dean Wade,player_rebounds,4.5,114,-152.0
+bb33d3e33ac233af2a20161310f567f2,2026-03-25T23:40:00Z,Cleveland Cavaliers,Miami Heat,FanDuel,Donovan Mitchell,player_rebounds,4.5,-146,110.0
+bb33d3e33ac233af2a20161310f567f2,2026-03-25T23:40:00Z,Cleveland Cavaliers,Miami Heat,FanDuel,Evan Mobley,player_rebounds,9.5,-118,-112.0
+bb33d3e33ac233af2a20161310f567f2,2026-03-25T23:40:00Z,Cleveland Cavaliers,Miami Heat,FanDuel,Jaime Jaquez Jr,player_rebounds,3.5,-114,-114.0
+bb33d3e33ac233af2a20161310f567f2,2026-03-25T23:40:00Z,Cleveland Cavaliers,Miami Heat,FanDuel,James Harden,player_rebounds,5.5,118,-158.0
+bb33d3e33ac233af2a20161310f567f2,2026-03-25T23:40:00Z,Cleveland Cavaliers,Miami Heat,FanDuel,Norman Powell,player_rebounds,3.5,100,-132.0
+bb33d3e33ac233af2a20161310f567f2,2026-03-25T23:40:00Z,Cleveland Cavaliers,Miami Heat,FanDuel,Pelle Larsson,player_rebounds,3.5,104,-138.0
+bb33d3e33ac233af2a20161310f567f2,2026-03-25T23:40:00Z,Cleveland Cavaliers,Miami Heat,FanDuel,Sam Merrill,player_rebounds,3.5,122,-162.0
+bb33d3e33ac233af2a20161310f567f2,2026-03-25T23:40:00Z,Cleveland Cavaliers,Miami Heat,FanDuel,Tyler Herro,player_rebounds,5.5,128,-172.0
+bcbad64f54906ae96b4be0ef54b453b4,2026-03-26T00:10:00Z,Memphis Grizzlies,San Antonio Spurs,BetMGM,Devin Vassell,player_rebounds,3.5,-125,-105.0
+bcbad64f54906ae96b4be0ef54b453b4,2026-03-26T00:10:00Z,Memphis Grizzlies,San Antonio Spurs,BetMGM,Dylan Harper,player_rebounds,4.5,105,-140.0
+bcbad64f54906ae96b4be0ef54b453b4,2026-03-26T00:10:00Z,Memphis Grizzlies,San Antonio Spurs,BetMGM,Julian Champagnie,player_rebounds,5.5,-110,-120.0
+bcbad64f54906ae96b4be0ef54b453b4,2026-03-26T00:10:00Z,Memphis Grizzlies,San Antonio Spurs,BetMGM,Stephon Castle,player_rebounds,5.5,105,-140.0
+bcbad64f54906ae96b4be0ef54b453b4,2026-03-26T00:10:00Z,Memphis Grizzlies,San Antonio Spurs,BetMGM,Victor Wembanyama,player_rebounds,12.5,-120,-110.0
+bcbad64f54906ae96b4be0ef54b453b4,2026-03-26T00:10:00Z,Memphis Grizzlies,San Antonio Spurs,BetOnline.ag,Cam Spencer,player_rebounds,2.5,115,-149.0
+bcbad64f54906ae96b4be0ef54b453b4,2026-03-26T00:10:00Z,Memphis Grizzlies,San Antonio Spurs,BetOnline.ag,Cedric Coward,player_rebounds,4.5,-143,110.0
+bcbad64f54906ae96b4be0ef54b453b4,2026-03-26T00:10:00Z,Memphis Grizzlies,San Antonio Spurs,BetOnline.ag,Devin Vassell,player_rebounds,3.5,-116,-111.0
+bcbad64f54906ae96b4be0ef54b453b4,2026-03-26T00:10:00Z,Memphis Grizzlies,San Antonio Spurs,BetOnline.ag,Dylan Harper,player_rebounds,4.5,120,-156.0
+bcbad64f54906ae96b4be0ef54b453b4,2026-03-26T00:10:00Z,Memphis Grizzlies,San Antonio Spurs,BetOnline.ag,G.G. Jackson,player_rebounds,5.5,122,-159.0
+bcbad64f54906ae96b4be0ef54b453b4,2026-03-26T00:10:00Z,Memphis Grizzlies,San Antonio Spurs,BetOnline.ag,Harrison Barnes,player_rebounds,3.5,120,-156.0
+bcbad64f54906ae96b4be0ef54b453b4,2026-03-26T00:10:00Z,Memphis Grizzlies,San Antonio Spurs,BetOnline.ag,Julian Champagnie,player_rebounds,5.5,-108,-120.0
+bcbad64f54906ae96b4be0ef54b453b4,2026-03-26T00:10:00Z,Memphis Grizzlies,San Antonio Spurs,BetOnline.ag,Keldon Johnson,player_rebounds,5.5,115,-149.0
+bcbad64f54906ae96b4be0ef54b453b4,2026-03-26T00:10:00Z,Memphis Grizzlies,San Antonio Spurs,BetOnline.ag,Olivier-Maxence Prosper,player_rebounds,4.5,-106,-122.0
+bcbad64f54906ae96b4be0ef54b453b4,2026-03-26T00:10:00Z,Memphis Grizzlies,San Antonio Spurs,BetOnline.ag,Stephon Castle,player_rebounds,5.5,113,-147.0
+bcbad64f54906ae96b4be0ef54b453b4,2026-03-26T00:10:00Z,Memphis Grizzlies,San Antonio Spurs,BetOnline.ag,Taylor Hendricks,player_rebounds,4.5,122,-159.0
+bcbad64f54906ae96b4be0ef54b453b4,2026-03-26T00:10:00Z,Memphis Grizzlies,San Antonio Spurs,BetOnline.ag,Victor Wembanyama,player_rebounds,12.5,-103,-125.0
+bcbad64f54906ae96b4be0ef54b453b4,2026-03-26T00:10:00Z,Memphis Grizzlies,San Antonio Spurs,BetOnline.ag,Walter Clayton Jr.,player_rebounds,2.5,110,-143.0
+bcbad64f54906ae96b4be0ef54b453b4,2026-03-26T00:10:00Z,Memphis Grizzlies,San Antonio Spurs,BetRivers,Cedric Coward,player_rebounds,4.5,-134,100.0
+bcbad64f54906ae96b4be0ef54b453b4,2026-03-26T00:10:00Z,Memphis Grizzlies,San Antonio Spurs,BetRivers,Devin Vassell,player_rebounds,3.5,-117,-117.0
+bcbad64f54906ae96b4be0ef54b453b4,2026-03-26T00:10:00Z,Memphis Grizzlies,San Antonio Spurs,BetRivers,Dylan Harper,player_rebounds,3.5,-167,120.0
+bcbad64f54906ae96b4be0ef54b453b4,2026-03-26T00:10:00Z,Memphis Grizzlies,San Antonio Spurs,BetRivers,G.G. Jackson,player_rebounds,5.5,112,-152.0
+bcbad64f54906ae96b4be0ef54b453b4,2026-03-26T00:10:00Z,Memphis Grizzlies,San Antonio Spurs,BetRivers,Julian Champagnie,player_rebounds,5.5,-121,-113.0
+bcbad64f54906ae96b4be0ef54b453b4,2026-03-26T00:10:00Z,Memphis Grizzlies,San Antonio Spurs,BetRivers,Keldon Johnson,player_rebounds,4.5,-162,120.0
+bcbad64f54906ae96b4be0ef54b453b4,2026-03-26T00:10:00Z,Memphis Grizzlies,San Antonio Spurs,BetRivers,Stephon Castle,player_rebounds,5.5,104,-141.0
+bcbad64f54906ae96b4be0ef54b453b4,2026-03-26T00:10:00Z,Memphis Grizzlies,San Antonio Spurs,BetRivers,Taylor Hendricks,player_rebounds,4.5,112,-152.0
+bcbad64f54906ae96b4be0ef54b453b4,2026-03-26T00:10:00Z,Memphis Grizzlies,San Antonio Spurs,BetRivers,Victor Wembanyama,player_rebounds,12.5,-109,-125.0
+bcbad64f54906ae96b4be0ef54b453b4,2026-03-26T00:10:00Z,Memphis Grizzlies,San Antonio Spurs,Bovada,Cam Spencer,player_rebounds,1.5,-275,200.0
+bcbad64f54906ae96b4be0ef54b453b4,2026-03-26T00:10:00Z,Memphis Grizzlies,San Antonio Spurs,Bovada,Cam Spencer,player_rebounds,2.5,105,-135.0
+bcbad64f54906ae96b4be0ef54b453b4,2026-03-26T00:10:00Z,Memphis Grizzlies,San Antonio Spurs,Bovada,Cedric Coward,player_rebounds,3.5,-280,205.0
+bcbad64f54906ae96b4be0ef54b453b4,2026-03-26T00:10:00Z,Memphis Grizzlies,San Antonio Spurs,Bovada,Cedric Coward,player_rebounds,4.5,-130,100.0
+bcbad64f54906ae96b4be0ef54b453b4,2026-03-26T00:10:00Z,Memphis Grizzlies,San Antonio Spurs,Bovada,Cedric Coward,player_rebounds,5.5,145,-190.0
+bcbad64f54906ae96b4be0ef54b453b4,2026-03-26T00:10:00Z,Memphis Grizzlies,San Antonio Spurs,Bovada,Devin Vassell,player_rebounds,2.5,-280,205.0
+bcbad64f54906ae96b4be0ef54b453b4,2026-03-26T00:10:00Z,Memphis Grizzlies,San Antonio Spurs,Bovada,Devin Vassell,player_rebounds,3.5,-120,-110.0
+bcbad64f54906ae96b4be0ef54b453b4,2026-03-26T00:10:00Z,Memphis Grizzlies,San Antonio Spurs,Bovada,Devin Vassell,player_rebounds,4.5,170,-230.0
+bcbad64f54906ae96b4be0ef54b453b4,2026-03-26T00:10:00Z,Memphis Grizzlies,San Antonio Spurs,Bovada,Dylan Harper,player_rebounds,3.5,-165,125.0
+bcbad64f54906ae96b4be0ef54b453b4,2026-03-26T00:10:00Z,Memphis Grizzlies,San Antonio Spurs,Bovada,Dylan Harper,player_rebounds,4.5,125,-165.0
+bcbad64f54906ae96b4be0ef54b453b4,2026-03-26T00:10:00Z,Memphis Grizzlies,San Antonio Spurs,Bovada,G.G. Jackson,player_rebounds,4.5,-160,120.0
+bcbad64f54906ae96b4be0ef54b453b4,2026-03-26T00:10:00Z,Memphis Grizzlies,San Antonio Spurs,Bovada,G.G. Jackson,player_rebounds,5.5,120,-160.0
+bcbad64f54906ae96b4be0ef54b453b4,2026-03-26T00:10:00Z,Memphis Grizzlies,San Antonio Spurs,Bovada,Harrison Barnes,player_rebounds,2.5,-200,150.0
+bcbad64f54906ae96b4be0ef54b453b4,2026-03-26T00:10:00Z,Memphis Grizzlies,San Antonio Spurs,Bovada,Harrison Barnes,player_rebounds,3.5,115,-150.0
+bcbad64f54906ae96b4be0ef54b453b4,2026-03-26T00:10:00Z,Memphis Grizzlies,San Antonio Spurs,Bovada,Julian Champagnie,player_rebounds,4.5,-215,160.0
+bcbad64f54906ae96b4be0ef54b453b4,2026-03-26T00:10:00Z,Memphis Grizzlies,San Antonio Spurs,Bovada,Julian Champagnie,player_rebounds,5.5,-110,-120.0
+bcbad64f54906ae96b4be0ef54b453b4,2026-03-26T00:10:00Z,Memphis Grizzlies,San Antonio Spurs,Bovada,Julian Champagnie,player_rebounds,6.5,165,-220.0
+bcbad64f54906ae96b4be0ef54b453b4,2026-03-26T00:10:00Z,Memphis Grizzlies,San Antonio Spurs,Bovada,Keldon Johnson,player_rebounds,4.5,-165,125.0
+bcbad64f54906ae96b4be0ef54b453b4,2026-03-26T00:10:00Z,Memphis Grizzlies,San Antonio Spurs,Bovada,Keldon Johnson,player_rebounds,5.5,115,-150.0
+bcbad64f54906ae96b4be0ef54b453b4,2026-03-26T00:10:00Z,Memphis Grizzlies,San Antonio Spurs,Bovada,Keldon Johnson,player_rebounds,6.5,205,-280.0
+bcbad64f54906ae96b4be0ef54b453b4,2026-03-26T00:10:00Z,Memphis Grizzlies,San Antonio Spurs,Bovada,Olivier-Maxence Prosper,player_rebounds,3.5,-240,175.0
+bcbad64f54906ae96b4be0ef54b453b4,2026-03-26T00:10:00Z,Memphis Grizzlies,San Antonio Spurs,Bovada,Olivier-Maxence Prosper,player_rebounds,4.5,-115,-115.0
+bcbad64f54906ae96b4be0ef54b453b4,2026-03-26T00:10:00Z,Memphis Grizzlies,San Antonio Spurs,Bovada,Olivier-Maxence Prosper,player_rebounds,5.5,165,-220.0
+bcbad64f54906ae96b4be0ef54b453b4,2026-03-26T00:10:00Z,Memphis Grizzlies,San Antonio Spurs,Bovada,Stephon Castle,player_rebounds,4.5,-170,130.0
+bcbad64f54906ae96b4be0ef54b453b4,2026-03-26T00:10:00Z,Memphis Grizzlies,San Antonio Spurs,Bovada,Stephon Castle,player_rebounds,5.5,110,-145.0
+bcbad64f54906ae96b4be0ef54b453b4,2026-03-26T00:10:00Z,Memphis Grizzlies,San Antonio Spurs,Bovada,Stephon Castle,player_rebounds,6.5,200,-275.0
+bcbad64f54906ae96b4be0ef54b453b4,2026-03-26T00:10:00Z,Memphis Grizzlies,San Antonio Spurs,Bovada,Taylor Hendricks,player_rebounds,3.5,-170,130.0
+bcbad64f54906ae96b4be0ef54b453b4,2026-03-26T00:10:00Z,Memphis Grizzlies,San Antonio Spurs,Bovada,Taylor Hendricks,player_rebounds,4.5,120,-160.0
+bcbad64f54906ae96b4be0ef54b453b4,2026-03-26T00:10:00Z,Memphis Grizzlies,San Antonio Spurs,Bovada,Victor Wembanyama,player_rebounds,10.5,-260,190.0
+bcbad64f54906ae96b4be0ef54b453b4,2026-03-26T00:10:00Z,Memphis Grizzlies,San Antonio Spurs,Bovada,Victor Wembanyama,player_rebounds,11.5,-165,125.0
+bcbad64f54906ae96b4be0ef54b453b4,2026-03-26T00:10:00Z,Memphis Grizzlies,San Antonio Spurs,Bovada,Victor Wembanyama,player_rebounds,12.5,-110,-120.0
+bcbad64f54906ae96b4be0ef54b453b4,2026-03-26T00:10:00Z,Memphis Grizzlies,San Antonio Spurs,Bovada,Victor Wembanyama,player_rebounds,13.5,135,-180.0
+bcbad64f54906ae96b4be0ef54b453b4,2026-03-26T00:10:00Z,Memphis Grizzlies,San Antonio Spurs,Bovada,Victor Wembanyama,player_rebounds,14.5,200,-275.0
+bcbad64f54906ae96b4be0ef54b453b4,2026-03-26T00:10:00Z,Memphis Grizzlies,San Antonio Spurs,Bovada,Walter Clayton Jr.,player_rebounds,1.5,-250,185.0
+bcbad64f54906ae96b4be0ef54b453b4,2026-03-26T00:10:00Z,Memphis Grizzlies,San Antonio Spurs,Bovada,Walter Clayton Jr.,player_rebounds,2.5,115,-150.0
+bcbad64f54906ae96b4be0ef54b453b4,2026-03-26T00:10:00Z,Memphis Grizzlies,San Antonio Spurs,DraftKings,Cam Spencer,player_rebounds,2.5,106,-139.0
+bcbad64f54906ae96b4be0ef54b453b4,2026-03-26T00:10:00Z,Memphis Grizzlies,San Antonio Spurs,DraftKings,Cedric Coward,player_rebounds,4.5,-132,100.0
+bcbad64f54906ae96b4be0ef54b453b4,2026-03-26T00:10:00Z,Memphis Grizzlies,San Antonio Spurs,DraftKings,Devin Vassell,player_rebounds,3.5,-118,-111.0
+bcbad64f54906ae96b4be0ef54b453b4,2026-03-26T00:10:00Z,Memphis Grizzlies,San Antonio Spurs,DraftKings,Dylan Harper,player_rebounds,4.5,124,-164.0
+bcbad64f54906ae96b4be0ef54b453b4,2026-03-26T00:10:00Z,Memphis Grizzlies,San Antonio Spurs,DraftKings,G.G. Jackson,player_rebounds,5.5,118,-156.0
+bcbad64f54906ae96b4be0ef54b453b4,2026-03-26T00:10:00Z,Memphis Grizzlies,San Antonio Spurs,DraftKings,Harrison Barnes,player_rebounds,3.5,116,-153.0
+bcbad64f54906ae96b4be0ef54b453b4,2026-03-26T00:10:00Z,Memphis Grizzlies,San Antonio Spurs,DraftKings,Julian Champagnie,player_rebounds,5.5,-110,-120.0
+bcbad64f54906ae96b4be0ef54b453b4,2026-03-26T00:10:00Z,Memphis Grizzlies,San Antonio Spurs,DraftKings,Keldon Johnson,player_rebounds,5.5,112,-148.0
+bcbad64f54906ae96b4be0ef54b453b4,2026-03-26T00:10:00Z,Memphis Grizzlies,San Antonio Spurs,DraftKings,Olivier-Maxence Prosper,player_rebounds,4.5,-113,-117.0
+bcbad64f54906ae96b4be0ef54b453b4,2026-03-26T00:10:00Z,Memphis Grizzlies,San Antonio Spurs,DraftKings,Stephon Castle,player_rebounds,5.5,110,-144.0
+bcbad64f54906ae96b4be0ef54b453b4,2026-03-26T00:10:00Z,Memphis Grizzlies,San Antonio Spurs,DraftKings,Taylor Hendricks,player_rebounds,4.5,119,-157.0
+bcbad64f54906ae96b4be0ef54b453b4,2026-03-26T00:10:00Z,Memphis Grizzlies,San Antonio Spurs,DraftKings,Victor Wembanyama,player_rebounds,12.5,-112,-118.0
+bcbad64f54906ae96b4be0ef54b453b4,2026-03-26T00:10:00Z,Memphis Grizzlies,San Antonio Spurs,DraftKings,Walter Clayton Jr.,player_rebounds,2.5,116,-153.0
+bcbad64f54906ae96b4be0ef54b453b4,2026-03-26T00:10:00Z,Memphis Grizzlies,San Antonio Spurs,FanDuel,Cedric Coward,player_rebounds,4.5,-146,110.0
+bcbad64f54906ae96b4be0ef54b453b4,2026-03-26T00:10:00Z,Memphis Grizzlies,San Antonio Spurs,FanDuel,Devin Vassell,player_rebounds,3.5,-114,-114.0
+bcbad64f54906ae96b4be0ef54b453b4,2026-03-26T00:10:00Z,Memphis Grizzlies,San Antonio Spurs,FanDuel,Dylan Harper,player_rebounds,3.5,-172,128.0
+bcbad64f54906ae96b4be0ef54b453b4,2026-03-26T00:10:00Z,Memphis Grizzlies,San Antonio Spurs,FanDuel,G.G. Jackson,player_rebounds,5.5,118,-158.0
+bcbad64f54906ae96b4be0ef54b453b4,2026-03-26T00:10:00Z,Memphis Grizzlies,San Antonio Spurs,FanDuel,Julian Champagnie,player_rebounds,5.5,-114,-114.0
+bcbad64f54906ae96b4be0ef54b453b4,2026-03-26T00:10:00Z,Memphis Grizzlies,San Antonio Spurs,FanDuel,Keldon Johnson,player_rebounds,5.5,128,-172.0
+bcbad64f54906ae96b4be0ef54b453b4,2026-03-26T00:10:00Z,Memphis Grizzlies,San Antonio Spurs,FanDuel,Olivier-Maxence Prosper,player_rebounds,4.5,-114,-114.0
+bcbad64f54906ae96b4be0ef54b453b4,2026-03-26T00:10:00Z,Memphis Grizzlies,San Antonio Spurs,FanDuel,Stephon Castle,player_rebounds,5.5,118,-158.0
+bcbad64f54906ae96b4be0ef54b453b4,2026-03-26T00:10:00Z,Memphis Grizzlies,San Antonio Spurs,FanDuel,Taylor Hendricks,player_rebounds,4.5,118,-158.0
+bcbad64f54906ae96b4be0ef54b453b4,2026-03-26T00:10:00Z,Memphis Grizzlies,San Antonio Spurs,FanDuel,Victor Wembanyama,player_rebounds,12.5,-110,-120.0
+dcd42c163a10db20aa31d9ee311c07bd,2026-03-26T01:10:00Z,Utah Jazz,Washington Wizards,BetMGM,Ace Bailey,player_rebounds,6.5,-105,-125.0
+dcd42c163a10db20aa31d9ee311c07bd,2026-03-26T01:10:00Z,Utah Jazz,Washington Wizards,BetMGM,Bilal Coulibaly,player_rebounds,5.5,120,-160.0
+dcd42c163a10db20aa31d9ee311c07bd,2026-03-26T01:10:00Z,Utah Jazz,Washington Wizards,BetMGM,Carlton Carrington,player_rebounds,4.5,105,-140.0
+dcd42c163a10db20aa31d9ee311c07bd,2026-03-26T01:10:00Z,Utah Jazz,Washington Wizards,BetMGM,Cody Williams,player_rebounds,4.5,-155,115.0
+dcd42c163a10db20aa31d9ee311c07bd,2026-03-26T01:10:00Z,Utah Jazz,Washington Wizards,BetMGM,Jamir Watkins,player_rebounds,4.5,-145,105.0
+dcd42c163a10db20aa31d9ee311c07bd,2026-03-26T01:10:00Z,Utah Jazz,Washington Wizards,BetMGM,John Konchar,player_rebounds,5.5,105,-145.0
+dcd42c163a10db20aa31d9ee311c07bd,2026-03-26T01:10:00Z,Utah Jazz,Washington Wizards,BetMGM,Will Riley,player_rebounds,4.5,-110,-120.0
+dcd42c163a10db20aa31d9ee311c07bd,2026-03-26T01:10:00Z,Utah Jazz,Washington Wizards,BetOnline.ag,Ace Bailey,player_rebounds,6.5,104,-135.0
+dcd42c163a10db20aa31d9ee311c07bd,2026-03-26T01:10:00Z,Utah Jazz,Washington Wizards,BetOnline.ag,Bilal Coulibaly,player_rebounds,4.5,-141,109.0
+dcd42c163a10db20aa31d9ee311c07bd,2026-03-26T01:10:00Z,Utah Jazz,Washington Wizards,BetOnline.ag,Carlton Carrington,player_rebounds,4.5,112,-145.0
+dcd42c163a10db20aa31d9ee311c07bd,2026-03-26T01:10:00Z,Utah Jazz,Washington Wizards,BetOnline.ag,Cody Williams,player_rebounds,4.5,-139,107.0
+dcd42c163a10db20aa31d9ee311c07bd,2026-03-26T01:10:00Z,Utah Jazz,Washington Wizards,BetOnline.ag,John Konchar,player_rebounds,4.5,-167,128.0
+dcd42c163a10db20aa31d9ee311c07bd,2026-03-26T01:10:00Z,Utah Jazz,Washington Wizards,BetRivers,Ace Bailey,player_rebounds,5.5,-148,108.0
+dcd42c163a10db20aa31d9ee311c07bd,2026-03-26T01:10:00Z,Utah Jazz,Washington Wizards,BetRivers,Bilal Coulibaly,player_rebounds,5.5,120,-162.0
+dcd42c163a10db20aa31d9ee311c07bd,2026-03-26T01:10:00Z,Utah Jazz,Washington Wizards,BetRivers,Carlton Carrington,player_rebounds,4.5,114,-157.0
+dcd42c163a10db20aa31d9ee311c07bd,2026-03-26T01:10:00Z,Utah Jazz,Washington Wizards,BetRivers,Cody Williams,player_rebounds,4.5,-155,114.0
+dcd42c163a10db20aa31d9ee311c07bd,2026-03-26T01:10:00Z,Utah Jazz,Washington Wizards,BetRivers,Jamir Watkins,player_rebounds,5.5,118,-159.0
+dcd42c163a10db20aa31d9ee311c07bd,2026-03-26T01:10:00Z,Utah Jazz,Washington Wizards,BetRivers,John Konchar,player_rebounds,4.5,-143,106.0
+dcd42c163a10db20aa31d9ee311c07bd,2026-03-26T01:10:00Z,Utah Jazz,Washington Wizards,Bovada,Ace Bailey,player_rebounds,4.5,-300,215.0
+dcd42c163a10db20aa31d9ee311c07bd,2026-03-26T01:10:00Z,Utah Jazz,Washington Wizards,Bovada,Ace Bailey,player_rebounds,5.5,-145,110.0
+dcd42c163a10db20aa31d9ee311c07bd,2026-03-26T01:10:00Z,Utah Jazz,Washington Wizards,Bovada,Ace Bailey,player_rebounds,6.5,120,-160.0
+dcd42c163a10db20aa31d9ee311c07bd,2026-03-26T01:10:00Z,Utah Jazz,Washington Wizards,Bovada,Ace Bailey,player_rebounds,7.5,210,-290.0
+dcd42c163a10db20aa31d9ee311c07bd,2026-03-26T01:10:00Z,Utah Jazz,Washington Wizards,Bovada,Bilal Coulibaly,player_rebounds,4.5,-145,110.0
+dcd42c163a10db20aa31d9ee311c07bd,2026-03-26T01:10:00Z,Utah Jazz,Washington Wizards,Bovada,Bilal Coulibaly,player_rebounds,5.5,130,-170.0
+dcd42c163a10db20aa31d9ee311c07bd,2026-03-26T01:10:00Z,Utah Jazz,Washington Wizards,Bovada,Carlton Carrington,player_rebounds,3.5,-200,150.0
+dcd42c163a10db20aa31d9ee311c07bd,2026-03-26T01:10:00Z,Utah Jazz,Washington Wizards,Bovada,Carlton Carrington,player_rebounds,4.5,105,-135.0
+dcd42c163a10db20aa31d9ee311c07bd,2026-03-26T01:10:00Z,Utah Jazz,Washington Wizards,Bovada,Cody Williams,player_rebounds,4.5,-145,110.0
+dcd42c163a10db20aa31d9ee311c07bd,2026-03-26T01:10:00Z,Utah Jazz,Washington Wizards,Bovada,Cody Williams,player_rebounds,5.5,130,-170.0
+dcd42c163a10db20aa31d9ee311c07bd,2026-03-26T01:10:00Z,Utah Jazz,Washington Wizards,Bovada,Jamir Watkins,player_rebounds,4.5,-165,125.0
+dcd42c163a10db20aa31d9ee311c07bd,2026-03-26T01:10:00Z,Utah Jazz,Washington Wizards,Bovada,Jamir Watkins,player_rebounds,5.5,115,-150.0
+dcd42c163a10db20aa31d9ee311c07bd,2026-03-26T01:10:00Z,Utah Jazz,Washington Wizards,Bovada,Jamir Watkins,player_rebounds,6.5,205,-280.0
+dcd42c163a10db20aa31d9ee311c07bd,2026-03-26T01:10:00Z,Utah Jazz,Washington Wizards,Bovada,John Konchar,player_rebounds,4.5,-150,115.0
+dcd42c163a10db20aa31d9ee311c07bd,2026-03-26T01:10:00Z,Utah Jazz,Washington Wizards,Bovada,John Konchar,player_rebounds,5.5,125,-165.0
+dcd42c163a10db20aa31d9ee311c07bd,2026-03-26T01:10:00Z,Utah Jazz,Washington Wizards,Bovada,Will Riley,player_rebounds,3.5,-200,150.0
+dcd42c163a10db20aa31d9ee311c07bd,2026-03-26T01:10:00Z,Utah Jazz,Washington Wizards,Bovada,Will Riley,player_rebounds,4.5,105,-135.0
+dcd42c163a10db20aa31d9ee311c07bd,2026-03-26T01:10:00Z,Utah Jazz,Washington Wizards,DraftKings,Ace Bailey,player_rebounds,6.5,113,-148.0
+dcd42c163a10db20aa31d9ee311c07bd,2026-03-26T01:10:00Z,Utah Jazz,Washington Wizards,DraftKings,Bilal Coulibaly,player_rebounds,4.5,-141,107.0
+dcd42c163a10db20aa31d9ee311c07bd,2026-03-26T01:10:00Z,Utah Jazz,Washington Wizards,DraftKings,Carlton Carrington,player_rebounds,4.5,105,-139.0
+dcd42c163a10db20aa31d9ee311c07bd,2026-03-26T01:10:00Z,Utah Jazz,Washington Wizards,DraftKings,Cody Williams,player_rebounds,4.5,-142,108.0
+dcd42c163a10db20aa31d9ee311c07bd,2026-03-26T01:10:00Z,Utah Jazz,Washington Wizards,DraftKings,Jamir Watkins,player_rebounds,5.5,113,-149.0
+dcd42c163a10db20aa31d9ee311c07bd,2026-03-26T01:10:00Z,Utah Jazz,Washington Wizards,DraftKings,John Konchar,player_rebounds,4.5,-153,116.0
+dcd42c163a10db20aa31d9ee311c07bd,2026-03-26T01:10:00Z,Utah Jazz,Washington Wizards,DraftKings,Will Riley,player_rebounds,4.5,105,-138.0
+dcd42c163a10db20aa31d9ee311c07bd,2026-03-26T01:10:00Z,Utah Jazz,Washington Wizards,FanDuel,Ace Bailey,player_rebounds,6.5,112,-148.0
+dcd42c163a10db20aa31d9ee311c07bd,2026-03-26T01:10:00Z,Utah Jazz,Washington Wizards,FanDuel,Bilal Coulibaly,player_rebounds,5.5,128,-172.0
+dcd42c163a10db20aa31d9ee311c07bd,2026-03-26T01:10:00Z,Utah Jazz,Washington Wizards,FanDuel,Carlton Carrington,player_rebounds,4.5,116,-158.0
+dcd42c163a10db20aa31d9ee311c07bd,2026-03-26T01:10:00Z,Utah Jazz,Washington Wizards,FanDuel,Cody Williams,player_rebounds,4.5,-136,102.0
+dcd42c163a10db20aa31d9ee311c07bd,2026-03-26T01:10:00Z,Utah Jazz,Washington Wizards,FanDuel,Jamir Watkins,player_rebounds,5.5,122,-162.0
+dcd42c163a10db20aa31d9ee311c07bd,2026-03-26T01:10:00Z,Utah Jazz,Washington Wizards,FanDuel,John Konchar,player_rebounds,4.5,-152,114.0
+dcd42c163a10db20aa31d9ee311c07bd,2026-03-26T01:10:00Z,Utah Jazz,Washington Wizards,FanDuel,Will Riley,player_rebounds,4.5,134,-180.0
+cf2665074fd82e7b5f2b4393f20afd32,2026-03-26T01:40:00Z,Minnesota Timberwolves,Houston Rockets,BetMGM,Alperen Sengun,player_rebounds,8.5,-150,110.0
+cf2665074fd82e7b5f2b4393f20afd32,2026-03-26T01:40:00Z,Minnesota Timberwolves,Houston Rockets,BetMGM,Amen Thompson,player_rebounds,7.5,-115,-115.0
+cf2665074fd82e7b5f2b4393f20afd32,2026-03-26T01:40:00Z,Minnesota Timberwolves,Houston Rockets,BetMGM,Ayo Dosunmu,player_rebounds,4.5,110,-150.0
+cf2665074fd82e7b5f2b4393f20afd32,2026-03-26T01:40:00Z,Minnesota Timberwolves,Houston Rockets,BetMGM,Donte DiVincenzo,player_rebounds,3.5,-125,-105.0
+cf2665074fd82e7b5f2b4393f20afd32,2026-03-26T01:40:00Z,Minnesota Timberwolves,Houston Rockets,BetMGM,Jabari Smith Jr,player_rebounds,6.5,-135,100.0
+cf2665074fd82e7b5f2b4393f20afd32,2026-03-26T01:40:00Z,Minnesota Timberwolves,Houston Rockets,BetMGM,Jaden McDaniels,player_rebounds,3.5,-150,110.0
+cf2665074fd82e7b5f2b4393f20afd32,2026-03-26T01:40:00Z,Minnesota Timberwolves,Houston Rockets,BetMGM,Julius Randle,player_rebounds,6.5,105,-140.0
+cf2665074fd82e7b5f2b4393f20afd32,2026-03-26T01:40:00Z,Minnesota Timberwolves,Houston Rockets,BetMGM,Kevin Durant,player_rebounds,5.5,110,-145.0
+cf2665074fd82e7b5f2b4393f20afd32,2026-03-26T01:40:00Z,Minnesota Timberwolves,Houston Rockets,BetMGM,Naz Reid,player_rebounds,5.5,110,-150.0
+cf2665074fd82e7b5f2b4393f20afd32,2026-03-26T01:40:00Z,Minnesota Timberwolves,Houston Rockets,BetMGM,Reed Sheppard,player_rebounds,3.5,-105,-125.0
+cf2665074fd82e7b5f2b4393f20afd32,2026-03-26T01:40:00Z,Minnesota Timberwolves,Houston Rockets,BetMGM,Rudy Gobert,player_rebounds,11.5,-120,-110.0
+cf2665074fd82e7b5f2b4393f20afd32,2026-03-26T01:40:00Z,Minnesota Timberwolves,Houston Rockets,BetMGM,Tari Eason,player_rebounds,4.5,105,-140.0
+cf2665074fd82e7b5f2b4393f20afd32,2026-03-26T01:40:00Z,Minnesota Timberwolves,Houston Rockets,BetOnline.ag,Aaron Holiday,player_rebounds,1.5,130,-169.0
+cf2665074fd82e7b5f2b4393f20afd32,2026-03-26T01:40:00Z,Minnesota Timberwolves,Houston Rockets,BetOnline.ag,Alperen Sengun,player_rebounds,8.5,-156,120.0
+cf2665074fd82e7b5f2b4393f20afd32,2026-03-26T01:40:00Z,Minnesota Timberwolves,Houston Rockets,BetOnline.ag,Amen Thompson,player_rebounds,7.5,-120,-108.0
+cf2665074fd82e7b5f2b4393f20afd32,2026-03-26T01:40:00Z,Minnesota Timberwolves,Houston Rockets,BetOnline.ag,Ayo Dosunmu,player_rebounds,3.5,-164,125.0
+cf2665074fd82e7b5f2b4393f20afd32,2026-03-26T01:40:00Z,Minnesota Timberwolves,Houston Rockets,BetOnline.ag,Bones Hyland,player_rebounds,2.5,115,-149.0
+cf2665074fd82e7b5f2b4393f20afd32,2026-03-26T01:40:00Z,Minnesota Timberwolves,Houston Rockets,BetOnline.ag,Donte DiVincenzo,player_rebounds,3.5,-135,105.0
+cf2665074fd82e7b5f2b4393f20afd32,2026-03-26T01:40:00Z,Minnesota Timberwolves,Houston Rockets,BetOnline.ag,Jabari Smith Jr,player_rebounds,6.5,-143,110.0
+cf2665074fd82e7b5f2b4393f20afd32,2026-03-26T01:40:00Z,Minnesota Timberwolves,Houston Rockets,BetOnline.ag,Jaden McDaniels,player_rebounds,3.5,-147,113.0
+cf2665074fd82e7b5f2b4393f20afd32,2026-03-26T01:40:00Z,Minnesota Timberwolves,Houston Rockets,BetOnline.ag,Julius Randle,player_rebounds,6.5,109,-141.0
+cf2665074fd82e7b5f2b4393f20afd32,2026-03-26T01:40:00Z,Minnesota Timberwolves,Houston Rockets,BetOnline.ag,Kevin Durant,player_rebounds,5.5,117,-152.0
+cf2665074fd82e7b5f2b4393f20afd32,2026-03-26T01:40:00Z,Minnesota Timberwolves,Houston Rockets,BetOnline.ag,Kyle Anderson,player_rebounds,3.5,128,-167.0
+cf2665074fd82e7b5f2b4393f20afd32,2026-03-26T01:40:00Z,Minnesota Timberwolves,Houston Rockets,BetOnline.ag,Naz Reid,player_rebounds,5.5,100,-130.0
+cf2665074fd82e7b5f2b4393f20afd32,2026-03-26T01:40:00Z,Minnesota Timberwolves,Houston Rockets,BetOnline.ag,Reed Sheppard,player_rebounds,3.5,106,-137.0
+cf2665074fd82e7b5f2b4393f20afd32,2026-03-26T01:40:00Z,Minnesota Timberwolves,Houston Rockets,BetOnline.ag,Rudy Gobert,player_rebounds,11.5,-114,-114.0
+cf2665074fd82e7b5f2b4393f20afd32,2026-03-26T01:40:00Z,Minnesota Timberwolves,Houston Rockets,BetOnline.ag,Tari Eason,player_rebounds,4.5,117,-152.0
+cf2665074fd82e7b5f2b4393f20afd32,2026-03-26T01:40:00Z,Minnesota Timberwolves,Houston Rockets,BetRivers,Alperen Sengun,player_rebounds,9.5,-104,-132.0
+cf2665074fd82e7b5f2b4393f20afd32,2026-03-26T01:40:00Z,Minnesota Timberwolves,Houston Rockets,BetRivers,Amen Thompson,player_rebounds,7.5,-113,-121.0
+cf2665074fd82e7b5f2b4393f20afd32,2026-03-26T01:40:00Z,Minnesota Timberwolves,Houston Rockets,BetRivers,Donte DiVincenzo,player_rebounds,3.5,-127,-108.0
+cf2665074fd82e7b5f2b4393f20afd32,2026-03-26T01:40:00Z,Minnesota Timberwolves,Houston Rockets,BetRivers,Jabari Smith Jr,player_rebounds,6.5,-121,-113.0
+cf2665074fd82e7b5f2b4393f20afd32,2026-03-26T01:40:00Z,Minnesota Timberwolves,Houston Rockets,BetRivers,Jaden McDaniels,player_rebounds,3.5,-175,125.0
+cf2665074fd82e7b5f2b4393f20afd32,2026-03-26T01:40:00Z,Minnesota Timberwolves,Houston Rockets,BetRivers,Julius Randle,player_rebounds,6.5,105,-143.0
+cf2665074fd82e7b5f2b4393f20afd32,2026-03-26T01:40:00Z,Minnesota Timberwolves,Houston Rockets,BetRivers,Kevin Durant,player_rebounds,4.5,-159,117.0
+cf2665074fd82e7b5f2b4393f20afd32,2026-03-26T01:40:00Z,Minnesota Timberwolves,Houston Rockets,BetRivers,Naz Reid,player_rebounds,5.5,-124,-110.0
+cf2665074fd82e7b5f2b4393f20afd32,2026-03-26T01:40:00Z,Minnesota Timberwolves,Houston Rockets,BetRivers,Reed Sheppard,player_rebounds,3.5,104,-141.0
+cf2665074fd82e7b5f2b4393f20afd32,2026-03-26T01:40:00Z,Minnesota Timberwolves,Houston Rockets,BetRivers,Rudy Gobert,player_rebounds,11.5,-103,-134.0
+cf2665074fd82e7b5f2b4393f20afd32,2026-03-26T01:40:00Z,Minnesota Timberwolves,Houston Rockets,BetRivers,Tari Eason,player_rebounds,4.5,107,-143.0
+cf2665074fd82e7b5f2b4393f20afd32,2026-03-26T01:40:00Z,Minnesota Timberwolves,Houston Rockets,Bovada,Alperen Sengun,player_rebounds,7.5,-300,215.0
+cf2665074fd82e7b5f2b4393f20afd32,2026-03-26T01:40:00Z,Minnesota Timberwolves,Houston Rockets,Bovada,Alperen Sengun,player_rebounds,8.5,-170,130.0
+cf2665074fd82e7b5f2b4393f20afd32,2026-03-26T01:40:00Z,Minnesota Timberwolves,Houston Rockets,Bovada,Alperen Sengun,player_rebounds,9.5,-105,-125.0
+cf2665074fd82e7b5f2b4393f20afd32,2026-03-26T01:40:00Z,Minnesota Timberwolves,Houston Rockets,Bovada,Alperen Sengun,player_rebounds,10.5,150,-200.0
+cf2665074fd82e7b5f2b4393f20afd32,2026-03-26T01:40:00Z,Minnesota Timberwolves,Houston Rockets,Bovada,Amen Thompson,player_rebounds,6.5,-230,170.0
+cf2665074fd82e7b5f2b4393f20afd32,2026-03-26T01:40:00Z,Minnesota Timberwolves,Houston Rockets,Bovada,Amen Thompson,player_rebounds,7.5,-130,100.0
+cf2665074fd82e7b5f2b4393f20afd32,2026-03-26T01:40:00Z,Minnesota Timberwolves,Houston Rockets,Bovada,Amen Thompson,player_rebounds,8.5,130,-170.0
+cf2665074fd82e7b5f2b4393f20afd32,2026-03-26T01:40:00Z,Minnesota Timberwolves,Houston Rockets,Bovada,Amen Thompson,player_rebounds,9.5,205,-280.0
+cf2665074fd82e7b5f2b4393f20afd32,2026-03-26T01:40:00Z,Minnesota Timberwolves,Houston Rockets,Bovada,Ayo Dosunmu,player_rebounds,3.5,-180,135.0
+cf2665074fd82e7b5f2b4393f20afd32,2026-03-26T01:40:00Z,Minnesota Timberwolves,Houston Rockets,Bovada,Ayo Dosunmu,player_rebounds,4.5,115,-150.0
+cf2665074fd82e7b5f2b4393f20afd32,2026-03-26T01:40:00Z,Minnesota Timberwolves,Houston Rockets,Bovada,Donte DiVincenzo,player_rebounds,3.5,-145,110.0
+cf2665074fd82e7b5f2b4393f20afd32,2026-03-26T01:40:00Z,Minnesota Timberwolves,Houston Rockets,Bovada,Donte DiVincenzo,player_rebounds,4.5,140,-185.0
+cf2665074fd82e7b5f2b4393f20afd32,2026-03-26T01:40:00Z,Minnesota Timberwolves,Houston Rockets,Bovada,Jabari Smith Jr,player_rebounds,5.5,-275,200.0
+cf2665074fd82e7b5f2b4393f20afd32,2026-03-26T01:40:00Z,Minnesota Timberwolves,Houston Rockets,Bovada,Jabari Smith Jr,player_rebounds,6.5,-145,110.0
+cf2665074fd82e7b5f2b4393f20afd32,2026-03-26T01:40:00Z,Minnesota Timberwolves,Houston Rockets,Bovada,Jabari Smith Jr,player_rebounds,7.5,115,-150.0
+cf2665074fd82e7b5f2b4393f20afd32,2026-03-26T01:40:00Z,Minnesota Timberwolves,Houston Rockets,Bovada,Jabari Smith Jr,player_rebounds,8.5,200,-275.0
+cf2665074fd82e7b5f2b4393f20afd32,2026-03-26T01:40:00Z,Minnesota Timberwolves,Houston Rockets,Bovada,Jaden McDaniels,player_rebounds,3.5,-145,110.0
+cf2665074fd82e7b5f2b4393f20afd32,2026-03-26T01:40:00Z,Minnesota Timberwolves,Houston Rockets,Bovada,Jaden McDaniels,player_rebounds,4.5,140,-185.0
+cf2665074fd82e7b5f2b4393f20afd32,2026-03-26T01:40:00Z,Minnesota Timberwolves,Houston Rockets,Bovada,Julius Randle,player_rebounds,5.5,-170,130.0
+cf2665074fd82e7b5f2b4393f20afd32,2026-03-26T01:40:00Z,Minnesota Timberwolves,Houston Rockets,Bovada,Julius Randle,player_rebounds,6.5,105,-135.0
+cf2665074fd82e7b5f2b4393f20afd32,2026-03-26T01:40:00Z,Minnesota Timberwolves,Houston Rockets,Bovada,Julius Randle,player_rebounds,7.5,180,-245.0
+cf2665074fd82e7b5f2b4393f20afd32,2026-03-26T01:40:00Z,Minnesota Timberwolves,Houston Rockets,Bovada,Kevin Durant,player_rebounds,4.5,-160,120.0
+cf2665074fd82e7b5f2b4393f20afd32,2026-03-26T01:40:00Z,Minnesota Timberwolves,Houston Rockets,Bovada,Kevin Durant,player_rebounds,5.5,120,-160.0
+cf2665074fd82e7b5f2b4393f20afd32,2026-03-26T01:40:00Z,Minnesota Timberwolves,Houston Rockets,Bovada,Naz Reid,player_rebounds,4.5,-200,150.0
+cf2665074fd82e7b5f2b4393f20afd32,2026-03-26T01:40:00Z,Minnesota Timberwolves,Houston Rockets,Bovada,Naz Reid,player_rebounds,5.5,-105,-125.0
+cf2665074fd82e7b5f2b4393f20afd32,2026-03-26T01:40:00Z,Minnesota Timberwolves,Houston Rockets,Bovada,Naz Reid,player_rebounds,6.5,170,-230.0
+cf2665074fd82e7b5f2b4393f20afd32,2026-03-26T01:40:00Z,Minnesota Timberwolves,Houston Rockets,Bovada,Reed Sheppard,player_rebounds,2.5,-220,165.0
+cf2665074fd82e7b5f2b4393f20afd32,2026-03-26T01:40:00Z,Minnesota Timberwolves,Houston Rockets,Bovada,Reed Sheppard,player_rebounds,3.5,105,-135.0
+cf2665074fd82e7b5f2b4393f20afd32,2026-03-26T01:40:00Z,Minnesota Timberwolves,Houston Rockets,Bovada,Reed Sheppard,player_rebounds,4.5,215,-300.0
+cf2665074fd82e7b5f2b4393f20afd32,2026-03-26T01:40:00Z,Minnesota Timberwolves,Houston Rockets,Bovada,Rudy Gobert,player_rebounds,10.5,-200,150.0
+cf2665074fd82e7b5f2b4393f20afd32,2026-03-26T01:40:00Z,Minnesota Timberwolves,Houston Rockets,Bovada,Rudy Gobert,player_rebounds,11.5,-125,-105.0
+cf2665074fd82e7b5f2b4393f20afd32,2026-03-26T01:40:00Z,Minnesota Timberwolves,Houston Rockets,Bovada,Rudy Gobert,player_rebounds,12.5,120,-160.0
+cf2665074fd82e7b5f2b4393f20afd32,2026-03-26T01:40:00Z,Minnesota Timberwolves,Houston Rockets,Bovada,Rudy Gobert,player_rebounds,13.5,180,-245.0
+cf2665074fd82e7b5f2b4393f20afd32,2026-03-26T01:40:00Z,Minnesota Timberwolves,Houston Rockets,Bovada,Tari Eason,player_rebounds,3.5,-170,130.0
+cf2665074fd82e7b5f2b4393f20afd32,2026-03-26T01:40:00Z,Minnesota Timberwolves,Houston Rockets,Bovada,Tari Eason,player_rebounds,4.5,120,-160.0
+cf2665074fd82e7b5f2b4393f20afd32,2026-03-26T01:40:00Z,Minnesota Timberwolves,Houston Rockets,DraftKings,Alperen Sengun,player_rebounds,9.5,-106,-124.0
+cf2665074fd82e7b5f2b4393f20afd32,2026-03-26T01:40:00Z,Minnesota Timberwolves,Houston Rockets,DraftKings,Amen Thompson,player_rebounds,7.5,-131,100.0
+cf2665074fd82e7b5f2b4393f20afd32,2026-03-26T01:40:00Z,Minnesota Timberwolves,Houston Rockets,DraftKings,Ayo Dosunmu,player_rebounds,4.5,118,-155.0
+cf2665074fd82e7b5f2b4393f20afd32,2026-03-26T01:40:00Z,Minnesota Timberwolves,Houston Rockets,DraftKings,Donte DiVincenzo,player_rebounds,3.5,-143,108.0
+cf2665074fd82e7b5f2b4393f20afd32,2026-03-26T01:40:00Z,Minnesota Timberwolves,Houston Rockets,DraftKings,Jabari Smith Jr,player_rebounds,6.5,-142,108.0
+cf2665074fd82e7b5f2b4393f20afd32,2026-03-26T01:40:00Z,Minnesota Timberwolves,Houston Rockets,DraftKings,Jaden McDaniels,player_rebounds,3.5,-147,111.0
+cf2665074fd82e7b5f2b4393f20afd32,2026-03-26T01:40:00Z,Minnesota Timberwolves,Houston Rockets,DraftKings,Julius Randle,player_rebounds,6.5,102,-134.0
+cf2665074fd82e7b5f2b4393f20afd32,2026-03-26T01:40:00Z,Minnesota Timberwolves,Houston Rockets,DraftKings,Kevin Durant,player_rebounds,4.5,-157,119.0
+cf2665074fd82e7b5f2b4393f20afd32,2026-03-26T01:40:00Z,Minnesota Timberwolves,Houston Rockets,DraftKings,Naz Reid,player_rebounds,5.5,-106,-124.0
+cf2665074fd82e7b5f2b4393f20afd32,2026-03-26T01:40:00Z,Minnesota Timberwolves,Houston Rockets,DraftKings,Reed Sheppard,player_rebounds,3.5,106,-140.0
+cf2665074fd82e7b5f2b4393f20afd32,2026-03-26T01:40:00Z,Minnesota Timberwolves,Houston Rockets,DraftKings,Rudy Gobert,player_rebounds,11.5,-124,-106.0
+cf2665074fd82e7b5f2b4393f20afd32,2026-03-26T01:40:00Z,Minnesota Timberwolves,Houston Rockets,DraftKings,Tari Eason,player_rebounds,4.5,122,-160.0
+cf2665074fd82e7b5f2b4393f20afd32,2026-03-26T01:40:00Z,Minnesota Timberwolves,Houston Rockets,FanDuel,Alperen Sengun,player_rebounds,9.5,110,-146.0
+cf2665074fd82e7b5f2b4393f20afd32,2026-03-26T01:40:00Z,Minnesota Timberwolves,Houston Rockets,FanDuel,Amen Thompson,player_rebounds,7.5,-114,-114.0
+cf2665074fd82e7b5f2b4393f20afd32,2026-03-26T01:40:00Z,Minnesota Timberwolves,Houston Rockets,FanDuel,Ayo Dosunmu,player_rebounds,3.5,-172,128.0
+cf2665074fd82e7b5f2b4393f20afd32,2026-03-26T01:40:00Z,Minnesota Timberwolves,Houston Rockets,FanDuel,Donte DiVincenzo,player_rebounds,3.5,-152,114.0
+cf2665074fd82e7b5f2b4393f20afd32,2026-03-26T01:40:00Z,Minnesota Timberwolves,Houston Rockets,FanDuel,Jabari Smith Jr,player_rebounds,6.5,-152,114.0
+cf2665074fd82e7b5f2b4393f20afd32,2026-03-26T01:40:00Z,Minnesota Timberwolves,Houston Rockets,FanDuel,Jaden McDaniels,player_rebounds,4.5,134,-180.0
+cf2665074fd82e7b5f2b4393f20afd32,2026-03-26T01:40:00Z,Minnesota Timberwolves,Houston Rockets,FanDuel,Julius Randle,player_rebounds,6.5,108,-144.0
+cf2665074fd82e7b5f2b4393f20afd32,2026-03-26T01:40:00Z,Minnesota Timberwolves,Houston Rockets,FanDuel,Kevin Durant,player_rebounds,4.5,-162,122.0
+cf2665074fd82e7b5f2b4393f20afd32,2026-03-26T01:40:00Z,Minnesota Timberwolves,Houston Rockets,FanDuel,Naz Reid,player_rebounds,5.5,-110,-120.0
+cf2665074fd82e7b5f2b4393f20afd32,2026-03-26T01:40:00Z,Minnesota Timberwolves,Houston Rockets,FanDuel,Reed Sheppard,player_rebounds,3.5,104,-138.0
+cf2665074fd82e7b5f2b4393f20afd32,2026-03-26T01:40:00Z,Minnesota Timberwolves,Houston Rockets,FanDuel,Rudy Gobert,player_rebounds,11.5,-102,-130.0
+cf2665074fd82e7b5f2b4393f20afd32,2026-03-26T01:40:00Z,Minnesota Timberwolves,Houston Rockets,FanDuel,Tari Eason,player_rebounds,4.5,114,-152.0
+63b3c408cf1e55eb8d34aec686038a87,2026-03-26T02:10:00Z,Denver Nuggets,Dallas Mavericks,BetMGM,Aaron Gordon,player_rebounds,5.5,-120,-111.0
+63b3c408cf1e55eb8d34aec686038a87,2026-03-26T02:10:00Z,Denver Nuggets,Dallas Mavericks,BetMGM,Cameron Johnson,player_rebounds,3.5,105,-140.0
+63b3c408cf1e55eb8d34aec686038a87,2026-03-26T02:10:00Z,Denver Nuggets,Dallas Mavericks,BetMGM,Christian Braun,player_rebounds,4.5,-150,110.0
+63b3c408cf1e55eb8d34aec686038a87,2026-03-26T02:10:00Z,Denver Nuggets,Dallas Mavericks,BetMGM,Cooper Flagg,player_rebounds,6.5,-115,-115.0
+63b3c408cf1e55eb8d34aec686038a87,2026-03-26T02:10:00Z,Denver Nuggets,Dallas Mavericks,BetMGM,Daniel Gafford,player_rebounds,7.5,-111,-118.0
+63b3c408cf1e55eb8d34aec686038a87,2026-03-26T02:10:00Z,Denver Nuggets,Dallas Mavericks,BetMGM,Jamal Murray,player_rebounds,4.5,100,-135.0
+63b3c408cf1e55eb8d34aec686038a87,2026-03-26T02:10:00Z,Denver Nuggets,Dallas Mavericks,BetMGM,Max Christie,player_rebounds,2.5,-185,135.0
+63b3c408cf1e55eb8d34aec686038a87,2026-03-26T02:10:00Z,Denver Nuggets,Dallas Mavericks,BetMGM,Naji Marshall,player_rebounds,4.5,-120,-111.0
+63b3c408cf1e55eb8d34aec686038a87,2026-03-26T02:10:00Z,Denver Nuggets,Dallas Mavericks,BetMGM,Nikola Jokic,player_rebounds,12.5,-105,-130.0
+63b3c408cf1e55eb8d34aec686038a87,2026-03-26T02:10:00Z,Denver Nuggets,Dallas Mavericks,BetMGM,P.J. Washington,player_rebounds,6.5,-130,-105.0
+63b3c408cf1e55eb8d34aec686038a87,2026-03-26T02:10:00Z,Denver Nuggets,Dallas Mavericks,BetOnline.ag,Bruce Brown,player_rebounds,3.5,117,-152.0
+63b3c408cf1e55eb8d34aec686038a87,2026-03-26T02:10:00Z,Denver Nuggets,Dallas Mavericks,BetOnline.ag,Christian Braun,player_rebounds,4.5,-141,108.0
+63b3c408cf1e55eb8d34aec686038a87,2026-03-26T02:10:00Z,Denver Nuggets,Dallas Mavericks,BetOnline.ag,Max Christie,player_rebounds,3.5,136,-179.0
+63b3c408cf1e55eb8d34aec686038a87,2026-03-26T02:10:00Z,Denver Nuggets,Dallas Mavericks,BetOnline.ag,Naji Marshall,player_rebounds,4.5,-125,-103.0
+63b3c408cf1e55eb8d34aec686038a87,2026-03-26T02:10:00Z,Denver Nuggets,Dallas Mavericks,BetOnline.ag,Nikola Jokic,player_rebounds,12.5,100,-130.0
+63b3c408cf1e55eb8d34aec686038a87,2026-03-26T02:10:00Z,Denver Nuggets,Dallas Mavericks,BetOnline.ag,Tim Hardaway Jr,player_rebounds,2.5,-119,-109.0
+63b3c408cf1e55eb8d34aec686038a87,2026-03-26T02:10:00Z,Denver Nuggets,Dallas Mavericks,BetRivers,Bruce Brown,player_rebounds,3.5,125,-175.0
+63b3c408cf1e55eb8d34aec686038a87,2026-03-26T02:10:00Z,Denver Nuggets,Dallas Mavericks,BetRivers,Cameron Johnson,player_rebounds,3.5,100,-137.0
+63b3c408cf1e55eb8d34aec686038a87,2026-03-26T02:10:00Z,Denver Nuggets,Dallas Mavericks,BetRivers,Christian Braun,player_rebounds,4.5,-139,102.0
+63b3c408cf1e55eb8d34aec686038a87,2026-03-26T02:10:00Z,Denver Nuggets,Dallas Mavericks,BetRivers,Cooper Flagg,player_rebounds,6.5,-125,-109.0
+63b3c408cf1e55eb8d34aec686038a87,2026-03-26T02:10:00Z,Denver Nuggets,Dallas Mavericks,BetRivers,Daniel Gafford,player_rebounds,7.5,-106,-129.0
+63b3c408cf1e55eb8d34aec686038a87,2026-03-26T02:10:00Z,Denver Nuggets,Dallas Mavericks,BetRivers,Jamal Murray,player_rebounds,4.5,110,-152.0
+63b3c408cf1e55eb8d34aec686038a87,2026-03-26T02:10:00Z,Denver Nuggets,Dallas Mavericks,BetRivers,Naji Marshall,player_rebounds,4.5,-136,100.0
+63b3c408cf1e55eb8d34aec686038a87,2026-03-26T02:10:00Z,Denver Nuggets,Dallas Mavericks,BetRivers,Nikola Jokic,player_rebounds,12.5,-103,-134.0
+63b3c408cf1e55eb8d34aec686038a87,2026-03-26T02:10:00Z,Denver Nuggets,Dallas Mavericks,BetRivers,P.J. Washington,player_rebounds,6.5,-155,114.0
+63b3c408cf1e55eb8d34aec686038a87,2026-03-26T02:10:00Z,Denver Nuggets,Dallas Mavericks,BetRivers,Peyton Watson,player_rebounds,3.5,-109,-125.0
+63b3c408cf1e55eb8d34aec686038a87,2026-03-26T02:10:00Z,Denver Nuggets,Dallas Mavericks,Bovada,Bruce Brown,player_rebounds,2.5,-210,155.0
+63b3c408cf1e55eb8d34aec686038a87,2026-03-26T02:10:00Z,Denver Nuggets,Dallas Mavericks,Bovada,Bruce Brown,player_rebounds,3.5,110,-145.0
+63b3c408cf1e55eb8d34aec686038a87,2026-03-26T02:10:00Z,Denver Nuggets,Dallas Mavericks,Bovada,Cameron Johnson,player_rebounds,2.5,-230,170.0
+63b3c408cf1e55eb8d34aec686038a87,2026-03-26T02:10:00Z,Denver Nuggets,Dallas Mavericks,Bovada,Cameron Johnson,player_rebounds,3.5,100,-130.0
+63b3c408cf1e55eb8d34aec686038a87,2026-03-26T02:10:00Z,Denver Nuggets,Dallas Mavericks,Bovada,Cameron Johnson,player_rebounds,4.5,205,-280.0
+63b3c408cf1e55eb8d34aec686038a87,2026-03-26T02:10:00Z,Denver Nuggets,Dallas Mavericks,Bovada,Christian Braun,player_rebounds,3.5,-300,215.0
+63b3c408cf1e55eb8d34aec686038a87,2026-03-26T02:10:00Z,Denver Nuggets,Dallas Mavericks,Bovada,Christian Braun,player_rebounds,4.5,-135,105.0
+63b3c408cf1e55eb8d34aec686038a87,2026-03-26T02:10:00Z,Denver Nuggets,Dallas Mavericks,Bovada,Christian Braun,player_rebounds,5.5,140,-185.0
+63b3c408cf1e55eb8d34aec686038a87,2026-03-26T02:10:00Z,Denver Nuggets,Dallas Mavericks,Bovada,Cooper Flagg,player_rebounds,5.5,-220,165.0
+63b3c408cf1e55eb8d34aec686038a87,2026-03-26T02:10:00Z,Denver Nuggets,Dallas Mavericks,Bovada,Cooper Flagg,player_rebounds,6.5,-120,-110.0
+63b3c408cf1e55eb8d34aec686038a87,2026-03-26T02:10:00Z,Denver Nuggets,Dallas Mavericks,Bovada,Cooper Flagg,player_rebounds,7.5,145,-190.0
+63b3c408cf1e55eb8d34aec686038a87,2026-03-26T02:10:00Z,Denver Nuggets,Dallas Mavericks,Bovada,Daniel Gafford,player_rebounds,6.5,-210,155.0
+63b3c408cf1e55eb8d34aec686038a87,2026-03-26T02:10:00Z,Denver Nuggets,Dallas Mavericks,Bovada,Daniel Gafford,player_rebounds,7.5,-120,-110.0
+63b3c408cf1e55eb8d34aec686038a87,2026-03-26T02:10:00Z,Denver Nuggets,Dallas Mavericks,Bovada,Daniel Gafford,player_rebounds,8.5,140,-185.0
+63b3c408cf1e55eb8d34aec686038a87,2026-03-26T02:10:00Z,Denver Nuggets,Dallas Mavericks,Bovada,Jamal Murray,player_rebounds,3.5,-210,155.0
+63b3c408cf1e55eb8d34aec686038a87,2026-03-26T02:10:00Z,Denver Nuggets,Dallas Mavericks,Bovada,Jamal Murray,player_rebounds,4.5,100,-130.0
+63b3c408cf1e55eb8d34aec686038a87,2026-03-26T02:10:00Z,Denver Nuggets,Dallas Mavericks,Bovada,Jamal Murray,player_rebounds,5.5,190,-260.0
+63b3c408cf1e55eb8d34aec686038a87,2026-03-26T02:10:00Z,Denver Nuggets,Dallas Mavericks,Bovada,Naji Marshall,player_rebounds,3.5,-280,205.0
+63b3c408cf1e55eb8d34aec686038a87,2026-03-26T02:10:00Z,Denver Nuggets,Dallas Mavericks,Bovada,Naji Marshall,player_rebounds,4.5,-130,100.0
+63b3c408cf1e55eb8d34aec686038a87,2026-03-26T02:10:00Z,Denver Nuggets,Dallas Mavericks,Bovada,Naji Marshall,player_rebounds,5.5,145,-190.0
+63b3c408cf1e55eb8d34aec686038a87,2026-03-26T02:10:00Z,Denver Nuggets,Dallas Mavericks,Bovada,Nikola Jokic,player_rebounds,10.5,-250,185.0
+63b3c408cf1e55eb8d34aec686038a87,2026-03-26T02:10:00Z,Denver Nuggets,Dallas Mavericks,Bovada,Nikola Jokic,player_rebounds,11.5,-160,120.0
+63b3c408cf1e55eb8d34aec686038a87,2026-03-26T02:10:00Z,Denver Nuggets,Dallas Mavericks,Bovada,Nikola Jokic,player_rebounds,12.5,-105,-125.0
+63b3c408cf1e55eb8d34aec686038a87,2026-03-26T02:10:00Z,Denver Nuggets,Dallas Mavericks,Bovada,Nikola Jokic,player_rebounds,13.5,145,-190.0
+63b3c408cf1e55eb8d34aec686038a87,2026-03-26T02:10:00Z,Denver Nuggets,Dallas Mavericks,Bovada,Nikola Jokic,player_rebounds,14.5,210,-290.0
+63b3c408cf1e55eb8d34aec686038a87,2026-03-26T02:10:00Z,Denver Nuggets,Dallas Mavericks,Bovada,Peyton Watson,player_rebounds,2.5,-280,205.0
+63b3c408cf1e55eb8d34aec686038a87,2026-03-26T02:10:00Z,Denver Nuggets,Dallas Mavericks,Bovada,Peyton Watson,player_rebounds,3.5,-120,-110.0
+63b3c408cf1e55eb8d34aec686038a87,2026-03-26T02:10:00Z,Denver Nuggets,Dallas Mavericks,Bovada,Peyton Watson,player_rebounds,4.5,170,-230.0
+63b3c408cf1e55eb8d34aec686038a87,2026-03-26T02:10:00Z,Denver Nuggets,Dallas Mavericks,DraftKings,Bruce Brown,player_rebounds,3.5,109,-143.0
+63b3c408cf1e55eb8d34aec686038a87,2026-03-26T02:10:00Z,Denver Nuggets,Dallas Mavericks,DraftKings,Cameron Johnson,player_rebounds,3.5,100,-132.0
+63b3c408cf1e55eb8d34aec686038a87,2026-03-26T02:10:00Z,Denver Nuggets,Dallas Mavericks,DraftKings,Christian Braun,player_rebounds,4.5,-139,106.0
+63b3c408cf1e55eb8d34aec686038a87,2026-03-26T02:10:00Z,Denver Nuggets,Dallas Mavericks,DraftKings,Cooper Flagg,player_rebounds,6.5,-120,-109.0
+63b3c408cf1e55eb8d34aec686038a87,2026-03-26T02:10:00Z,Denver Nuggets,Dallas Mavericks,DraftKings,Daniel Gafford,player_rebounds,7.5,-119,-110.0
+63b3c408cf1e55eb8d34aec686038a87,2026-03-26T02:10:00Z,Denver Nuggets,Dallas Mavericks,DraftKings,Jamal Murray,player_rebounds,4.5,-101,-131.0
+63b3c408cf1e55eb8d34aec686038a87,2026-03-26T02:10:00Z,Denver Nuggets,Dallas Mavericks,DraftKings,Naji Marshall,player_rebounds,4.5,-131,100.0
+63b3c408cf1e55eb8d34aec686038a87,2026-03-26T02:10:00Z,Denver Nuggets,Dallas Mavericks,DraftKings,Nikola Jokic,player_rebounds,12.5,-107,-123.0
+63b3c408cf1e55eb8d34aec686038a87,2026-03-26T02:10:00Z,Denver Nuggets,Dallas Mavericks,DraftKings,Peyton Watson,player_rebounds,3.5,-118,-111.0
+63b3c408cf1e55eb8d34aec686038a87,2026-03-26T02:10:00Z,Denver Nuggets,Dallas Mavericks,FanDuel,Aaron Gordon,player_rebounds,5.5,-114,-114.0
+63b3c408cf1e55eb8d34aec686038a87,2026-03-26T02:10:00Z,Denver Nuggets,Dallas Mavericks,FanDuel,Bruce Brown,player_rebounds,3.5,116,-154.0
+63b3c408cf1e55eb8d34aec686038a87,2026-03-26T02:10:00Z,Denver Nuggets,Dallas Mavericks,FanDuel,Cameron Johnson,player_rebounds,3.5,-104,-128.0
+63b3c408cf1e55eb8d34aec686038a87,2026-03-26T02:10:00Z,Denver Nuggets,Dallas Mavericks,FanDuel,Christian Braun,player_rebounds,4.5,-158,118.0
+63b3c408cf1e55eb8d34aec686038a87,2026-03-26T02:10:00Z,Denver Nuggets,Dallas Mavericks,FanDuel,Cooper Flagg,player_rebounds,6.5,-114,-114.0
+63b3c408cf1e55eb8d34aec686038a87,2026-03-26T02:10:00Z,Denver Nuggets,Dallas Mavericks,FanDuel,Daniel Gafford,player_rebounds,7.5,-114,-114.0
+63b3c408cf1e55eb8d34aec686038a87,2026-03-26T02:10:00Z,Denver Nuggets,Dallas Mavericks,FanDuel,Jamal Murray,player_rebounds,4.5,102,-136.0
+63b3c408cf1e55eb8d34aec686038a87,2026-03-26T02:10:00Z,Denver Nuggets,Dallas Mavericks,FanDuel,Naji Marshall,player_rebounds,4.5,-136,102.0
+63b3c408cf1e55eb8d34aec686038a87,2026-03-26T02:10:00Z,Denver Nuggets,Dallas Mavericks,FanDuel,Nikola Jokic,player_rebounds,12.5,106,-140.0
+63b3c408cf1e55eb8d34aec686038a87,2026-03-26T02:10:00Z,Denver Nuggets,Dallas Mavericks,FanDuel,P.J. Washington,player_rebounds,7.5,116,-154.0
+63b3c408cf1e55eb8d34aec686038a87,2026-03-26T02:10:00Z,Denver Nuggets,Dallas Mavericks,FanDuel,Peyton Watson,player_rebounds,3.5,-104,-128.0
+f0853d396988ee8ea615897e136d22cb,2026-03-26T02:10:00Z,Golden State Warriors,Brooklyn Nets,BetMGM,Ben Saraf,player_rebounds,2.5,-115,-115.0
+f0853d396988ee8ea615897e136d22cb,2026-03-26T02:10:00Z,Golden State Warriors,Brooklyn Nets,BetMGM,Brandin Podziemski,player_rebounds,5.5,-150,110.0
+f0853d396988ee8ea615897e136d22cb,2026-03-26T02:10:00Z,Golden State Warriors,Brooklyn Nets,BetMGM,De'Anthony Melton,player_rebounds,3.5,-105,-125.0
+f0853d396988ee8ea615897e136d22cb,2026-03-26T02:10:00Z,Golden State Warriors,Brooklyn Nets,BetMGM,Drake Powell,player_rebounds,2.5,125,-165.0
+f0853d396988ee8ea615897e136d22cb,2026-03-26T02:10:00Z,Golden State Warriors,Brooklyn Nets,BetMGM,Draymond Green,player_rebounds,5.5,-135,100.0
+f0853d396988ee8ea615897e136d22cb,2026-03-26T02:10:00Z,Golden State Warriors,Brooklyn Nets,BetMGM,Gui Santos,player_rebounds,5.5,-125,-105.0
+f0853d396988ee8ea615897e136d22cb,2026-03-26T02:10:00Z,Golden State Warriors,Brooklyn Nets,BetMGM,Josh Minott,player_rebounds,4.5,-160,120.0
+f0853d396988ee8ea615897e136d22cb,2026-03-26T02:10:00Z,Golden State Warriors,Brooklyn Nets,BetMGM,Kristaps Porzingis,player_rebounds,5.5,100,-135.0
+f0853d396988ee8ea615897e136d22cb,2026-03-26T02:10:00Z,Golden State Warriors,Brooklyn Nets,BetMGM,Nicolas Claxton,player_rebounds,5.5,-155,115.0
+f0853d396988ee8ea615897e136d22cb,2026-03-26T02:10:00Z,Golden State Warriors,Brooklyn Nets,BetMGM,Ziaire Williams,player_rebounds,2.5,-155,115.0
+f0853d396988ee8ea615897e136d22cb,2026-03-26T02:10:00Z,Golden State Warriors,Brooklyn Nets,BetOnline.ag,Ben Saraf,player_rebounds,2.5,103,-133.0
+f0853d396988ee8ea615897e136d22cb,2026-03-26T02:10:00Z,Golden State Warriors,Brooklyn Nets,BetOnline.ag,Brandin Podziemski,player_rebounds,5.5,-123,-105.0
+f0853d396988ee8ea615897e136d22cb,2026-03-26T02:10:00Z,Golden State Warriors,Brooklyn Nets,BetOnline.ag,De'Anthony Melton,player_rebounds,3.5,103,-133.0
+f0853d396988ee8ea615897e136d22cb,2026-03-26T02:10:00Z,Golden State Warriors,Brooklyn Nets,BetOnline.ag,Drake Powell,player_rebounds,2.5,130,-169.0
+f0853d396988ee8ea615897e136d22cb,2026-03-26T02:10:00Z,Golden State Warriors,Brooklyn Nets,BetOnline.ag,Draymond Green,player_rebounds,5.5,-123,-105.0
+f0853d396988ee8ea615897e136d22cb,2026-03-26T02:10:00Z,Golden State Warriors,Brooklyn Nets,BetOnline.ag,Gary Payton II,player_rebounds,4.5,-141,108.0
+f0853d396988ee8ea615897e136d22cb,2026-03-26T02:10:00Z,Golden State Warriors,Brooklyn Nets,BetOnline.ag,Gui Santos,player_rebounds,5.5,-125,-103.0
+f0853d396988ee8ea615897e136d22cb,2026-03-26T02:10:00Z,Golden State Warriors,Brooklyn Nets,BetOnline.ag,Jalen Wilson,player_rebounds,3.5,152,-200.0
+f0853d396988ee8ea615897e136d22cb,2026-03-26T02:10:00Z,Golden State Warriors,Brooklyn Nets,BetOnline.ag,Josh Minott,player_rebounds,4.5,-141,109.0
+f0853d396988ee8ea615897e136d22cb,2026-03-26T02:10:00Z,Golden State Warriors,Brooklyn Nets,BetOnline.ag,Kristaps Porzingis,player_rebounds,5.5,-112,-115.0
+f0853d396988ee8ea615897e136d22cb,2026-03-26T02:10:00Z,Golden State Warriors,Brooklyn Nets,BetOnline.ag,Nicolas Claxton,player_rebounds,5.5,-133,103.0
+f0853d396988ee8ea615897e136d22cb,2026-03-26T02:10:00Z,Golden State Warriors,Brooklyn Nets,BetOnline.ag,Terance Mann,player_rebounds,2.5,-141,108.0
+f0853d396988ee8ea615897e136d22cb,2026-03-26T02:10:00Z,Golden State Warriors,Brooklyn Nets,BetOnline.ag,Will Richard,player_rebounds,2.5,-169,129.0
+f0853d396988ee8ea615897e136d22cb,2026-03-26T02:10:00Z,Golden State Warriors,Brooklyn Nets,BetOnline.ag,Ziaire Williams,player_rebounds,2.5,-149,115.0
+f0853d396988ee8ea615897e136d22cb,2026-03-26T02:10:00Z,Golden State Warriors,Brooklyn Nets,BetRivers,Brandin Podziemski,player_rebounds,5.5,-136,100.0
+f0853d396988ee8ea615897e136d22cb,2026-03-26T02:10:00Z,Golden State Warriors,Brooklyn Nets,BetRivers,De'Anthony Melton,player_rebounds,3.5,104,-141.0
+f0853d396988ee8ea615897e136d22cb,2026-03-26T02:10:00Z,Golden State Warriors,Brooklyn Nets,BetRivers,Draymond Green,player_rebounds,5.5,-129,-106.0
+f0853d396988ee8ea615897e136d22cb,2026-03-26T02:10:00Z,Golden State Warriors,Brooklyn Nets,BetRivers,Gary Payton II,player_rebounds,4.5,-148,108.0
+f0853d396988ee8ea615897e136d22cb,2026-03-26T02:10:00Z,Golden State Warriors,Brooklyn Nets,BetRivers,Gui Santos,player_rebounds,5.5,-125,-109.0
+f0853d396988ee8ea615897e136d22cb,2026-03-26T02:10:00Z,Golden State Warriors,Brooklyn Nets,BetRivers,Jalen Wilson,player_rebounds,2.5,-143,106.0
+f0853d396988ee8ea615897e136d22cb,2026-03-26T02:10:00Z,Golden State Warriors,Brooklyn Nets,BetRivers,Josh Minott,player_rebounds,4.5,-125,-109.0
+f0853d396988ee8ea615897e136d22cb,2026-03-26T02:10:00Z,Golden State Warriors,Brooklyn Nets,BetRivers,Kristaps Porzingis,player_rebounds,5.5,-127,-107.0
+f0853d396988ee8ea615897e136d22cb,2026-03-26T02:10:00Z,Golden State Warriors,Brooklyn Nets,BetRivers,Nicolas Claxton,player_rebounds,5.5,-152,110.0
+f0853d396988ee8ea615897e136d22cb,2026-03-26T02:10:00Z,Golden State Warriors,Brooklyn Nets,BetRivers,Terance Mann,player_rebounds,2.5,-157,115.0
+f0853d396988ee8ea615897e136d22cb,2026-03-26T02:10:00Z,Golden State Warriors,Brooklyn Nets,BetRivers,Will Richard,player_rebounds,3.5,125,-175.0
+f0853d396988ee8ea615897e136d22cb,2026-03-26T02:10:00Z,Golden State Warriors,Brooklyn Nets,BetRivers,Ziaire Williams,player_rebounds,3.5,123,-167.0
+f0853d396988ee8ea615897e136d22cb,2026-03-26T02:10:00Z,Golden State Warriors,Brooklyn Nets,Bovada,Ben Saraf,player_rebounds,1.5,-275,200.0
+f0853d396988ee8ea615897e136d22cb,2026-03-26T02:10:00Z,Golden State Warriors,Brooklyn Nets,Bovada,Ben Saraf,player_rebounds,2.5,100,
+f0853d396988ee8ea615897e136d22cb,2026-03-26T02:10:00Z,Golden State Warriors,Brooklyn Nets,Bovada,Brandin Podziemski,player_rebounds,5.5,-150,115.0
+f0853d396988ee8ea615897e136d22cb,2026-03-26T02:10:00Z,Golden State Warriors,Brooklyn Nets,Bovada,Brandin Podziemski,player_rebounds,6.5,115,-150.0
+f0853d396988ee8ea615897e136d22cb,2026-03-26T02:10:00Z,Golden State Warriors,Brooklyn Nets,Bovada,Brandin Podziemski,player_rebounds,7.5,200,-275.0
+f0853d396988ee8ea615897e136d22cb,2026-03-26T02:10:00Z,Golden State Warriors,Brooklyn Nets,Bovada,De'Anthony Melton,player_rebounds,2.5,-230,170.0
+f0853d396988ee8ea615897e136d22cb,2026-03-26T02:10:00Z,Golden State Warriors,Brooklyn Nets,Bovada,De'Anthony Melton,player_rebounds,3.5,100,-130.0
+f0853d396988ee8ea615897e136d22cb,2026-03-26T02:10:00Z,Golden State Warriors,Brooklyn Nets,Bovada,De'Anthony Melton,player_rebounds,4.5,205,-280.0
+f0853d396988ee8ea615897e136d22cb,2026-03-26T02:10:00Z,Golden State Warriors,Brooklyn Nets,Bovada,Drake Powell,player_rebounds,1.5,-210,155.0
+f0853d396988ee8ea615897e136d22cb,2026-03-26T02:10:00Z,Golden State Warriors,Brooklyn Nets,Bovada,Drake Powell,player_rebounds,2.5,135,-180.0
+f0853d396988ee8ea615897e136d22cb,2026-03-26T02:10:00Z,Golden State Warriors,Brooklyn Nets,Bovada,Draymond Green,player_rebounds,4.5,-250,185.0
+f0853d396988ee8ea615897e136d22cb,2026-03-26T02:10:00Z,Golden State Warriors,Brooklyn Nets,Bovada,Draymond Green,player_rebounds,5.5,-125,-105.0
+f0853d396988ee8ea615897e136d22cb,2026-03-26T02:10:00Z,Golden State Warriors,Brooklyn Nets,Bovada,Draymond Green,player_rebounds,6.5,140,-185.0
+f0853d396988ee8ea615897e136d22cb,2026-03-26T02:10:00Z,Golden State Warriors,Brooklyn Nets,Bovada,Gary Payton II,player_rebounds,4.5,-160,120.0
+f0853d396988ee8ea615897e136d22cb,2026-03-26T02:10:00Z,Golden State Warriors,Brooklyn Nets,Bovada,Gary Payton II,player_rebounds,5.5,120,-160.0
+f0853d396988ee8ea615897e136d22cb,2026-03-26T02:10:00Z,Golden State Warriors,Brooklyn Nets,Bovada,Gui Santos,player_rebounds,4.5,-275,200.0
+f0853d396988ee8ea615897e136d22cb,2026-03-26T02:10:00Z,Golden State Warriors,Brooklyn Nets,Bovada,Gui Santos,player_rebounds,5.5,-135,105.0
+f0853d396988ee8ea615897e136d22cb,2026-03-26T02:10:00Z,Golden State Warriors,Brooklyn Nets,Bovada,Gui Santos,player_rebounds,6.5,130,-170.0
+f0853d396988ee8ea615897e136d22cb,2026-03-26T02:10:00Z,Golden State Warriors,Brooklyn Nets,Bovada,Jalen Wilson,player_rebounds,2.5,-135,105.0
+f0853d396988ee8ea615897e136d22cb,2026-03-26T02:10:00Z,Golden State Warriors,Brooklyn Nets,Bovada,Jalen Wilson,player_rebounds,3.5,165,-220.0
+f0853d396988ee8ea615897e136d22cb,2026-03-26T02:10:00Z,Golden State Warriors,Brooklyn Nets,Bovada,Josh Minott,player_rebounds,4.5,-145,110.0
+f0853d396988ee8ea615897e136d22cb,2026-03-26T02:10:00Z,Golden State Warriors,Brooklyn Nets,Bovada,Josh Minott,player_rebounds,5.5,130,-170.0
+f0853d396988ee8ea615897e136d22cb,2026-03-26T02:10:00Z,Golden State Warriors,Brooklyn Nets,Bovada,Kristaps Porzingis,player_rebounds,4.5,-250,185.0
+f0853d396988ee8ea615897e136d22cb,2026-03-26T02:10:00Z,Golden State Warriors,Brooklyn Nets,Bovada,Kristaps Porzingis,player_rebounds,5.5,-125,-105.0
+f0853d396988ee8ea615897e136d22cb,2026-03-26T02:10:00Z,Golden State Warriors,Brooklyn Nets,Bovada,Kristaps Porzingis,player_rebounds,6.5,140,-185.0
+f0853d396988ee8ea615897e136d22cb,2026-03-26T02:10:00Z,Golden State Warriors,Brooklyn Nets,Bovada,Nicolas Claxton,player_rebounds,4.5,-260,190.0
+f0853d396988ee8ea615897e136d22cb,2026-03-26T02:10:00Z,Golden State Warriors,Brooklyn Nets,Bovada,Nicolas Claxton,player_rebounds,5.5,-130,100.0
+f0853d396988ee8ea615897e136d22cb,2026-03-26T02:10:00Z,Golden State Warriors,Brooklyn Nets,Bovada,Nicolas Claxton,player_rebounds,6.5,135,-180.0
+f0853d396988ee8ea615897e136d22cb,2026-03-26T02:10:00Z,Golden State Warriors,Brooklyn Nets,Bovada,Terance Mann,player_rebounds,2.5,-150,115.0
+f0853d396988ee8ea615897e136d22cb,2026-03-26T02:10:00Z,Golden State Warriors,Brooklyn Nets,Bovada,Terance Mann,player_rebounds,3.5,150,-200.0
+f0853d396988ee8ea615897e136d22cb,2026-03-26T02:10:00Z,Golden State Warriors,Brooklyn Nets,Bovada,Ziaire Williams,player_rebounds,2.5,-150,115.0
+f0853d396988ee8ea615897e136d22cb,2026-03-26T02:10:00Z,Golden State Warriors,Brooklyn Nets,Bovada,Ziaire Williams,player_rebounds,3.5,150,-200.0
+f0853d396988ee8ea615897e136d22cb,2026-03-26T02:10:00Z,Golden State Warriors,Brooklyn Nets,DraftKings,Ben Saraf,player_rebounds,2.5,104,-137.0
+f0853d396988ee8ea615897e136d22cb,2026-03-26T02:10:00Z,Golden State Warriors,Brooklyn Nets,DraftKings,Brandin Podziemski,player_rebounds,5.5,-149,113.0
+f0853d396988ee8ea615897e136d22cb,2026-03-26T02:10:00Z,Golden State Warriors,Brooklyn Nets,DraftKings,De'Anthony Melton,player_rebounds,3.5,100,-131.0
+f0853d396988ee8ea615897e136d22cb,2026-03-26T02:10:00Z,Golden State Warriors,Brooklyn Nets,DraftKings,Drake Powell,player_rebounds,2.5,124,-164.0
+f0853d396988ee8ea615897e136d22cb,2026-03-26T02:10:00Z,Golden State Warriors,Brooklyn Nets,DraftKings,Draymond Green,player_rebounds,5.5,-125,-105.0
+f0853d396988ee8ea615897e136d22cb,2026-03-26T02:10:00Z,Golden State Warriors,Brooklyn Nets,DraftKings,Gary Payton II,player_rebounds,4.5,-149,113.0
+f0853d396988ee8ea615897e136d22cb,2026-03-26T02:10:00Z,Golden State Warriors,Brooklyn Nets,DraftKings,Gui Santos,player_rebounds,5.5,-135,102.0
+f0853d396988ee8ea615897e136d22cb,2026-03-26T02:10:00Z,Golden State Warriors,Brooklyn Nets,DraftKings,Jalen Wilson,player_rebounds,2.5,-138,105.0
+f0853d396988ee8ea615897e136d22cb,2026-03-26T02:10:00Z,Golden State Warriors,Brooklyn Nets,DraftKings,Josh Minott,player_rebounds,4.5,-141,107.0
+f0853d396988ee8ea615897e136d22cb,2026-03-26T02:10:00Z,Golden State Warriors,Brooklyn Nets,DraftKings,Kristaps Porzingis,player_rebounds,5.5,-124,-106.0
+f0853d396988ee8ea615897e136d22cb,2026-03-26T02:10:00Z,Golden State Warriors,Brooklyn Nets,DraftKings,Nicolas Claxton,player_rebounds,5.5,-134,102.0
+f0853d396988ee8ea615897e136d22cb,2026-03-26T02:10:00Z,Golden State Warriors,Brooklyn Nets,DraftKings,Terance Mann,player_rebounds,2.5,-149,113.0
+f0853d396988ee8ea615897e136d22cb,2026-03-26T02:10:00Z,Golden State Warriors,Brooklyn Nets,DraftKings,Will Richard,player_rebounds,3.5,118,-155.0
+f0853d396988ee8ea615897e136d22cb,2026-03-26T02:10:00Z,Golden State Warriors,Brooklyn Nets,DraftKings,Ziaire Williams,player_rebounds,2.5,-152,115.0
+f0853d396988ee8ea615897e136d22cb,2026-03-26T02:10:00Z,Golden State Warriors,Brooklyn Nets,FanDuel,Brandin Podziemski,player_rebounds,5.5,-138,104.0
+f0853d396988ee8ea615897e136d22cb,2026-03-26T02:10:00Z,Golden State Warriors,Brooklyn Nets,FanDuel,De'Anthony Melton,player_rebounds,3.5,104,-138.0
+f0853d396988ee8ea615897e136d22cb,2026-03-26T02:10:00Z,Golden State Warriors,Brooklyn Nets,FanDuel,Draymond Green,player_rebounds,5.5,-118,-112.0
+f0853d396988ee8ea615897e136d22cb,2026-03-26T02:10:00Z,Golden State Warriors,Brooklyn Nets,FanDuel,Gary Payton II,player_rebounds,4.5,-136,102.0
+f0853d396988ee8ea615897e136d22cb,2026-03-26T02:10:00Z,Golden State Warriors,Brooklyn Nets,FanDuel,Gui Santos,player_rebounds,5.5,-125,-106.0
+f0853d396988ee8ea615897e136d22cb,2026-03-26T02:10:00Z,Golden State Warriors,Brooklyn Nets,FanDuel,Jalen Wilson,player_rebounds,2.5,-140,106.0
+f0853d396988ee8ea615897e136d22cb,2026-03-26T02:10:00Z,Golden State Warriors,Brooklyn Nets,FanDuel,Josh Minott,player_rebounds,4.5,-138,104.0
+f0853d396988ee8ea615897e136d22cb,2026-03-26T02:10:00Z,Golden State Warriors,Brooklyn Nets,FanDuel,Kristaps Porzingis,player_rebounds,5.5,-118,-112.0
+f0853d396988ee8ea615897e136d22cb,2026-03-26T02:10:00Z,Golden State Warriors,Brooklyn Nets,FanDuel,Nicolas Claxton,player_rebounds,5.5,-138,104.0
+f0853d396988ee8ea615897e136d22cb,2026-03-26T02:10:00Z,Golden State Warriors,Brooklyn Nets,FanDuel,Terance Mann,player_rebounds,2.5,-138,104.0
+f0853d396988ee8ea615897e136d22cb,2026-03-26T02:10:00Z,Golden State Warriors,Brooklyn Nets,FanDuel,Will Richard,player_rebounds,3.5,142,-192.0
+f0853d396988ee8ea615897e136d22cb,2026-03-26T02:10:00Z,Golden State Warriors,Brooklyn Nets,FanDuel,Ziaire Williams,player_rebounds,3.5,134,-180.0
+d17b632d984be98852b4bc409ae1d056,2026-03-26T02:10:00Z,Portland Trail Blazers,Milwaukee Bucks,BetMGM,Deni Avdija,player_rebounds,7.5,100,-135.0
+d17b632d984be98852b4bc409ae1d056,2026-03-26T02:10:00Z,Portland Trail Blazers,Milwaukee Bucks,BetMGM,Donovan Clingan,player_rebounds,13.5,100,-135.0
+d17b632d984be98852b4bc409ae1d056,2026-03-26T02:10:00Z,Portland Trail Blazers,Milwaukee Bucks,BetMGM,Jerami Grant,player_rebounds,4.5,125,-165.0
+d17b632d984be98852b4bc409ae1d056,2026-03-26T02:10:00Z,Portland Trail Blazers,Milwaukee Bucks,BetMGM,Jrue Holiday,player_rebounds,4.5,-111,-118.0
+d17b632d984be98852b4bc409ae1d056,2026-03-26T02:10:00Z,Portland Trail Blazers,Milwaukee Bucks,BetMGM,Kyle Kuzma,player_rebounds,3.5,-135,100.0
+d17b632d984be98852b4bc409ae1d056,2026-03-26T02:10:00Z,Portland Trail Blazers,Milwaukee Bucks,BetMGM,Myles Turner,player_rebounds,4.5,105,-140.0
+d17b632d984be98852b4bc409ae1d056,2026-03-26T02:10:00Z,Portland Trail Blazers,Milwaukee Bucks,BetMGM,Ousmane Dieng,player_rebounds,4.5,100,-135.0
+d17b632d984be98852b4bc409ae1d056,2026-03-26T02:10:00Z,Portland Trail Blazers,Milwaukee Bucks,BetMGM,Ryan Rollins,player_rebounds,4.5,100,-135.0
+d17b632d984be98852b4bc409ae1d056,2026-03-26T02:10:00Z,Portland Trail Blazers,Milwaukee Bucks,BetMGM,Taurean Prince,player_rebounds,2.5,120,-160.0
+d17b632d984be98852b4bc409ae1d056,2026-03-26T02:10:00Z,Portland Trail Blazers,Milwaukee Bucks,BetMGM,Toumani Camara,player_rebounds,5.5,105,-140.0
+d17b632d984be98852b4bc409ae1d056,2026-03-26T02:10:00Z,Portland Trail Blazers,Milwaukee Bucks,BetOnline.ag,Bobby Portis,player_rebounds,6.5,-112,-115.0
+d17b632d984be98852b4bc409ae1d056,2026-03-26T02:10:00Z,Portland Trail Blazers,Milwaukee Bucks,BetOnline.ag,Deni Avdija,player_rebounds,6.5,-141,109.0
+d17b632d984be98852b4bc409ae1d056,2026-03-26T02:10:00Z,Portland Trail Blazers,Milwaukee Bucks,BetOnline.ag,Donovan Clingan,player_rebounds,12.5,-110,-118.0
+d17b632d984be98852b4bc409ae1d056,2026-03-26T02:10:00Z,Portland Trail Blazers,Milwaukee Bucks,BetOnline.ag,Jerami Grant,player_rebounds,3.5,-130,100.0
+d17b632d984be98852b4bc409ae1d056,2026-03-26T02:10:00Z,Portland Trail Blazers,Milwaukee Bucks,BetOnline.ag,Jrue Holiday,player_rebounds,4.5,-105,-123.0
+d17b632d984be98852b4bc409ae1d056,2026-03-26T02:10:00Z,Portland Trail Blazers,Milwaukee Bucks,BetOnline.ag,Kyle Kuzma,player_rebounds,3.5,-147,113.0
+d17b632d984be98852b4bc409ae1d056,2026-03-26T02:10:00Z,Portland Trail Blazers,Milwaukee Bucks,BetOnline.ag,Myles Turner,player_rebounds,4.5,109,-141.0
+d17b632d984be98852b4bc409ae1d056,2026-03-26T02:10:00Z,Portland Trail Blazers,Milwaukee Bucks,BetOnline.ag,Ousmane Dieng,player_rebounds,4.5,-101,-128.0
+d17b632d984be98852b4bc409ae1d056,2026-03-26T02:10:00Z,Portland Trail Blazers,Milwaukee Bucks,BetOnline.ag,Robert Williams,player_rebounds,6.5,-115,-112.0
+d17b632d984be98852b4bc409ae1d056,2026-03-26T02:10:00Z,Portland Trail Blazers,Milwaukee Bucks,BetOnline.ag,Ryan Rollins,player_rebounds,4.5,112,-145.0
+d17b632d984be98852b4bc409ae1d056,2026-03-26T02:10:00Z,Portland Trail Blazers,Milwaukee Bucks,BetOnline.ag,Scoot Henderson,player_rebounds,2.5,-141,108.0
+d17b632d984be98852b4bc409ae1d056,2026-03-26T02:10:00Z,Portland Trail Blazers,Milwaukee Bucks,BetOnline.ag,Taurean Prince,player_rebounds,2.5,122,-159.0
+d17b632d984be98852b4bc409ae1d056,2026-03-26T02:10:00Z,Portland Trail Blazers,Milwaukee Bucks,BetOnline.ag,Toumani Camara,player_rebounds,4.5,-149,115.0
+d17b632d984be98852b4bc409ae1d056,2026-03-26T02:10:00Z,Portland Trail Blazers,Milwaukee Bucks,BetRivers,Bobby Portis,player_rebounds,6.5,-127,-107.0
+d17b632d984be98852b4bc409ae1d056,2026-03-26T02:10:00Z,Portland Trail Blazers,Milwaukee Bucks,BetRivers,Deni Avdija,player_rebounds,7.5,115,-157.0
+d17b632d984be98852b4bc409ae1d056,2026-03-26T02:10:00Z,Portland Trail Blazers,Milwaukee Bucks,BetRivers,Donovan Clingan,player_rebounds,12.5,-125,-109.0
+d17b632d984be98852b4bc409ae1d056,2026-03-26T02:10:00Z,Portland Trail Blazers,Milwaukee Bucks,BetRivers,Jerami Grant,player_rebounds,3.5,-134,100.0
+d17b632d984be98852b4bc409ae1d056,2026-03-26T02:10:00Z,Portland Trail Blazers,Milwaukee Bucks,BetRivers,Jrue Holiday,player_rebounds,4.5,-105,-130.0
+d17b632d984be98852b4bc409ae1d056,2026-03-26T02:10:00Z,Portland Trail Blazers,Milwaukee Bucks,BetRivers,Kyle Kuzma,player_rebounds,3.5,-167,123.0
+d17b632d984be98852b4bc409ae1d056,2026-03-26T02:10:00Z,Portland Trail Blazers,Milwaukee Bucks,BetRivers,Myles Turner,player_rebounds,4.5,104,-141.0
+d17b632d984be98852b4bc409ae1d056,2026-03-26T02:10:00Z,Portland Trail Blazers,Milwaukee Bucks,BetRivers,Ousmane Dieng,player_rebounds,4.5,-113,-121.0
+d17b632d984be98852b4bc409ae1d056,2026-03-26T02:10:00Z,Portland Trail Blazers,Milwaukee Bucks,BetRivers,Ryan Rollins,player_rebounds,4.5,102,-139.0
+d17b632d984be98852b4bc409ae1d056,2026-03-26T02:10:00Z,Portland Trail Blazers,Milwaukee Bucks,BetRivers,Toumani Camara,player_rebounds,4.5,-159,116.0
+d17b632d984be98852b4bc409ae1d056,2026-03-26T02:10:00Z,Portland Trail Blazers,Milwaukee Bucks,Bovada,Bobby Portis,player_rebounds,5.5,-230,170.0
+d17b632d984be98852b4bc409ae1d056,2026-03-26T02:10:00Z,Portland Trail Blazers,Milwaukee Bucks,Bovada,Bobby Portis,player_rebounds,6.5,-125,-105.0
+d17b632d984be98852b4bc409ae1d056,2026-03-26T02:10:00Z,Portland Trail Blazers,Milwaukee Bucks,Bovada,Bobby Portis,player_rebounds,7.5,140,-185.0
+d17b632d984be98852b4bc409ae1d056,2026-03-26T02:10:00Z,Portland Trail Blazers,Milwaukee Bucks,Bovada,Deni Avdija,player_rebounds,5.5,-280,205.0
+d17b632d984be98852b4bc409ae1d056,2026-03-26T02:10:00Z,Portland Trail Blazers,Milwaukee Bucks,Bovada,Deni Avdija,player_rebounds,6.5,-150,115.0
+d17b632d984be98852b4bc409ae1d056,2026-03-26T02:10:00Z,Portland Trail Blazers,Milwaukee Bucks,Bovada,Deni Avdija,player_rebounds,7.5,115,-150.0
+d17b632d984be98852b4bc409ae1d056,2026-03-26T02:10:00Z,Portland Trail Blazers,Milwaukee Bucks,Bovada,Deni Avdija,player_rebounds,8.5,190,-260.0
+d17b632d984be98852b4bc409ae1d056,2026-03-26T02:10:00Z,Portland Trail Blazers,Milwaukee Bucks,Bovada,Donovan Clingan,player_rebounds,11.5,-190,145.0
+d17b632d984be98852b4bc409ae1d056,2026-03-26T02:10:00Z,Portland Trail Blazers,Milwaukee Bucks,Bovada,Donovan Clingan,player_rebounds,12.5,-125,-105.0
+d17b632d984be98852b4bc409ae1d056,2026-03-26T02:10:00Z,Portland Trail Blazers,Milwaukee Bucks,Bovada,Donovan Clingan,player_rebounds,13.5,120,-160.0
+d17b632d984be98852b4bc409ae1d056,2026-03-26T02:10:00Z,Portland Trail Blazers,Milwaukee Bucks,Bovada,Donovan Clingan,player_rebounds,14.5,175,-240.0
+d17b632d984be98852b4bc409ae1d056,2026-03-26T02:10:00Z,Portland Trail Blazers,Milwaukee Bucks,Bovada,Jerami Grant,player_rebounds,3.5,-125,-105.0
+d17b632d984be98852b4bc409ae1d056,2026-03-26T02:10:00Z,Portland Trail Blazers,Milwaukee Bucks,Bovada,Jerami Grant,player_rebounds,4.5,165,-220.0
+d17b632d984be98852b4bc409ae1d056,2026-03-26T02:10:00Z,Portland Trail Blazers,Milwaukee Bucks,Bovada,Jrue Holiday,player_rebounds,3.5,-220,165.0
+d17b632d984be98852b4bc409ae1d056,2026-03-26T02:10:00Z,Portland Trail Blazers,Milwaukee Bucks,Bovada,Jrue Holiday,player_rebounds,4.5,-105,-125.0
+d17b632d984be98852b4bc409ae1d056,2026-03-26T02:10:00Z,Portland Trail Blazers,Milwaukee Bucks,Bovada,Jrue Holiday,player_rebounds,5.5,180,-245.0
+d17b632d984be98852b4bc409ae1d056,2026-03-26T02:10:00Z,Portland Trail Blazers,Milwaukee Bucks,Bovada,Kyle Kuzma,player_rebounds,3.5,-145,110.0
+d17b632d984be98852b4bc409ae1d056,2026-03-26T02:10:00Z,Portland Trail Blazers,Milwaukee Bucks,Bovada,Kyle Kuzma,player_rebounds,4.5,140,-185.0
+d17b632d984be98852b4bc409ae1d056,2026-03-26T02:10:00Z,Portland Trail Blazers,Milwaukee Bucks,Bovada,Myles Turner,player_rebounds,3.5,-185,140.0
+d17b632d984be98852b4bc409ae1d056,2026-03-26T02:10:00Z,Portland Trail Blazers,Milwaukee Bucks,Bovada,Myles Turner,player_rebounds,4.5,110,-145.0
+d17b632d984be98852b4bc409ae1d056,2026-03-26T02:10:00Z,Portland Trail Blazers,Milwaukee Bucks,Bovada,Ousmane Dieng,player_rebounds,3.5,-220,165.0
+d17b632d984be98852b4bc409ae1d056,2026-03-26T02:10:00Z,Portland Trail Blazers,Milwaukee Bucks,Bovada,Ousmane Dieng,player_rebounds,4.5,-105,-125.0
+d17b632d984be98852b4bc409ae1d056,2026-03-26T02:10:00Z,Portland Trail Blazers,Milwaukee Bucks,Bovada,Ousmane Dieng,player_rebounds,5.5,180,-245.0
+d17b632d984be98852b4bc409ae1d056,2026-03-26T02:10:00Z,Portland Trail Blazers,Milwaukee Bucks,Bovada,Robert Williams,player_rebounds,5.5,-230,170.0
+d17b632d984be98852b4bc409ae1d056,2026-03-26T02:10:00Z,Portland Trail Blazers,Milwaukee Bucks,Bovada,Robert Williams,player_rebounds,6.5,-125,-105.0
+d17b632d984be98852b4bc409ae1d056,2026-03-26T02:10:00Z,Portland Trail Blazers,Milwaukee Bucks,Bovada,Robert Williams,player_rebounds,7.5,140,-185.0
+d17b632d984be98852b4bc409ae1d056,2026-03-26T02:10:00Z,Portland Trail Blazers,Milwaukee Bucks,Bovada,Ryan Rollins,player_rebounds,3.5,-180,135.0
+d17b632d984be98852b4bc409ae1d056,2026-03-26T02:10:00Z,Portland Trail Blazers,Milwaukee Bucks,Bovada,Ryan Rollins,player_rebounds,4.5,115,-150.0
+d17b632d984be98852b4bc409ae1d056,2026-03-26T02:10:00Z,Portland Trail Blazers,Milwaukee Bucks,Bovada,Scoot Henderson,player_rebounds,2.5,-150,115.0
+d17b632d984be98852b4bc409ae1d056,2026-03-26T02:10:00Z,Portland Trail Blazers,Milwaukee Bucks,Bovada,Scoot Henderson,player_rebounds,3.5,150,-200.0
+d17b632d984be98852b4bc409ae1d056,2026-03-26T02:10:00Z,Portland Trail Blazers,Milwaukee Bucks,Bovada,Taurean Prince,player_rebounds,1.5,-220,165.0
+d17b632d984be98852b4bc409ae1d056,2026-03-26T02:10:00Z,Portland Trail Blazers,Milwaukee Bucks,Bovada,Taurean Prince,player_rebounds,2.5,125,-165.0
+d17b632d984be98852b4bc409ae1d056,2026-03-26T02:10:00Z,Portland Trail Blazers,Milwaukee Bucks,Bovada,Toumani Camara,player_rebounds,4.5,-150,115.0
+d17b632d984be98852b4bc409ae1d056,2026-03-26T02:10:00Z,Portland Trail Blazers,Milwaukee Bucks,Bovada,Toumani Camara,player_rebounds,5.5,125,-165.0
+d17b632d984be98852b4bc409ae1d056,2026-03-26T02:10:00Z,Portland Trail Blazers,Milwaukee Bucks,DraftKings,Bobby Portis,player_rebounds,6.5,-112,-117.0
+d17b632d984be98852b4bc409ae1d056,2026-03-26T02:10:00Z,Portland Trail Blazers,Milwaukee Bucks,DraftKings,Deni Avdija,player_rebounds,6.5,-151,114.0
+d17b632d984be98852b4bc409ae1d056,2026-03-26T02:10:00Z,Portland Trail Blazers,Milwaukee Bucks,DraftKings,Donovan Clingan,player_rebounds,12.5,-124,-106.0
+d17b632d984be98852b4bc409ae1d056,2026-03-26T02:10:00Z,Portland Trail Blazers,Milwaukee Bucks,DraftKings,Jerami Grant,player_rebounds,3.5,-131,100.0
+d17b632d984be98852b4bc409ae1d056,2026-03-26T02:10:00Z,Portland Trail Blazers,Milwaukee Bucks,DraftKings,Jrue Holiday,player_rebounds,4.5,-109,-120.0
+d17b632d984be98852b4bc409ae1d056,2026-03-26T02:10:00Z,Portland Trail Blazers,Milwaukee Bucks,DraftKings,Kyle Kuzma,player_rebounds,3.5,-154,117.0
+d17b632d984be98852b4bc409ae1d056,2026-03-26T02:10:00Z,Portland Trail Blazers,Milwaukee Bucks,DraftKings,Myles Turner,player_rebounds,4.5,103,-136.0
+d17b632d984be98852b4bc409ae1d056,2026-03-26T02:10:00Z,Portland Trail Blazers,Milwaukee Bucks,DraftKings,Ousmane Dieng,player_rebounds,4.5,-106,-124.0
+d17b632d984be98852b4bc409ae1d056,2026-03-26T02:10:00Z,Portland Trail Blazers,Milwaukee Bucks,DraftKings,Robert Williams,player_rebounds,6.5,-112,-117.0
+d17b632d984be98852b4bc409ae1d056,2026-03-26T02:10:00Z,Portland Trail Blazers,Milwaukee Bucks,DraftKings,Ryan Rollins,player_rebounds,4.5,108,-142.0
+d17b632d984be98852b4bc409ae1d056,2026-03-26T02:10:00Z,Portland Trail Blazers,Milwaukee Bucks,DraftKings,Scoot Henderson,player_rebounds,2.5,-144,110.0
+d17b632d984be98852b4bc409ae1d056,2026-03-26T02:10:00Z,Portland Trail Blazers,Milwaukee Bucks,DraftKings,Taurean Prince,player_rebounds,2.5,116,-153.0
+d17b632d984be98852b4bc409ae1d056,2026-03-26T02:10:00Z,Portland Trail Blazers,Milwaukee Bucks,DraftKings,Toumani Camara,player_rebounds,4.5,-149,113.0
+d17b632d984be98852b4bc409ae1d056,2026-03-26T02:10:00Z,Portland Trail Blazers,Milwaukee Bucks,FanDuel,Bobby Portis,player_rebounds,6.5,-118,-112.0
+d17b632d984be98852b4bc409ae1d056,2026-03-26T02:10:00Z,Portland Trail Blazers,Milwaukee Bucks,FanDuel,Deni Avdija,player_rebounds,6.5,-154,116.0
+d17b632d984be98852b4bc409ae1d056,2026-03-26T02:10:00Z,Portland Trail Blazers,Milwaukee Bucks,FanDuel,Donovan Clingan,player_rebounds,12.5,-118,-112.0
+d17b632d984be98852b4bc409ae1d056,2026-03-26T02:10:00Z,Portland Trail Blazers,Milwaukee Bucks,FanDuel,Jerami Grant,player_rebounds,3.5,-132,100.0
+d17b632d984be98852b4bc409ae1d056,2026-03-26T02:10:00Z,Portland Trail Blazers,Milwaukee Bucks,FanDuel,Jrue Holiday,player_rebounds,4.5,-102,-130.0
+d17b632d984be98852b4bc409ae1d056,2026-03-26T02:10:00Z,Portland Trail Blazers,Milwaukee Bucks,FanDuel,Kyle Kuzma,player_rebounds,3.5,-162,122.0
+d17b632d984be98852b4bc409ae1d056,2026-03-26T02:10:00Z,Portland Trail Blazers,Milwaukee Bucks,FanDuel,Myles Turner,player_rebounds,4.5,108,-144.0
+d17b632d984be98852b4bc409ae1d056,2026-03-26T02:10:00Z,Portland Trail Blazers,Milwaukee Bucks,FanDuel,Ousmane Dieng,player_rebounds,4.5,-110,-120.0
+d17b632d984be98852b4bc409ae1d056,2026-03-26T02:10:00Z,Portland Trail Blazers,Milwaukee Bucks,FanDuel,Robert Williams,player_rebounds,6.5,-128,-104.0
+d17b632d984be98852b4bc409ae1d056,2026-03-26T02:10:00Z,Portland Trail Blazers,Milwaukee Bucks,FanDuel,Ryan Rollins,player_rebounds,4.5,108,-144.0
+d17b632d984be98852b4bc409ae1d056,2026-03-26T02:10:00Z,Portland Trail Blazers,Milwaukee Bucks,FanDuel,Toumani Camara,player_rebounds,4.5,-158,118.0
+24a4d71edcffcb5584a61d2aa89c66d8,2026-03-26T02:40:00Z,Los Angeles Clippers,Toronto Raptors,BetMGM,Bennedict Mathurin,player_rebounds,4.5,-120,-110.0
+24a4d71edcffcb5584a61d2aa89c66d8,2026-03-26T02:40:00Z,Los Angeles Clippers,Toronto Raptors,BetMGM,Brandon Ingram,player_rebounds,4.5,-140,105.0
+24a4d71edcffcb5584a61d2aa89c66d8,2026-03-26T02:40:00Z,Los Angeles Clippers,Toronto Raptors,BetMGM,Brook Lopez,player_rebounds,4.5,115,-155.0
+24a4d71edcffcb5584a61d2aa89c66d8,2026-03-26T02:40:00Z,Los Angeles Clippers,Toronto Raptors,BetMGM,Darius Garland,player_rebounds,2.5,-105,-125.0
+24a4d71edcffcb5584a61d2aa89c66d8,2026-03-26T02:40:00Z,Los Angeles Clippers,Toronto Raptors,BetMGM,Derrick Jones,player_rebounds,3.5,115,-155.0
+24a4d71edcffcb5584a61d2aa89c66d8,2026-03-26T02:40:00Z,Los Angeles Clippers,Toronto Raptors,BetMGM,Immanuel Quickley,player_rebounds,3.5,-140,105.0
+24a4d71edcffcb5584a61d2aa89c66d8,2026-03-26T02:40:00Z,Los Angeles Clippers,Toronto Raptors,BetMGM,Jakob Poeltl,player_rebounds,8.5,110,-145.0
+24a4d71edcffcb5584a61d2aa89c66d8,2026-03-26T02:40:00Z,Los Angeles Clippers,Toronto Raptors,BetMGM,John Collins,player_rebounds,5.5,110,-150.0
+24a4d71edcffcb5584a61d2aa89c66d8,2026-03-26T02:40:00Z,Los Angeles Clippers,Toronto Raptors,BetMGM,Kawhi Leonard,player_rebounds,6.5,105,-140.0
+24a4d71edcffcb5584a61d2aa89c66d8,2026-03-26T02:40:00Z,Los Angeles Clippers,Toronto Raptors,BetMGM,R.J. Barrett,player_rebounds,5.5,-105,-125.0
+24a4d71edcffcb5584a61d2aa89c66d8,2026-03-26T02:40:00Z,Los Angeles Clippers,Toronto Raptors,BetMGM,Scottie Barnes,player_rebounds,6.5,-125,-105.0
+24a4d71edcffcb5584a61d2aa89c66d8,2026-03-26T02:40:00Z,Los Angeles Clippers,Toronto Raptors,BetOnline.ag,Bennedict Mathurin,player_rebounds,4.5,-119,-109.0
+24a4d71edcffcb5584a61d2aa89c66d8,2026-03-26T02:40:00Z,Los Angeles Clippers,Toronto Raptors,BetOnline.ag,Brandon Ingram,player_rebounds,4.5,-133,103.0
+24a4d71edcffcb5584a61d2aa89c66d8,2026-03-26T02:40:00Z,Los Angeles Clippers,Toronto Raptors,BetOnline.ag,Brook Lopez,player_rebounds,4.5,122,-159.0
+24a4d71edcffcb5584a61d2aa89c66d8,2026-03-26T02:40:00Z,Los Angeles Clippers,Toronto Raptors,BetOnline.ag,Darius Garland,player_rebounds,2.5,109,-141.0
+24a4d71edcffcb5584a61d2aa89c66d8,2026-03-26T02:40:00Z,Los Angeles Clippers,Toronto Raptors,BetOnline.ag,Derrick Jones,player_rebounds,3.5,104,-135.0
+24a4d71edcffcb5584a61d2aa89c66d8,2026-03-26T02:40:00Z,Los Angeles Clippers,Toronto Raptors,BetOnline.ag,Immanuel Quickley,player_rebounds,3.5,-120,-108.0
+24a4d71edcffcb5584a61d2aa89c66d8,2026-03-26T02:40:00Z,Los Angeles Clippers,Toronto Raptors,BetOnline.ag,Jakob Poeltl,player_rebounds,7.5,-141,108.0
+24a4d71edcffcb5584a61d2aa89c66d8,2026-03-26T02:40:00Z,Los Angeles Clippers,Toronto Raptors,BetOnline.ag,John Collins,player_rebounds,5.5,106,-137.0
+24a4d71edcffcb5584a61d2aa89c66d8,2026-03-26T02:40:00Z,Los Angeles Clippers,Toronto Raptors,BetOnline.ag,Kawhi Leonard,player_rebounds,6.5,106,-137.0
+24a4d71edcffcb5584a61d2aa89c66d8,2026-03-26T02:40:00Z,Los Angeles Clippers,Toronto Raptors,BetOnline.ag,R.J. Barrett,player_rebounds,5.5,-105,-123.0
+24a4d71edcffcb5584a61d2aa89c66d8,2026-03-26T02:40:00Z,Los Angeles Clippers,Toronto Raptors,BetOnline.ag,Scottie Barnes,player_rebounds,6.5,-123,-105.0
+24a4d71edcffcb5584a61d2aa89c66d8,2026-03-26T02:40:00Z,Los Angeles Clippers,Toronto Raptors,BetRivers,Bennedict Mathurin,player_rebounds,4.5,-124,-110.0
+24a4d71edcffcb5584a61d2aa89c66d8,2026-03-26T02:40:00Z,Los Angeles Clippers,Toronto Raptors,BetRivers,Brandon Ingram,player_rebounds,4.5,-150,110.0
+24a4d71edcffcb5584a61d2aa89c66d8,2026-03-26T02:40:00Z,Los Angeles Clippers,Toronto Raptors,BetRivers,Brook Lopez,player_rebounds,3.5,-165,120.0
+24a4d71edcffcb5584a61d2aa89c66d8,2026-03-26T02:40:00Z,Los Angeles Clippers,Toronto Raptors,BetRivers,Darius Garland,player_rebounds,2.5,-109,-124.0
+24a4d71edcffcb5584a61d2aa89c66d8,2026-03-26T02:40:00Z,Los Angeles Clippers,Toronto Raptors,BetRivers,Derrick Jones,player_rebounds,3.5,-114,-120.0
+24a4d71edcffcb5584a61d2aa89c66d8,2026-03-26T02:40:00Z,Los Angeles Clippers,Toronto Raptors,BetRivers,Immanuel Quickley,player_rebounds,3.5,-120,-114.0
+24a4d71edcffcb5584a61d2aa89c66d8,2026-03-26T02:40:00Z,Los Angeles Clippers,Toronto Raptors,BetRivers,Jakob Poeltl,player_rebounds,7.5,-143,107.0
+24a4d71edcffcb5584a61d2aa89c66d8,2026-03-26T02:40:00Z,Los Angeles Clippers,Toronto Raptors,BetRivers,John Collins,player_rebounds,5.5,-114,-120.0
+24a4d71edcffcb5584a61d2aa89c66d8,2026-03-26T02:40:00Z,Los Angeles Clippers,Toronto Raptors,BetRivers,Kawhi Leonard,player_rebounds,6.5,112,-152.0
+24a4d71edcffcb5584a61d2aa89c66d8,2026-03-26T02:40:00Z,Los Angeles Clippers,Toronto Raptors,BetRivers,R.J. Barrett,player_rebounds,5.5,-115,-117.0
+24a4d71edcffcb5584a61d2aa89c66d8,2026-03-26T02:40:00Z,Los Angeles Clippers,Toronto Raptors,BetRivers,Scottie Barnes,player_rebounds,6.5,-129,-106.0
+24a4d71edcffcb5584a61d2aa89c66d8,2026-03-26T02:40:00Z,Los Angeles Clippers,Toronto Raptors,Bovada,Bennedict Mathurin,player_rebounds,3.5,-260,190.0
+24a4d71edcffcb5584a61d2aa89c66d8,2026-03-26T02:40:00Z,Los Angeles Clippers,Toronto Raptors,Bovada,Bennedict Mathurin,player_rebounds,4.5,-125,-105.0
+24a4d71edcffcb5584a61d2aa89c66d8,2026-03-26T02:40:00Z,Los Angeles Clippers,Toronto Raptors,Bovada,Bennedict Mathurin,player_rebounds,5.5,150,-200.0
+24a4d71edcffcb5584a61d2aa89c66d8,2026-03-26T02:40:00Z,Los Angeles Clippers,Toronto Raptors,Bovada,Brandon Ingram,player_rebounds,3.5,-280,205.0
+24a4d71edcffcb5584a61d2aa89c66d8,2026-03-26T02:40:00Z,Los Angeles Clippers,Toronto Raptors,Bovada,Brandon Ingram,player_rebounds,4.5,-130,100.0
+24a4d71edcffcb5584a61d2aa89c66d8,2026-03-26T02:40:00Z,Los Angeles Clippers,Toronto Raptors,Bovada,Brandon Ingram,player_rebounds,5.5,145,-190.0
+24a4d71edcffcb5584a61d2aa89c66d8,2026-03-26T02:40:00Z,Los Angeles Clippers,Toronto Raptors,Bovada,Brook Lopez,player_rebounds,3.5,-170,130.0
+24a4d71edcffcb5584a61d2aa89c66d8,2026-03-26T02:40:00Z,Los Angeles Clippers,Toronto Raptors,Bovada,Brook Lopez,player_rebounds,4.5,120,-160.0
+24a4d71edcffcb5584a61d2aa89c66d8,2026-03-26T02:40:00Z,Los Angeles Clippers,Toronto Raptors,Bovada,Darius Garland,player_rebounds,1.5,-250,185.0
+24a4d71edcffcb5584a61d2aa89c66d8,2026-03-26T02:40:00Z,Los Angeles Clippers,Toronto Raptors,Bovada,Darius Garland,player_rebounds,2.5,115,-150.0
+24a4d71edcffcb5584a61d2aa89c66d8,2026-03-26T02:40:00Z,Los Angeles Clippers,Toronto Raptors,Bovada,Derrick Jones,player_rebounds,2.5,-220,165.0
+24a4d71edcffcb5584a61d2aa89c66d8,2026-03-26T02:40:00Z,Los Angeles Clippers,Toronto Raptors,Bovada,Derrick Jones,player_rebounds,3.5,105,-135.0
+24a4d71edcffcb5584a61d2aa89c66d8,2026-03-26T02:40:00Z,Los Angeles Clippers,Toronto Raptors,Bovada,Derrick Jones,player_rebounds,4.5,215,-300.0
+24a4d71edcffcb5584a61d2aa89c66d8,2026-03-26T02:40:00Z,Los Angeles Clippers,Toronto Raptors,Bovada,Immanuel Quickley,player_rebounds,2.5,-280,205.0
+24a4d71edcffcb5584a61d2aa89c66d8,2026-03-26T02:40:00Z,Los Angeles Clippers,Toronto Raptors,Bovada,Immanuel Quickley,player_rebounds,3.5,-120,-110.0
+24a4d71edcffcb5584a61d2aa89c66d8,2026-03-26T02:40:00Z,Los Angeles Clippers,Toronto Raptors,Bovada,Immanuel Quickley,player_rebounds,4.5,170,-230.0
+24a4d71edcffcb5584a61d2aa89c66d8,2026-03-26T02:40:00Z,Los Angeles Clippers,Toronto Raptors,Bovada,Jakob Poeltl,player_rebounds,6.5,-260,190.0
+24a4d71edcffcb5584a61d2aa89c66d8,2026-03-26T02:40:00Z,Los Angeles Clippers,Toronto Raptors,Bovada,Jakob Poeltl,player_rebounds,7.5,-145,110.0
+24a4d71edcffcb5584a61d2aa89c66d8,2026-03-26T02:40:00Z,Los Angeles Clippers,Toronto Raptors,Bovada,Jakob Poeltl,player_rebounds,8.5,115,-150.0
+24a4d71edcffcb5584a61d2aa89c66d8,2026-03-26T02:40:00Z,Los Angeles Clippers,Toronto Raptors,Bovada,Jakob Poeltl,player_rebounds,9.5,185,-250.0
+24a4d71edcffcb5584a61d2aa89c66d8,2026-03-26T02:40:00Z,Los Angeles Clippers,Toronto Raptors,Bovada,John Collins,player_rebounds,4.5,-190,145.0
+24a4d71edcffcb5584a61d2aa89c66d8,2026-03-26T02:40:00Z,Los Angeles Clippers,Toronto Raptors,Bovada,John Collins,player_rebounds,5.5,100,-130.0
+24a4d71edcffcb5584a61d2aa89c66d8,2026-03-26T02:40:00Z,Los Angeles Clippers,Toronto Raptors,Bovada,John Collins,player_rebounds,6.5,175,-240.0
+24a4d71edcffcb5584a61d2aa89c66d8,2026-03-26T02:40:00Z,Los Angeles Clippers,Toronto Raptors,Bovada,Kawhi Leonard,player_rebounds,5.5,-170,130.0
+24a4d71edcffcb5584a61d2aa89c66d8,2026-03-26T02:40:00Z,Los Angeles Clippers,Toronto Raptors,Bovada,Kawhi Leonard,player_rebounds,6.5,105,-135.0
+24a4d71edcffcb5584a61d2aa89c66d8,2026-03-26T02:40:00Z,Los Angeles Clippers,Toronto Raptors,Bovada,Kawhi Leonard,player_rebounds,7.5,180,-245.0
+24a4d71edcffcb5584a61d2aa89c66d8,2026-03-26T02:40:00Z,Los Angeles Clippers,Toronto Raptors,Bovada,R.J. Barrett,player_rebounds,4.5,-200,150.0
+24a4d71edcffcb5584a61d2aa89c66d8,2026-03-26T02:40:00Z,Los Angeles Clippers,Toronto Raptors,Bovada,R.J. Barrett,player_rebounds,5.5,-105,-125.0
+24a4d71edcffcb5584a61d2aa89c66d8,2026-03-26T02:40:00Z,Los Angeles Clippers,Toronto Raptors,Bovada,R.J. Barrett,player_rebounds,6.5,170,-230.0
+24a4d71edcffcb5584a61d2aa89c66d8,2026-03-26T02:40:00Z,Los Angeles Clippers,Toronto Raptors,Bovada,Scottie Barnes,player_rebounds,5.5,-230,170.0
+24a4d71edcffcb5584a61d2aa89c66d8,2026-03-26T02:40:00Z,Los Angeles Clippers,Toronto Raptors,Bovada,Scottie Barnes,player_rebounds,6.5,-125,-105.0
+24a4d71edcffcb5584a61d2aa89c66d8,2026-03-26T02:40:00Z,Los Angeles Clippers,Toronto Raptors,Bovada,Scottie Barnes,player_rebounds,7.5,140,-185.0
+24a4d71edcffcb5584a61d2aa89c66d8,2026-03-26T02:40:00Z,Los Angeles Clippers,Toronto Raptors,DraftKings,Bennedict Mathurin,player_rebounds,4.5,-123,-107.0
+24a4d71edcffcb5584a61d2aa89c66d8,2026-03-26T02:40:00Z,Los Angeles Clippers,Toronto Raptors,DraftKings,Brandon Ingram,player_rebounds,4.5,-130,-101.0
+24a4d71edcffcb5584a61d2aa89c66d8,2026-03-26T02:40:00Z,Los Angeles Clippers,Toronto Raptors,DraftKings,Brook Lopez,player_rebounds,4.5,122,-161.0
+24a4d71edcffcb5584a61d2aa89c66d8,2026-03-26T02:40:00Z,Los Angeles Clippers,Toronto Raptors,DraftKings,Darius Garland,player_rebounds,2.5,114,-151.0
+24a4d71edcffcb5584a61d2aa89c66d8,2026-03-26T02:40:00Z,Los Angeles Clippers,Toronto Raptors,DraftKings,Derrick Jones,player_rebounds,3.5,103,-135.0
+24a4d71edcffcb5584a61d2aa89c66d8,2026-03-26T02:40:00Z,Los Angeles Clippers,Toronto Raptors,DraftKings,Immanuel Quickley,player_rebounds,3.5,-118,-112.0
+24a4d71edcffcb5584a61d2aa89c66d8,2026-03-26T02:40:00Z,Los Angeles Clippers,Toronto Raptors,DraftKings,Jakob Poeltl,player_rebounds,7.5,-145,110.0
+24a4d71edcffcb5584a61d2aa89c66d8,2026-03-26T02:40:00Z,Los Angeles Clippers,Toronto Raptors,DraftKings,John Collins,player_rebounds,5.5,101,-133.0
+24a4d71edcffcb5584a61d2aa89c66d8,2026-03-26T02:40:00Z,Los Angeles Clippers,Toronto Raptors,DraftKings,Kawhi Leonard,player_rebounds,6.5,105,-138.0
+24a4d71edcffcb5584a61d2aa89c66d8,2026-03-26T02:40:00Z,Los Angeles Clippers,Toronto Raptors,DraftKings,R.J. Barrett,player_rebounds,5.5,-103,-128.0
+24a4d71edcffcb5584a61d2aa89c66d8,2026-03-26T02:40:00Z,Los Angeles Clippers,Toronto Raptors,DraftKings,Scottie Barnes,player_rebounds,6.5,-127,-104.0
+24a4d71edcffcb5584a61d2aa89c66d8,2026-03-26T02:40:00Z,Los Angeles Clippers,Toronto Raptors,FanDuel,Bennedict Mathurin,player_rebounds,4.5,-125,-106.0
+24a4d71edcffcb5584a61d2aa89c66d8,2026-03-26T02:40:00Z,Los Angeles Clippers,Toronto Raptors,FanDuel,Brandon Ingram,player_rebounds,4.5,-146,110.0
+24a4d71edcffcb5584a61d2aa89c66d8,2026-03-26T02:40:00Z,Los Angeles Clippers,Toronto Raptors,FanDuel,Brook Lopez,player_rebounds,3.5,-172,128.0
+24a4d71edcffcb5584a61d2aa89c66d8,2026-03-26T02:40:00Z,Los Angeles Clippers,Toronto Raptors,FanDuel,Derrick Jones,player_rebounds,3.5,-114,-114.0
+24a4d71edcffcb5584a61d2aa89c66d8,2026-03-26T02:40:00Z,Los Angeles Clippers,Toronto Raptors,FanDuel,Immanuel Quickley,player_rebounds,3.5,-114,-114.0
+24a4d71edcffcb5584a61d2aa89c66d8,2026-03-26T02:40:00Z,Los Angeles Clippers,Toronto Raptors,FanDuel,Jakob Poeltl,player_rebounds,7.5,-148,112.0
+24a4d71edcffcb5584a61d2aa89c66d8,2026-03-26T02:40:00Z,Los Angeles Clippers,Toronto Raptors,FanDuel,John Collins,player_rebounds,5.5,102,-136.0
+24a4d71edcffcb5584a61d2aa89c66d8,2026-03-26T02:40:00Z,Los Angeles Clippers,Toronto Raptors,FanDuel,Kawhi Leonard,player_rebounds,5.5,-158,118.0
+24a4d71edcffcb5584a61d2aa89c66d8,2026-03-26T02:40:00Z,Los Angeles Clippers,Toronto Raptors,FanDuel,R.J. Barrett,player_rebounds,5.5,-114,-114.0
+24a4d71edcffcb5584a61d2aa89c66d8,2026-03-26T02:40:00Z,Los Angeles Clippers,Toronto Raptors,FanDuel,Scottie Barnes,player_rebounds,6.5,-132,100.0
