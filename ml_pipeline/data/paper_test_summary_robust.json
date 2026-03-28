@@ -1,0 +1,457 @@
+{
+  "generated_at": "2026-03-28T23:03:13.591578+00:00",
+  "config": {
+    "min_edge": 0.06,
+    "max_plays": 20,
+    "exclude_tail_calibration": true,
+    "exclude_low_sample": true,
+    "exclude_extreme_edge": false
+  },
+  "counts": {
+    "raw_rows": 740,
+    "deduped_rows": 362,
+    "paper_card_rows": 20
+  },
+  "best_price_summary": {
+    "raw_rows": 740,
+    "deduped_rows": 362,
+    "multi_book_opinions": 149,
+    "avg_books_per_opinion": 2.0442,
+    "selected_bookmakers": {
+      "BetMGM": 24,
+      "BetOnline.ag": 9,
+      "BetRivers": 31,
+      "Bovada": 230,
+      "DraftKings": 34,
+      "FanDuel": 34
+    }
+  },
+  "raw_breakdowns": {
+    "by_prop_type": [
+      {
+        "prop_type": "points",
+        "count": 461,
+        "avg_edge": 0.0816,
+        "median_edge": 0.0706,
+        "max_edge": 0.3168
+      },
+      {
+        "prop_type": "rebounds",
+        "count": 279,
+        "avg_edge": 0.07,
+        "median_edge": 0.0568,
+        "max_edge": 0.2962
+      }
+    ],
+    "by_side": [
+      {
+        "best_side": "under",
+        "count": 563,
+        "avg_edge": 0.0877,
+        "median_edge": 0.0833,
+        "max_edge": 0.3168
+      },
+      {
+        "best_side": "over",
+        "count": 177,
+        "avg_edge": 0.044,
+        "median_edge": 0.0416,
+        "max_edge": 0.1443
+      }
+    ],
+    "by_edge_bucket": [
+      {
+        "edge_bucket": "<0.06",
+        "count": 341,
+        "avg_edge": 0.0324,
+        "median_edge": 0.0335,
+        "max_edge": 0.0598
+      },
+      {
+        "edge_bucket": "0.10-0.15",
+        "count": 177,
+        "avg_edge": 0.1225,
+        "median_edge": 0.121,
+        "max_edge": 0.1499
+      },
+      {
+        "edge_bucket": "0.06-0.10",
+        "count": 158,
+        "avg_edge": 0.0778,
+        "median_edge": 0.0739,
+        "max_edge": 0.0995
+      },
+      {
+        "edge_bucket": "0.15-0.20",
+        "count": 45,
+        "avg_edge": 0.1701,
+        "median_edge": 0.1656,
+        "max_edge": 0.1999
+      },
+      {
+        "edge_bucket": "0.20+",
+        "count": 19,
+        "avg_edge": 0.2354,
+        "median_edge": 0.2196,
+        "max_edge": 0.3168
+      }
+    ],
+    "by_line_bucket": [
+      {
+        "line_bucket": "10-14.5",
+        "count": 156,
+        "avg_edge": 0.1007,
+        "median_edge": 0.0974,
+        "max_edge": 0.3168
+      },
+      {
+        "line_bucket": "15-19.5",
+        "count": 140,
+        "avg_edge": 0.0878,
+        "median_edge": 0.0875,
+        "max_edge": 0.2498
+      },
+      {
+        "line_bucket": "4.5-6.5",
+        "count": 111,
+        "avg_edge": 0.0659,
+        "median_edge": 0.0525,
+        "max_edge": 0.2175
+      },
+      {
+        "line_bucket": "<4.5",
+        "count": 98,
+        "avg_edge": 0.0561,
+        "median_edge": 0.0507,
+        "max_edge": 0.2186
+      },
+      {
+        "line_bucket": "20-24.5",
+        "count": 79,
+        "avg_edge": 0.0472,
+        "median_edge": 0.0446,
+        "max_edge": 0.1443
+      },
+      {
+        "line_bucket": "<10",
+        "count": 66,
+        "avg_edge": 0.0766,
+        "median_edge": 0.0669,
+        "max_edge": 0.202
+      },
+      {
+        "line_bucket": "7-9.5",
+        "count": 59,
+        "avg_edge": 0.0976,
+        "median_edge": 0.0952,
+        "max_edge": 0.2962
+      },
+      {
+        "line_bucket": "25+",
+        "count": 20,
+        "avg_edge": 0.0416,
+        "median_edge": 0.0377,
+        "max_edge": 0.0796
+      },
+      {
+        "line_bucket": "10+",
+        "count": 11,
+        "avg_edge": 0.0857,
+        "median_edge": 0.0865,
+        "max_edge": 0.1364
+      }
+    ],
+    "by_role_bucket": [
+      {
+        "role_bucket": "24-32m",
+        "count": 351,
+        "avg_edge": 0.0745,
+        "median_edge": 0.0643,
+        "max_edge": 0.2549
+      },
+      {
+        "role_bucket": "32m+",
+        "count": 232,
+        "avg_edge": 0.0691,
+        "median_edge": 0.059,
+        "max_edge": 0.2962
+      },
+      {
+        "role_bucket": "12-24m",
+        "count": 157,
+        "avg_edge": 0.0952,
+        "median_edge": 0.0971,
+        "max_edge": 0.3168
+      }
+    ]
+  },
+  "deduped_breakdowns": {
+    "by_prop_type": [
+      {
+        "prop_type": "points",
+        "count": 244,
+        "avg_edge": 0.083,
+        "median_edge": 0.0696,
+        "max_edge": 0.3168
+      },
+      {
+        "prop_type": "rebounds",
+        "count": 118,
+        "avg_edge": 0.0775,
+        "median_edge": 0.0588,
+        "max_edge": 0.2962
+      }
+    ],
+    "by_side": [
+      {
+        "best_side": "under",
+        "count": 243,
+        "avg_edge": 0.0985,
+        "median_edge": 0.0898,
+        "max_edge": 0.3168
+      },
+      {
+        "best_side": "over",
+        "count": 119,
+        "avg_edge": 0.0459,
+        "median_edge": 0.0411,
+        "max_edge": 0.1443
+      }
+    ],
+    "by_edge_bucket": [
+      {
+        "edge_bucket": "<0.06",
+        "count": 165,
+        "avg_edge": 0.0314,
+        "median_edge": 0.0327,
+        "max_edge": 0.0598
+      },
+      {
+        "edge_bucket": "0.06-0.10",
+        "count": 77,
+        "avg_edge": 0.0769,
+        "median_edge": 0.0733,
+        "max_edge": 0.0995
+      },
+      {
+        "edge_bucket": "0.10-0.15",
+        "count": 69,
+        "avg_edge": 0.1218,
+        "median_edge": 0.1231,
+        "max_edge": 0.1499
+      },
+      {
+        "edge_bucket": "0.15-0.20",
+        "count": 32,
+        "avg_edge": 0.1695,
+        "median_edge": 0.1653,
+        "max_edge": 0.1946
+      },
+      {
+        "edge_bucket": "0.20+",
+        "count": 19,
+        "avg_edge": 0.2354,
+        "median_edge": 0.2196,
+        "max_edge": 0.3168
+      }
+    ],
+    "by_line_bucket": [
+      {
+        "line_bucket": "15-19.5",
+        "count": 80,
+        "avg_edge": 0.0816,
+        "median_edge": 0.0716,
+        "max_edge": 0.2498
+      },
+      {
+        "line_bucket": "10-14.5",
+        "count": 74,
+        "avg_edge": 0.1125,
+        "median_edge": 0.1041,
+        "max_edge": 0.3168
+      },
+      {
+        "line_bucket": "4.5-6.5",
+        "count": 48,
+        "avg_edge": 0.0697,
+        "median_edge": 0.0592,
+        "max_edge": 0.2175
+      },
+      {
+        "line_bucket": "20-24.5",
+        "count": 45,
+        "avg_edge": 0.0465,
+        "median_edge": 0.0376,
+        "max_edge": 0.1443
+      },
+      {
+        "line_bucket": "<4.5",
+        "count": 38,
+        "avg_edge": 0.0659,
+        "median_edge": 0.057,
+        "max_edge": 0.2186
+      },
+      {
+        "line_bucket": "<10",
+        "count": 33,
+        "avg_edge": 0.0837,
+        "median_edge": 0.0678,
+        "max_edge": 0.202
+      },
+      {
+        "line_bucket": "7-9.5",
+        "count": 27,
+        "avg_edge": 0.1079,
+        "median_edge": 0.1073,
+        "max_edge": 0.2962
+      },
+      {
+        "line_bucket": "25+",
+        "count": 12,
+        "avg_edge": 0.0454,
+        "median_edge": 0.0443,
+        "max_edge": 0.0796
+      },
+      {
+        "line_bucket": "10+",
+        "count": 5,
+        "avg_edge": 0.0757,
+        "median_edge": 0.0494,
+        "max_edge": 0.1364
+      }
+    ],
+    "by_role_bucket": [
+      {
+        "role_bucket": "24-32m",
+        "count": 173,
+        "avg_edge": 0.0784,
+        "median_edge": 0.0663,
+        "max_edge": 0.2549
+      },
+      {
+        "role_bucket": "32m+",
+        "count": 115,
+        "avg_edge": 0.0736,
+        "median_edge": 0.063,
+        "max_edge": 0.2962
+      },
+      {
+        "role_bucket": "12-24m",
+        "count": 74,
+        "avg_edge": 0.0997,
+        "median_edge": 0.0846,
+        "max_edge": 0.3168
+      }
+    ]
+  },
+  "paper_card_breakdowns": {
+    "by_prop_type": [
+      {
+        "prop_type": "points",
+        "count": 13,
+        "avg_edge": 0.2305,
+        "median_edge": 0.2196,
+        "max_edge": 0.3168
+      },
+      {
+        "prop_type": "rebounds",
+        "count": 7,
+        "avg_edge": 0.2388,
+        "median_edge": 0.2186,
+        "max_edge": 0.2962
+      }
+    ],
+    "by_side": [
+      {
+        "best_side": "under",
+        "count": 20,
+        "avg_edge": 0.2334,
+        "median_edge": 0.2191,
+        "max_edge": 0.3168
+      }
+    ],
+    "by_edge_bucket": [
+      {
+        "edge_bucket": "0.20+",
+        "count": 19,
+        "avg_edge": 0.2354,
+        "median_edge": 0.2196,
+        "max_edge": 0.3168
+      },
+      {
+        "edge_bucket": "0.15-0.20",
+        "count": 1,
+        "avg_edge": 0.1946,
+        "median_edge": 0.1946,
+        "max_edge": 0.1946
+      }
+    ],
+    "by_line_bucket": [
+      {
+        "line_bucket": "10-14.5",
+        "count": 8,
+        "avg_edge": 0.2399,
+        "median_edge": 0.2347,
+        "max_edge": 0.3168
+      },
+      {
+        "line_bucket": "15-19.5",
+        "count": 4,
+        "avg_edge": 0.2188,
+        "median_edge": 0.2117,
+        "max_edge": 0.2498
+      },
+      {
+        "line_bucket": "7-9.5",
+        "count": 4,
+        "avg_edge": 0.2557,
+        "median_edge": 0.2588,
+        "max_edge": 0.2962
+      },
+      {
+        "line_bucket": "4.5-6.5",
+        "count": 2,
+        "avg_edge": 0.2152,
+        "median_edge": 0.2152,
+        "max_edge": 0.2175
+      },
+      {
+        "line_bucket": "<10",
+        "count": 1,
+        "avg_edge": 0.202,
+        "median_edge": 0.202,
+        "max_edge": 0.202
+      },
+      {
+        "line_bucket": "<4.5",
+        "count": 1,
+        "avg_edge": 0.2186,
+        "median_edge": 0.2186,
+        "max_edge": 0.2186
+      }
+    ],
+    "by_role_bucket": [
+      {
+        "role_bucket": "12-24m",
+        "count": 9,
+        "avg_edge": 0.2405,
+        "median_edge": 0.2196,
+        "max_edge": 0.3168
+      },
+      {
+        "role_bucket": "24-32m",
+        "count": 7,
+        "avg_edge": 0.2197,
+        "median_edge": 0.213,
+        "max_edge": 0.2549
+      },
+      {
+        "role_bucket": "32m+",
+        "count": 4,
+        "avg_edge": 0.2414,
+        "median_edge": 0.2338,
+        "max_edge": 0.2962
+      }
+    ]
+  }
+}
